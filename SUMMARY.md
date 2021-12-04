@@ -1,9 +1,13 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Token](token.md)
 * [Team](team.md)
+* [Token](token.md)
 * [Our Code of Conduct](our-code-of-conduct.md)
+
+## Weekly Updates
+
+* [Week 1](weekly-updates/week-1.md)
 
 ## Connect
 
@@ -12,7 +16,3 @@
 * [Telegram](https://t.me/cobogosocial)
 * [Twitter](https://twitter.com/cobogosocial)
 * [Discord](https://discord.gg/p3xScxHz)
-
-## Weekly Updates
-
-* [Week 1](weekly-updates/week-1.md)
