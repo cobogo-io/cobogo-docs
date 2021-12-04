@@ -4,6 +4,7 @@
 * [Team](team.md)
 * [Token](token.md)
 * [Our Code of Conduct](our-code-of-conduct.md)
+* [How to Help](how-to-help.md)
 
 ## Weekly Updates
 
