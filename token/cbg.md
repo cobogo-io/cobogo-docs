@@ -11,7 +11,7 @@ description: CBG is the official token of cobogo
 **Total Supply:** 20,000,000
 
 {% hint style="info" %}
-The token is not listed and there is no sale yet.
+The token is not listed on any exchange yet.
 {% endhint %}
 
 ### Ethereum
