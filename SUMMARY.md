@@ -12,8 +12,8 @@
 
 ## Weekly Updates
 
-* [Week 1](weekly-updates/week-1.md)
-* [Week 2](weekly-updates/week-2.md)
+* [Week 1 - 12/11/2021](weekly-updates/week-1-12-11-2021.md)
+* [Week 2 - 04/12/2021](weekly-updates/week-2-04-12-2021.md)
 
 ## Connect
 
