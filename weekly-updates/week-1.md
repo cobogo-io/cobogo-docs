@@ -1,5 +1,5 @@
 ---
-description: Heres cobogo's first design update.
+description: Here's cobogo's first design update.
 ---
 
 # Week 1

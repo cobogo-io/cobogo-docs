@@ -13,6 +13,7 @@
 ## Weekly Updates
 
 * [Week 1](weekly-updates/week-1.md)
+* [Week 2](weekly-updates/week-2.md)
 
 ## Connect
 
