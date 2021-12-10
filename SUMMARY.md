@@ -12,14 +12,14 @@
 * [CBG](token/cbg.md)
 * [Tokenomics](token/tokenomics.md)
 
+## The Basics
+
+* [Blockchain Basics](the-basics/blockchain-basics.md)
+
 ## Weekly Updates
 
 * [Week 1 - 12/11/2021](weekly-updates/week-1-12-11-2021.md)
 * [Week 2 - 04/12/2021](weekly-updates/week-2-04-12-2021.md)
-
-## The Basics
-
-* [Blockchain Basics](the-basics/blockchain-basics.md)
 
 ## Connect
 

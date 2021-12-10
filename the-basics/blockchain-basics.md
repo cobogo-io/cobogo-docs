@@ -72,7 +72,13 @@ This fee is calculated in terms of ETH.&#x20;
 
 ### 8. What is a dApp?
 
+Dapps are short for Decentralized Applications and it refers to software applications built from Smart Contracts on decentralized networks such as Ethereum, but with an interface that allows users to interact with it.&#x20;
+
+They are different from regular apps because they don't have a private connection to centralized servers, which offers more transparency over how its backend works.
+
 ### 9. How can I buy and sell Crypto?
+
+
 
 ### 10. What is a Wallet?
 
