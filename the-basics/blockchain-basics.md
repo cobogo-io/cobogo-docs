@@ -17,12 +17,11 @@ If you're new to Blockchain, this is a great place to start. In this section, we
 9. [How can I buy and sell Crypto](blockchain-basics.md#9.-how-can-i-buy-and-sell-crypto)?
 10. [What is a Wallet](blockchain-basics.md#10.-what-is-a-wallet)?
 11. [What is DeFi](blockchain-basics.md#11.-what-is-defi)?
-12. [What is a Pool](blockchain-basics.md#12.-what-is-a-pool)?
-13. [What are NFTs](blockchain-basics.md#13.-what-are-nfts)?
-14. [What are Tokenomics](blockchain-basics.md#14.-what-are-tokenomics)?
-15. [What is Layer 2 (L2)](blockchain-basics.md#15.-what-is-layer-2-l2)?
-16. [What is Impermanent Loss](blockchain-basics.md#16.-what-is-impermanent-loss)?
-17. [What are Liquidity Pools (LP)](blockchain-basics.md#17.-what-are-liquidity-pools-lp)?
+12. [What is Staking?](blockchain-basics.md#18.-what-is-staking)
+13. [What is a Pool](blockchain-basics.md#12.-what-is-a-pool)?
+14. [What are NFTs](blockchain-basics.md#13.-what-are-nfts)?
+15. [What are Tokenomics](blockchain-basics.md#14.-what-are-tokenomics)?
+16. [What is Layer 2 (L2)](blockchain-basics.md#15.-what-is-layer-2-l2)?
 
 ### 1. What is Blockchain?
 
@@ -78,20 +77,58 @@ They are different from regular apps because they don't have a private connectio
 
 ### 9. How can I buy and sell Crypto?
 
+You can buy and sell crypto in two ways: using Decentralized Exchanges (DEXs) or using Centralized Exchanges (CEXs).&#x20;
 
+DEXs are [decentralized markets](blockchain-basics.md#3.-what-is-a-decentralized-market), and for that, they are not under the control of any company. However, they are more difficult to use because they require users to know how to safely store and protect their digital assets. Examples of DEXs are KLAYSwap, Uniswap, PancakeSwap and Sushiswap.
+
+CEXs are [centralized markets](blockchain-basics.md#4.-what-is-a-centralized-market), and usually are more user-friendly, since it comes with typical account features like recovering lost passwords. Examples of CEXs are Binance and Coinbase.
+
+Currently, you can only buy DEV tokens using decentralized markets. We recommend Uniswap, but make sure you are buying the [correct token](https://etherscan.io/address/0x91F5dC90979b058eBA3be6B7B7e523df7e84e137).
 
 ### 10. What is a Wallet?
 
+A Wallet is a software that holds cryptocurrencies by storing your Private Keys which are used in cooperation with the appropriate Public Keys.
+
+Private Keys are a large number, randomly-generated number with hundreds of digits, and although anyone can deposit crypto into an address, they can only be withdrawn from that address with the corresponding keys.
+
+Wallets allows us to access our cryptocurrencies with passwords or Key Phrases, without having to memorize the Private Keys. However, it is safer to have the Private Keys written down in a secure location, just in case.
+
+You can use a Cold Wallet, that is, a Wallet that is not connected to the internet, or Hot Wallet, which is connected. Wallets can also be divided into desktop, hardware, web and paper wallets.
+
 ### 11. What is DeFi?
 
-### 12. What is a Pool?
+DeFi is short for Decentralized Finance and it refers to the open financial products and services that provide an alternative to those offered by centralized institutions such as commercial banks, credit unions and insurance funds.
 
-### 13. What are NFTs?
+DeFi offers faster, cheaper, and more flexible ways of borrowing, lending and trading assets, without the restrictions imposed by centralized institutions.
 
-### 14. What are Tokenomics?
+The services offered in DeFi are typically accessed using [dApps](blockchain-basics.md#8.-what-is-a-dapp), that are built decentralized protocols.
 
-### 15. What is Layer 2 (L2)?
+### 12. What is Staking?
 
-### 16. What is Impermanent Loss?
+Staking refers to the process of blocking your funds in a secure [Smart Contract](blockchain-basics.md#6.-what-are-smart-contracts) in order to benefit the network, and be rewarded in return. The "rewards" accrued can be thought as the interest that accumulates over time on the blocked funds.&#x20;
 
-### 17. What are Liquidity Pools (LP)?
+Staking using the DEV Tokens means that Patrons are depositing the DEV Tokens in a smart contract of the respective Creator the patron wants to sustainably fund. By doing that both the Patron and the Creator get rewarded with DEV Tokens.
+
+### 13. What is a Pool?
+
+A Staking Pool is a [Smart Contract](blockchain-basics.md#6.-what-are-smart-contracts) where stakeholders deposit their tokens in order to generate rewards. They allow people to make passive income with predictable and frequent staking rewards.
+
+Specifically, Staking Poos allow users to combine their resources in order to increase their chances of earning rewards, and for that, the rewards are split among the many participants of the pool. These rewards are typically estimated and expressed in APY (Annual Percentage Yield).
+
+In Cobogo, Patrons can stake their DEV tokens on a YouTube Creator's pool, and both Patron and Creator get the rewards, in a 49%/51% split.
+
+### 14. What are NFTs?
+
+A NFT, or Non-Fungible Token, is a type of token that can't be divided into smaller sections unlike most coins. They represent ownership of unique digital assets on the blockchain, and are vastly used by artist, who can now distribute their work and be paid in full with little or no involvement from middlemen.
+
+### 15. What are Tokenomics?
+
+Tokenomics concerns the monetary policy that a project has to create for its currency, and that includes the distribution and issuance of a token, how these will affect the price of the token in the future, how changes to the model can be enacted at a later date, and more
+
+This process is usually developed before the token is released and tweaked over time.&#x20;
+
+### 16. What is Layer 2 (L2)?
+
+Layer 2 refers to a secondary framework built on top of the Ethereum blockchain. It is mostly used to solve the transaction speed and scaling difficulties faced by the Ethereum Mainnet.
+
+There are currently multiple Layer 2 solutions. In cobogo, we use Arbitrum, which is built by Offchain Labs, that is lower in cost while still maintaining high security standards and Ethereum compatibility.
