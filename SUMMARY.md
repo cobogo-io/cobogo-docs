@@ -1,12 +1,12 @@
 # Table of contents
 
-## Introduction
+## Project
 
-* [cobogo social](README.md)
-* [Team](introduction/team.md)
-* [dApp Preview](introduction/dapp-preview.md)
-* [Code of Conduct](introduction/code-of-conduct.md)
-* [Support our Project](introduction/support-our-project.md)
+* [Introduction](README.md)
+* [Team](project/team.md)
+* [dApp Preview](project/dapp-preview.md)
+* [Code of Conduct](project/code-of-conduct.md)
+* [Support our Project](project/support-our-project.md)
 
 ## Token
 
