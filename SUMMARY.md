@@ -4,17 +4,18 @@
 
 * [cobogo social](README.md)
 * [Team](introduction/team.md)
-* [Our Code of Conduct](introduction/our-code-of-conduct.md)
-* [How to Help](introduction/how-to-help.md)
+* [dApp Preview](introduction/dapp-preview.md)
+* [Code of Conduct](introduction/code-of-conduct.md)
+* [Support our Project](introduction/support-our-project.md)
 
 ## Token
 
 * [CBG](token/cbg.md)
 * [Tokenomics](token/tokenomics.md)
 
-## The Basics
+## Guides
 
-* [Blockchain Basics](the-basics/blockchain-basics.md)
+* [Blockchain Basics](guides/blockchain-basics.md)
 
 ## Weekly Updates
 
