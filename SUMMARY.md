@@ -3,7 +3,7 @@
 ## Project
 
 * [Introduction](README.md)
-* [Team](project/team.md)
+* [Team](introduction/team.md)
 * [dApp Preview](project/dapp-preview.md)
 * [Code of Conduct](project/code-of-conduct.md)
 * [Support our Project](project/support-our-project.md)
@@ -15,7 +15,8 @@
 
 ## Guides
 
-* [Blockchain Basics](guides/blockchain-basics.md)
+* [Blockchain Basics](the-basics/blockchain-basics.md)
+* [Using Arbitrum](guides/using-arbitrum.md)
 
 ## Weekly Updates
 
