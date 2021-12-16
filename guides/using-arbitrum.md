@@ -21,7 +21,7 @@ If you haven't used Arbitrum before, please read this section thoroughly before 
 
 ### 1. What is Arbitrum?
 
-Arbitrum bridge is a layer-2 Ethereum scaling solution, with low cost smart contracts that is able to maintain high-security standards, built by Offchain Labs, a world-class team of researchers, engineers, and Ethereum enthusiasts. It does so by facilitating transactions through off-chain means before bundling and submitting them as a single transaction to the base layer.
+Arbitrum is a layer-2 Ethereum scaling solution, with low cost smart contracts that is able to maintain high-security standards, built by Offchain Labs, a world-class team of researchers, engineers, and Ethereum enthusiasts. It does so by facilitating transactions through off-chain means before bundling and submitting them as a single transaction to the base layer.
 
 In sum, Arbitrum has its trustless security guaranteed by the Ethereum network; it has Ethereum Compatibility, allowing for easy deployment of Solidity and Vyper smart contracts; it solves Ethereum’s scalability issues, moving contracts’ computation and storage off the main chain, which allows for a higher throughput; and it is cost-effective, minimizing transactions costs.
 
@@ -55,27 +55,37 @@ To transfer your DEV tokens to Arbitrum One, you will have to use the DEV specif
 4. Go to the L2 Bridge tab.
 5. Enter the amount of WDEV you want to transfer and press the Convert button.
 
+{% hint style="info" %}
+Moving your DEV Tokens between layers is usually more costly in terms of gas fees than [buying directly from L2](using-arbitrum.md#5.-how-do-i-buy-dev-tokens-directly-on-arbitrum).&#x20;
+{% endhint %}
+
 ### 5. How do I buy DEV Tokens directly on Arbitrum?
 
-There are currently two ways to buy DEV on Arbitrum.&#x20;
+In order to buy DEV Tokens directly on Arbitrum, there are two steps you need to do: first you need to move ETH into L2, and then you can buy DEV.&#x20;
 
-In the future, Binance plans on opening withdrawals to Arbitrum 2, so there will be another way for people who have funds on Centralized Exchanges.
+#### Step 1
 
-#### Option 1
-
-You can buy DEV Token directly from Arbitrum **if you already have funds in it**.&#x20;
-
-You can do so by going to the direct link of Dev on [Uniswap Arbitrum](https://app.uniswap.org/#/swap?outputCurrency=0x91F5dC90979b058eBA3be6B7B7e523df7e84e137), or manually, using Dev's contract address: 0x91F5dC90979b058eBA3be6B7B7e523df7e84e137 ([Arbiscan](https://arbiscan.io/address/0x91F5dC90979b058eBA3be6B7B7e523df7e84e137)).
-
-#### **Option 2**
-
-**If you don't have funds in it,** you will have to move some ETH into Arbitrum, using the Arbitrum bridge ([https://bridge.arbitrum.io](https://bridge.arbitrum.io)). **** You can view Arbitrum's tutorial [here](https://arbitrum.io/bridge-tutorial/), or follow the steps next:
+First of all, you will have to move some ETH into Arbitrum, using the Arbitrum bridge ([https://bridge.arbitrum.io](https://bridge.arbitrum.io)). **** You can view Arbitrum's tutorial [here](https://arbitrum.io/bridge-tutorial/), or follow the steps next:
 
 1. While connected to the Ethereum Mainnet, login to the [bridge](https://bridge.arbitrum.io) with your MetaMask wallet.
 2. Select the token you want to bridge (ETH) in the token drop-down menu.
 3. Enter the amount of ETH you want to bridge and press "deposit".&#x20;
 4. Your funds will arrive in Arbitrum in about 10 minutes.
-5. After your funds are in Arbitrum, you can follow the steps described in [Option 1.](using-arbitrum.md#option-1)
+5. After your funds are in Arbitrum, you can follow the steps described in Step 2.
+
+#### Step 2
+
+You can now buy DEV Token directly from Arbitrum.&#x20;
+
+You can do so by going to the direct link of Dev on [Uniswap Arbitrum](https://app.uniswap.org/#/swap?outputCurrency=0x91F5dC90979b058eBA3be6B7B7e523df7e84e137), or manually, using Dev's contract address: 0x91F5dC90979b058eBA3be6B7B7e523df7e84e137 ([Arbiscan](https://arbiscan.io/address/0x91F5dC90979b058eBA3be6B7B7e523df7e84e137)).
+
+{% hint style="info" %}
+In the future, Binance plans on opening withdrawals to Arbitrum 2, so there will be another way for people who have funds on Centralized Exchanges.
+{% endhint %}
+
+#### **Option 2**
+
+**If you don't have funds in it,** you will have to move some ETH into Arbitrum, using the Arbitrum bridge ([https://bridge.arbitrum.io](https://bridge.arbitrum.io)). **** You can view Arbitrum's tutorial [here](https://arbitrum.io/bridge-tutorial/), or follow the steps next:
 
 ### 6. Can I withdraw my DEV Tokens from Arbitrum to the Ethereum Mainnet?
 
