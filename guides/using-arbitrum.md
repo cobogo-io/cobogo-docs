@@ -83,10 +83,6 @@ You can do so by going to the direct link of Dev on [Uniswap Arbitrum](https://a
 In the future, Binance plans on opening withdrawals to Arbitrum 2, so there will be another way for people who have funds on Centralized Exchanges.
 {% endhint %}
 
-#### **Option 2**
-
-**If you don't have funds in it,** you will have to move some ETH into Arbitrum, using the Arbitrum bridge ([https://bridge.arbitrum.io](https://bridge.arbitrum.io)). **** You can view Arbitrum's tutorial [here](https://arbitrum.io/bridge-tutorial/), or follow the steps next:
-
 ### 6. Can I withdraw my DEV Tokens from Arbitrum to the Ethereum Mainnet?
 
 You withdraw DEV Tokens and any other tokens back to the Ethereum Mainnet by clicking in the arrow in the middle of the page and selecting the token in the drop-down menu.&#x20;
