@@ -26,7 +26,7 @@
 ## Connect
 
 * [Website](https://cobogo.social)
-* [Github](https://github.com/cobogo-social/cobogo.social)
+* [Github](https://github.com/cobogo-social)
 * [Telegram](https://t.me/cobogosocial)
 * [Twitter](https://twitter.com/cobogosocial)
 * [Discord](https://discord.gg/p3xScxHz)
