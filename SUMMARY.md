@@ -8,6 +8,14 @@
 * [Code of Conduct](project/code-of-conduct.md)
 * [Support our Project](project/support-our-project.md)
 
+## DAO
+
+* [Introduction](dao/introduction.md)
+* [Governance](dao/governance.md)
+* [Constitution](dao/constitution.md)
+* [The Foundation](dao/the-foundation.md)
+* [Service Provider](dao/service-provider.md)
+
 ## Token
 
 * [CBG](token/cbg.md)
