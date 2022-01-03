@@ -28,10 +28,10 @@ For more information see [this article](https://www.ogier.com/publications/the-f
 
 ### The cobogoDAO Foundation
 
-The cobogoDAO Foundation will be a Foundation Company Limited by Guarantee, incorporated in the Cayman Islands. Foundation companies are nonprofits; The ENS Foundation has no shareholders and cannot pay out dividends to its directors or members. For more details on how foundations work, see [this article](https://www.careyolsen.com/briefings/overview-cayman-islands-foundation-companies).
+The cobogoDAO Foundation will be a Foundation Company Limited by Guarantee, incorporated in the Cayman Islands. Foundation companies are nonprofits; The cobogoDAO Foundation has no shareholders and cannot pay out dividends to its directors or members. For more details on how foundations work, see [this article](https://www.careyolsen.com/briefings/overview-cayman-islands-foundation-companies).
 
 {% hint style="warning" %}
-The Foundation will be incorporated after the investment seed round.
+The Foundation will be incorporated in the future.
 {% endhint %}
 
 _The content of this page was based on_ [_ENS Documentation_](https://docs.ens.domains)_._
