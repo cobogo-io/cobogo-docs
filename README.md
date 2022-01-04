@@ -30,15 +30,3 @@ Creators will also be able to offer special perks to those Patrons who stake on 
 In addition, Cobogo makes it possible for small and niche YouTube Creators to monetize their work by their own community, without having to wait for the 1,000 subscribers count, or being "ad friendly".&#x20;
 
 #### We believe Cobogo can be more than a market for YouTubers, but instead, that Youtube can be a tool for all kinds of Creators looking to connect themselves and their communities through this method of monetization.
-
-## Dev Protocol
-
-[Dev Protocol](https://docs.devprotocol.xyz/en/introduction/) is a Japanese project that allows Creators to monetize their work in a sustainable way.&#x20;
-
-They do this currently in their [stakes.social](https://stakes.social) dApp, where Open Source Software (OSS) Creators can apply their projects through the onboarding process, get their project authenticated, have their Social Tokens minted, and finally have their Staking Pool deployed, where Patrons can stake DEV Tokens on, similarly to Cobogo.
-
-By staking, both Creators and Patrons receive a yield in the form of inflationary rewards. Stakers can also hold governance rights over Dev Protocol, and for that, can have a voice in deciding tokenomics or proposing new ideas.&#x20;
-
-This is all possible due to the token being inflationary, which means that every year 3.15% new DEV tokens are minted and allocated to Creators and Stakers, in a 51:49 split.
-
-With Dev Protocol many more markets can arise, empowering communities and capturing the value of the Creator Economy.
