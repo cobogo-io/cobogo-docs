@@ -11,4 +11,3 @@ With Coinvise Creators and Communites can create social tokens, airdrop them, cr
 
 For cobogo we see the Quest system being really important for our goals. The CBG tokens will start off as Social Tokens and we want to involve the community as much as possible in building the platform.&#x20;
 
-## How it works
