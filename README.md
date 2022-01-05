@@ -1,7 +1,8 @@
 ---
 description: >-
-  Cobogo Social is a dApp that leverages the Dev Protocol Ecosystem to monetize
-  YouTube Creators in a sustainable way.
+  Cobogo Social is a dApp that leverages web3 to monetize Content Creators in a
+  sustainable way while maximizing their growth and community building
+  abilities.
 ---
 
 # Introduction
