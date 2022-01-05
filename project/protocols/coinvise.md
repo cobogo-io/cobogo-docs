@@ -1,6 +1,6 @@
 # Coinvise
 
-## What is Coinvise
+## What is Coinvise and how it helps cobogo
 
 From their own [docs](https://coinvise.notion.site/About-5fb7ccf93bbe4257bde71a5be73537be) :
 
