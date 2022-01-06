@@ -17,7 +17,7 @@ In the particular case we are addressing with Cobogo Social, YouTube Creators ca
 
 ## Cobogo&#x20;
 
-[Cobogo](https://cobogo.social) uses Dev Protocol to monetize YouTube Creators, through Social Tokens, that are based on Decentralized Finance (DeFi) mechanisms.&#x20;
+[Cobogo](https://cobogo.social) uses Dev Protocol to monetize Content Creators, through Social Tokens, that are based on Decentralized Finance (DeFi) mechanisms.&#x20;
 
 It works as follows:
 
