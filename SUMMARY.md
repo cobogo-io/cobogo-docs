@@ -22,7 +22,8 @@
 ## Token
 
 * [CBG](token/cbg.md)
-* [Tokenomics](token/tokenomics.md)
+* [Tokenomics](token/tokenomics/README.md)
+  * [Social Tokens](token/tokenomics/social-tokens.md)
 
 ## Guides
 
