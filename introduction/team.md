@@ -10,10 +10,6 @@ Rafael is a 'hacker of life', yogi, digital entrepreneur, software developer, an
 
 [Website](https://rafael.adm.br)
 
-### Jeferson Inacio
-
-Jeferson is full stack developer, responsible for developing the cobogo dApp.
-
 ### Mikael Carrara
 
 Mikael is an UI/UX designer with skills in front-end and mobile development.
