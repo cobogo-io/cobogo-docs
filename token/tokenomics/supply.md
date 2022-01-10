@@ -2,11 +2,11 @@
 
 The Cobogo Token (CBG) is an utility token that exists to add incentives to Patrons and Creators who are willing to use the cobogo social dApp, either by having their own Creator’s pool or by staking in other Creators’ pools. The Cobogo Token will be used for capturing fees and for governance, which will allow holders to vote for upgrades. The token will be allocated in rounds into public and private sales, founders, seed, treasury, strategic YouTubers, airdrops and bounties, as follows:
 
-![](../../.gitbook/assets/supply.PNG)
+![](../../.gitbook/assets/Supply.png)
 
 The term "Community" refers to all of the CBG tokens that will be open for community members to aquire. Here's how this 40% (20,000,000 CBGs) will be distributed among bounties, airdrops, liquidity mining, liquidity, as well as the public sale:
 
-![](../../.gitbook/assets/community.png)
+![](<../../.gitbook/assets/Community Supply.png>)
 
 We'll explain now what each term is about. Check the Table of Contents for quick access.
 
