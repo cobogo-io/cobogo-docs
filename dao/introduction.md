@@ -4,7 +4,7 @@ description: The cobogoDAO is a DAO that governs the cobogo social dApp.
 
 # Introduction
 
-cobogoDAO is a DAO (Decentralized Autonomous Organization) that aims to support content creators and develop the creator economy. It is an open platform for proposals that are voted upon by [CBG](../token/cbg.md) token holders.
+cobogoDAO is a DAO (Decentralized Autonomous Organization) that aims to support content creators and develop the creator economy. It is an open platform for proposals that are voted upon by [CBG](../token/cbg/) token holders.
 
 Possible proposals include:
 

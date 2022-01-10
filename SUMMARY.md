@@ -21,9 +21,10 @@
 
 ## Token
 
-* [CBG](token/cbg.md)
+* [CBG](token/cbg/README.md)
+  * [Social Tokens](token/cbg/social-tokens.md)
 * [Tokenomics](token/tokenomics.md)
-  * [Social Tokens](token/tokenomics/social-tokens.md)
+  * [Supply](token/tokenomics/supply.md)
 
 ## Guides
 

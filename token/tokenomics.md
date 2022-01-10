@@ -1,3 +1,3 @@
 # Tokenomics
 
-At this moment, we are still deliberating on how to maximize the utility of CBG in our Ecosystem.
+In the next articles, we will articulate our vision for the CBG token, detailing the supply, distribution, bounties, liquidity mining and treasury aspects of it.
