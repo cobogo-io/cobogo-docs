@@ -25,6 +25,7 @@
   * [Social Tokens](token/cbg/social-tokens.md)
 * [Tokenomics](token/tokenomics.md)
   * [Supply](token/tokenomics/supply.md)
+  * [Bounties](token/tokenomics/bounties.md)
 
 ## Guides
 
