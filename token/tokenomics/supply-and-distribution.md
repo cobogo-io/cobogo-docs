@@ -1,4 +1,4 @@
-# Supply
+# Supply and Distribution
 
 The Cobogo Token (CBG) is an utility token that exists to add incentives to Patrons and Creators who are willing to use the cobogo social dApp, either by having their own Creator’s pool or by staking in other Creators’ pools. The Cobogo Token will be used for capturing fees and for governance, which will allow holders to vote for upgrades. The token will be allocated in rounds into public and private sales, founders, seed, treasury, strategic YouTubers, airdrops and bounties, as follows:
 
@@ -12,18 +12,18 @@ We'll explain now what each term is about. Check the Table of Contents for quick
 
 #### Table of Contents
 
-1. Circulating Supply
-2. Treasury
-3. Founders/Team
-4. Seed
-5. Private Sale
-6. Strategic Creators
-7. Community
-   * Public Sale
-   * Liquidity Mining
-   * Bounties
-   * Liquidity
-   * Airdrops
+1. [Circulating Supply](supply-and-distribution.md#circulating-supply)
+2. [Treasury](supply-and-distribution.md#treasury-20)
+3. [Founders/Team](supply-and-distribution.md#founders-team-18)
+4. [Seed](supply-and-distribution.md#seed-10)
+5. [Private Sale](supply-and-distribution.md#private-sale-10)
+6. [Strategic Creators](supply-and-distribution.md#strategic-creators-2)
+7. [Community](supply-and-distribution.md#community-40)
+   * [Public Sale](supply-and-distribution.md#public-sale-16)
+   * [Liquidity Mining](supply-and-distribution.md#liquidity-mining-12)
+   * [Bounties](supply-and-distribution.md#bounties-8)
+   * [Liquidity](supply-and-distribution.md#liquidity-2)
+   * [Airdrops](supply-and-distribution.md#airdrops-2)
 
 ### Circulating Supply
 
@@ -33,7 +33,9 @@ The current circulating supply is 20,000,000, with a maximum total supply of 50,
 
 ### Treasury (20%)
 
-Exactly 10,000,000 CBG tokens will be held in a smart contract, composing the Cobogo Treasury. The community will decide strategically what to do with the Treasury in the [cobogo DAO](broken-reference) by vote, including partnerships, liquidity programs, and more.
+20% of the supply of the CBG token will be held by the DAO Treasury. This treasury will keep expanding, as long as new Content Creators onboard the platform. 5% of the Social Tokens minted when Creators onboard cobogo will go to the DAO Treasury.&#x20;
+
+The community will decide strategically what to do with the Treasury in the [cobogo DAO](broken-reference) by vote, including partnerships, liquidity programs, and more.
 
 This amount will remain locked for the first 12 months.
 
@@ -43,7 +45,7 @@ The Cobogo team and founders will receive a total of 9,000,000 CBG tokens. Howev
 
 ![](<../../.gitbook/assets/founders time.PNG>)
 
-It is worth noting that there will be an internal policy to determine whether a team member should get an amount of CBGs, that will specially consider the time working in the team.
+It is worth noting that there will be an internal policy to determine whether a team member should get an amount of CBG, that will specially consider the time working in the team.
 
 ### Seed (10%)
 
@@ -71,17 +73,17 @@ This is scheduled to happen in January 2023, and the token will be at a price of
 
 #### Liquidity Mining (12%)
 
-6,000,000 CBG tokens will be designed to those who provide liquidity to CBG, in a liquidity program. The more liquidity someone provides, and for longer, the greater share of the CBG pool they will receive.
+6,000,000 CBG tokens will be distributed to those who provide liquidity to CBG, in a liquidity program. The more liquidity someone provides, and for longer, the greater share of the CBG pool they will receive.
 
 #### Bounties (8%)
 
 The amount of 4,000,000 CBG tokens will be directed towards bounties, which refer to the rewards YouTuber Creators who invite other Creators can earn.&#x20;
 
-This distribution will happen over 3 phases. In the first one, which will happen in March 2022, 2.5% tokens, equivalent to 1,250,000 CBGs will be assigned. In this first phase, each invited Creator will get 100 CBGs, while the one who referred to cobogo will get 50 CBGs.&#x20;
+This distribution will happen over 3 phases. In the first one, which will happen in March 2022, 2.5% tokens, equivalent to 1,250,000 CBG will be assigned. In this first phase, each invited Creator will get 100 CBG, while the one who referred to cobogo will get 50 CBG.&#x20;
 
-Followed by phase 2, in June 2022, 1.5% (750,000 CBGs) will be distributed, except that this time, the invited Creator will get 50 CBGs and the one who referred, 25 CBGs.&#x20;
+Followed by phase 2, in June 2022, 1.5% (750,000 CBGs) will be distributed, except that this time, the invited Creator will get 50 CBG and the one who referred, 25 CBG.&#x20;
 
-In phase 3, happening in September 2022, 1.0% (500,000 CBGs) of CBGs will be assigned, being 25 for invited Creator and 10 for the Creator who invited them. All of the tokens will be locked for a year.
+In phase 3, happening in September 2022, 1.0% (500,000 CBG) of CBG tokens will be assigned, being 25 for invited Creator and 10 for the Creator who invited them. All of the tokens will be locked for a year.
 
 #### Liquidity (2%)
 

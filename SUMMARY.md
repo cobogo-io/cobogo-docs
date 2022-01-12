@@ -22,10 +22,18 @@
 ## Token
 
 * [CBG](token/cbg/README.md)
-  * [Social Tokens](token/cbg/social-tokens.md)
+  * [Governance](token/cbg/governance.md)
+  * [Platform Fee](token/cbg/platform-fee.md)
+  * [Social Tokens in our Treasury](token/cbg/social-tokens-in-our-treasury.md)
 * [Tokenomics](token/tokenomics.md)
-  * [Supply](token/tokenomics/supply.md)
+  * [Supply and Distribution](token/tokenomics/supply-and-distribution.md)
   * [Bounties](token/tokenomics/bounties.md)
+  * [Liquidity Mining](token/tokenomics/liquidity-mining.md)
+  * [Treasury](token/tokenomics/treasury.md)
+
+## Investment/Funding
+
+* [Rounds](investment-funding/rounds.md)
 
 ## Guides
 
