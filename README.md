@@ -13,7 +13,7 @@ We know how difficult it is for Creators of all kinds to make a living out of th
 
 With Web 3.0, Creators can take their work to a next level, truly owning it. The integration with cryptoeconomy grants them the possibility of building an economy around their projects and community, maximizing their value.
 
-In the particular case we are addressing with Cobogo Social, YouTube Creators can finally have the freedom to produce any content they want, without having to rely on a centralized control institution overwatching them, only in their own community.
+In the particular case we are addressing with Cobogo Social, Content Creators can finally have the freedom to produce any content they want, without having to rely on a centralized control institution overwatching them, only in their own community.
 
 ## Cobogo&#x20;
 
