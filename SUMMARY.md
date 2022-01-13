@@ -21,7 +21,7 @@
   * [Supply and Distribution](token/tokenomics/supply-and-distribution.md)
   * [Bounties](token/tokenomics/bounties.md)
   * [Liquidity Mining](token/tokenomics/liquidity-mining.md)
-  * [Treasury](token/tokenomics/treasury.md)
+  * [DAO Treasury](token/tokenomics/dao-treasury.md)
 
 ## DAO
 
