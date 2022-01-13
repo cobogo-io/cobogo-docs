@@ -12,9 +12,20 @@ Dev Protocol, through stakes.social, allows the monetization of OSS projects usi
 
 There are currently over 1,600 OSS projects onboarded, and over $600,000 staked in DEV tokens.
 
-Here's a [guide](https://docs.devprotocol.xyz/en/stakes-social/how-to-buy/) on how to buy DEV tokens and [how to stake](https://docs.devprotocol.xyz/en/stakes-social/how-to-stake/) on a project.&#x20;
+### Stake on us
 
-Stake on us on the [Ethereum Mainnet](https://stakes.social/0x2De96256231e5540A5A292Fb0EBF65651Eff0dAf) or on [Arbitrum](https://stakes.social/0xfb049b86Da8D2F4e335eF2281537f5dddbE77393). If you're new to using Arbitrum, we recommend reading our [guide](../guides/using-arbitrum.md#1.-what-is-arbitrum) first.&#x20;
+Here's a guide on [how to buy DEV tokens](https://docs.devprotocol.xyz/en/stakes-social/how-to-buy/) and [how to stake](https://docs.devprotocol.xyz/en/stakes-social/how-to-stake/) on a project.&#x20;
 
+#### Ethereum
 
+[-> Our Pool on Ethereum Mainnet](https://stakes.social/0x2De96256231e5540A5A292Fb0EBF65651Eff0dAf)
 
+#### Arbitrum
+
+If you're new to using Arbitrum, we recommend reading our [guide](../guides/using-arbitrum.md#1.-what-is-arbitrum) first.&#x20;
+
+[-> Our pool on Arbitrum](https://stakes.social/0xfb049b86Da8D2F4e335eF2281537f5dddbE77393).
+
+#### Polygon
+
+[-> Our pool on Polygon](https://stakes.social/polygon/0x3fcC82C13054EDdb02aF75e3882A9b58130A1a30)
