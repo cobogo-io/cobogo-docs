@@ -79,11 +79,11 @@ This is scheduled to happen in January 2023, and the token will be at a price of
 
 The amount of 8,000,000 CBG tokens will be directed towards bounties, which refer to the rewards YouTuber Creators who invite other Creators can earn.&#x20;
 
-This distribution will happen over 3 phases. In the first one, which will happen in March 2022, 2.5% tokens, equivalent to 2,500,000 CBG will be assigned. In this first phase, each invited Creator will get 100 CBG, while the one who referred to cobogo will get 50 CBG.&#x20;
+This distribution will happen over 3 phases. In the first one, which will happen in March 2022, 2.5% tokens, equivalent to 2,500,000 CBG will be assigned. In this first phase, each invited Creator will get 200 CBG, while the one who referred to cobogo will get 100 CBG.&#x20;
 
-Followed by phase 2, in June 2022, 1.5% (1,500,000 CBGs) will be distributed, except that this time, the invited Creator will get 50 CBG and the one who referred, 25 CBG.&#x20;
+Followed by phase 2, in June 2022, 1.5% (1,500,000 CBGs) will be distributed, except that this time, the invited Creator will get 100 CBG and the one who referred, 50 CBG.&#x20;
 
-In phase 3, happening in September 2022, 1.0% (1,000,000 CBG) of CBG tokens will be assigned, being 25 for invited Creator and 10 for the Creator who invited them. All of the tokens will be locked for a year.
+In phase 3, happening in September 2022, 1.0% (1,000,000 CBG) of CBG tokens will be assigned, being 50 for the invited Creator and 20 for the Creator who invited them. All of the tokens will be locked for a year.
 
 In addition, 3% of CBG, equivalent to 3,000,000 CBG, will be destined to Quests, and will be distributed among those community members who complete them. More details about these Quests will be defined in the future.
 
