@@ -33,7 +33,7 @@ The current circulating supply is 30,000,000, with a maximum total supply of 100
 
 ### Treasury (20%)
 
-20% of the supply of the CBG token will be held by the DAO Treasury. This treasury will keep expanding, as long as new Content Creators onboard the platform. 5% of the Social Tokens minted when Creators onboard cobogo will go to the DAO Treasury.&#x20;
+20% of the supply of the CBG token will be held by the [DAO Treasury](dao-treasury.md). This treasury will keep expanding, as long as new Content Creators onboard the platform. 5% of the Social Tokens minted when Creators onboard cobogo will go to the DAO Treasury.&#x20;
 
 The community will decide strategically what to do with the Treasury in the [cobogo DAO](broken-reference) by vote, including partnerships, liquidity programs, and more.
 
