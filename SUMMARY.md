@@ -45,6 +45,7 @@
 * [Week 1 - 12/11/2021](weekly-updates/week-1-12-11-2021.md)
 * [Week 2 - 04/12/2021](weekly-updates/week-2-04-12-2021.md)
 * [Week 3 - 07/01/2022](weekly-updates/week-3-07-01-2022.md)
+* [Week 4 - 20/01/2022](weekly-updates/week-4-20-01-2022.md)
 
 ## Connect
 
