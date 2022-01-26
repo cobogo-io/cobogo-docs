@@ -7,6 +7,7 @@
   * [Coinvise](project/protocols/coinvise.md)
   * [Dev Protocol](project/protocols/dev-protocol.md)
   * [Drips Network](project/protocols/drips-network.md)
+  * [Unlock Protocol + MintGate](project/protocols/unlock-protocol-+-mintgate.md)
 * [Team](introduction/team.md)
 * [dApp Preview](project/dapp-preview.md)
 * [Code of Conduct](project/code-of-conduct.md)
