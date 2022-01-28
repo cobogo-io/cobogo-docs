@@ -10,7 +10,9 @@ In the example below, the first three Patrons choose Content Creator A to suppor
 
 The same goes for Content Creator B. If Patrons 4 and 5 decide to stake for a year, this Creator will have a total value locked of $500, which means he will get $200 in rewards per year, with a 40% APY.
 
-![](../../.gitbook/assets/tokenomics.png)
+![](../../.gitbook/assets/platform-fee-distribution-flow.png)
+
+
 
 Out of the total value locked, which in this example means $2,700, cobogo will capture 5%. This indicates that cobogo will have a revenue of $135 a year, implying a cutback to 35% in Creator's APY. In this example, Creator A and B would then get $770 and $175 in rewards, respectively.
 
