@@ -1,5 +1,15 @@
 # Drips Network
 
+**Potential integration is still being deliberated**
+
+Currently we're working on a reward distributing design that would work like this:
+
+![Quick mockup, our designer will make it look good, don't worry ;)](../../.gitbook/assets/image6.png)
+
+As soon as we have the idea more clear we'll update the page.
+
+**Drips quickly explained**
+
 cobogo found that the Drips system is a great fit for our vision of community building and alternative ways of funding Creators. Here is how it is described in their docs:
 
 1 - A creator or developer chooses a funding goal and minimum supporter contribution and then creates a Community using the Drips web app at drips.radicle.network. Behind the scenes, the new Community is deployed to the Ethereum blockchain as an ERC-721 contract, which is 100% owned and controlled by the creator.
