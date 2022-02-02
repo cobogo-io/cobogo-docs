@@ -1,8 +1,12 @@
 # Table of contents
 
+## Overview
+
+* [What is cobogo?](README.md)
+
 ## Project
 
-* [Introduction](README.md)
+* [Introduction](<README (1).md>)
 * [Protocols](project/protocols/README.md)
   * [Coinvise](project/protocols/coinvise.md)
   * [Dev Protocol](project/protocols/dev-protocol.md)

@@ -1,33 +1,12 @@
----
-description: >-
-  Cobogo Social is a dApp that leverages web3 to monetize Content Creators in a
-  sustainable way while maximizing their growth and community building
-  abilities.
----
+# What is cobogo?
 
-# Introduction
+cobogo is an aggregator of protocols that has the goal of funding Content Creators sustainably through their own community. It is a dApp that leverages Web 3.0 to monetize Creators while maximizing their growth and community building abilities.
 
-## The Creator Economy
+It works by allowing Creators to mint their own Social Tokens and Staking Pool, where Patrons can stake on it. After that, both Creators and Patrons get rewards in the form of a yield, in a 49%/51% split.
 
-We know how difficult it is for Creators of all kinds to make a living out of their creations. Although Web 2.0 has allowed an easily accessible monetization for the masses, some people still struggle with this combination of "decentralized delivery and centralized control".&#x20;
+All Creators have to do after minting their pool is let their community know about this opportunity, and how it is a win-win situation. They can also offer Perks to those staking from them, which can from receiving the Creator’s Social Tokens, getting access to a private discord, private content and even being able to vote for the next videos' type of content. The possibilities are endless.
 
-With Web 3.0, Creators can take their work to a next level, truly owning it. The integration with cryptoeconomy grants them the possibility of building an economy around their projects and community, maximizing their value.
+We intend to keep growing, introducing more monetization methods and finding new ways to give rewards and benefits for Creators and Patrons. If you have any proposals, please contact us at our e-mail (hi@cobogo.social) or at our [Telegram](https://t.me/cobogosocial) group.
 
-In the particular case we are addressing with Cobogo Social, Content Creators can finally have the freedom to produce any content they want, without having to rely on a centralized control institution overwatching them, only in their own community.
 
-## Cobogo&#x20;
 
-[Cobogo](https://cobogo.social) uses Dev Protocol to monetize Content Creators, through Social Tokens, that are based on Decentralized Finance (DeFi) mechanisms.&#x20;
-
-It works as follows:
-
-1. Creators submit their channel to be reviewed;
-2. Once approved, the Creators can mint their own Tokens and Staking Pool;
-3. With the Staking Pool in place, Patrons can stake DEV Tokens on it;
-4. Both Creator and Patron start getting the rewards accrued.
-
-Creators will also be able to offer special perks to those Patrons who stake on them, such as the Creator's Social Tokens, access to a private discord, special content and many more.
-
-In addition, Cobogo makes it possible for small and niche YouTube Creators to monetize their work by their own community, without having to wait for the 1,000 subscribers count, or being "ad friendly".&#x20;
-
-#### We believe Cobogo can be more than a market for YouTubers, but instead, that Youtube can be a tool for all kinds of Creators looking to connect themselves and their communities through this method of monetization.
