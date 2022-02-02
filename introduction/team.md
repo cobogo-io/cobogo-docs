@@ -19,3 +19,7 @@ Mikael is an UI/UX designer with skills in front-end and mobile development.
 ### Isabela Reis
 
 Isabela is a PhD student in Social Psychology, responsible for creating content, as well as the cobogo’s team relationship with the community.
+
+### Thiago&#x20;
+
+Thiago is a full stack developer focused on the JavaScript ecosystem and web applications development, seeking to be constantly evolving his knowledge within the subject, focusing on modern technologies for web2, and studying web3 technologies.
