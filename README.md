@@ -6,7 +6,11 @@ It works by allowing Creators to mint their own Social Tokens and Staking Pool, 
 
 All Creators have to do after minting their pool is let their community know about this opportunity, and how it is a win-win situation. They can also offer Perks to those staking from them, which can from receiving the Creator’s Social Tokens, getting access to a private discord, private content and even being able to vote for the next videos' type of content. The possibilities are endless.
 
-We intend to keep growing, introducing more monetization methods and finding new ways to give rewards and benefits for Creators and Patrons. If you have any proposals, please contact us at our e-mail (hi@cobogo.social) or at our [Telegram](https://t.me/cobogosocial) group.
+We intend to keep growing, introducing more monetization methods and finding new ways to give rewards and benefits for Creators and Patrons.&#x20;
+
+If you have any proposals, please contact us at our e-mail (hi@cobogo.social) or at our [Telegram](https://t.me/cobogosocial) group.
+
+
 
 
 
