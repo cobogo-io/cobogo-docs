@@ -3,6 +3,7 @@
 ## Overview
 
 * [What is cobogo?](README.md)
+* [Getting Started](overview/getting-started.md)
 
 ## Project
 
