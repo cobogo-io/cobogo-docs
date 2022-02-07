@@ -16,7 +16,11 @@
 * [Team](introduction/team.md)
 * [dApp Preview](project/dapp-preview.md)
 * [Code of Conduct](project/code-of-conduct.md)
-* [Support our Project](project/support-our-project.md)
+
+## Investment/Funding
+
+* [Rounds](investment-funding/rounds.md)
+* [Support our Project](investment-funding/support-our-project.md)
 
 ## Token
 
@@ -37,10 +41,6 @@
 * [Constitution](dao/constitution.md)
 * [The Foundation](dao/the-foundation.md)
 * [Service Provider](dao/service-provider.md)
-
-## Investment/Funding
-
-* [Rounds](investment-funding/rounds.md)
 
 ## Guides
 
