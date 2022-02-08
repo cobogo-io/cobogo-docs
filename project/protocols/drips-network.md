@@ -1,14 +1,16 @@
 # Drips Network
 
-**Potential integration is still being deliberated**
+**This potential integration is still being deliberated**
 
 We have envisioned a reward distributing design that leverages Drips Network to fund Content Creators in the cobogo ecosystem directly by their own community members and indirectly - funding the top 10 creators - by funding cobogo itself. The proposed system could work like this:
 
 #### Indirect funding mechanism
 
-![](<../../.gitbook/assets/Quest sytem (6).png>)
+![](<../../.gitbook/assets/Quest sytem (8).png>)
 
-As soon as we have the idea more clear we'll update the page.
+The indirect funding mechanism is based on Patron that wants to fund Content Creators listed on cobogo and in reward they receive membership NFT that will allow them to get access to gated content.
+
+
 
 **Drips quickly explained**
 
