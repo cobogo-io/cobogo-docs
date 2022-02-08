@@ -8,7 +8,7 @@ We have envisioned a reward distributing design that leverages Drips Network to 
 
 ![](<../../.gitbook/assets/Quest sytem (8).png>)
 
-The indirect funding mechanism is based on Patron that wants to fund Content Creators listed on cobogo and in reward they receive membership NFT that will allow them to get access to gated content.
+The indirect funding mechanism is based on Patron that wants to fund Content Creators listed on cobogo and in reward they receive membership NFT that will allow them to get access to perks across the dapp - for example, [Unlock + Mintgate](unlock-protocol-+-mintgate.md) to provide gated content as perks.
 
 
 
