@@ -2,9 +2,9 @@
 
 Here is a screenshot of the cobogo dApp, where all YouTube channels will be listed.
 
-![](../.gitbook/assets/14-Channels.png)
+![](<../.gitbook/assets/Profile v2.png>)
 
 After choosing a channel, the user will be able to stake.
 
-![](../.gitbook/assets/15-Profile.png)
+![](<../.gitbook/assets/Profile v2 (1).png>)
 
