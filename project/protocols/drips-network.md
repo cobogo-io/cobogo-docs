@@ -2,7 +2,7 @@
 
 **Potential integration is still being deliberated**
 
-Currently we're working on a reward distributing design that would work like this:
+We have envisioned a reward distributing design that leverages Drips Network to fund Content Creators in the cobogo ecosystem directly by their own community members and indirectly - funding the top 10 creators - by funding cobogo itself. The proposed system could work like this:
 
 ![Quick mockup, our designer will make it look good, don't worry ;)](../../.gitbook/assets/image6.png)
 
