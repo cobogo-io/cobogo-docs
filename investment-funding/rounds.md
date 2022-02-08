@@ -8,7 +8,7 @@ In the first round, we will be selling 20 Utility NFTs to community members or i
 
 This round will occur with the goal of raising funds to start the deployment of the YouTube market for our dApp, and that includes the development costs.
 
-We will buy back all the NFTs at double the initial price, once the second round ends (Seed Round), for those who wish to sell them.&#x20;
+Those who own the NFTs will be able to buy CBG tokens at the price of the Seed Round, or as an alternative, we will buy them back at double the initial price once the second round ends.
 
 The utility embedded in the NFTs will still be defined.
 
