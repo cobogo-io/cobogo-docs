@@ -1,18 +1,30 @@
 # Drips Network
 
-**This potential integration is still being deliberated**
+### **This potential integration is still being deliberated**
 
 We have envisioned a reward distributing design that leverages Drips Network to fund Content Creators in the cobogo ecosystem directly by their own community members and indirectly - funding the top 10 creators - by funding cobogo itself. The proposed system could work like this:
 
-#### Indirect funding mechanism
+### Indirect funding mechanism
 
 ![](<../../.gitbook/assets/Quest sytem (8).png>)
 
 The indirect funding mechanism is based on Patron that wants to fund Content Creators listed on cobogo and in reward they receive membership NFT that will allow them to get access to perks across the dapp - for example, [Unlock + Mintgate](unlock-protocol-+-mintgate.md) to provide gated content as perks.
 
+The distribution of every donation will be split 95-5 to fit in the same scheme used on the [platform fee](../../token/cbg/platform-fee.md) distribution. For every 100 Dai donated, 95 Dai will be dripped to the top 10 Creators ranked by total amount of CBG staked at the time **and** who are dripping at least 5% of their [direct](drips-network.md#direct-funding-mechanism) Drips to cobogo.eth **** . The remaining 5% held by cobogo will also be distributed: 1.5 Dai will go to the cobogo DAO treasury and 3.5 Dai will go to the CBG (ERC-721) holders (by the amount of CBG staked).
 
+### Direct funding mechanism
 
-**Drips quickly explained**
+![](../../.gitbook/assets/image.png)
+
+The direct funding mechanism should be really similar to the [indirect one](drips-network.md#indirect-funding-mechanism), but, instead of donating to cobogo, each patron could donate to his favorite Content Creator directly through their pages on cobogo and in return they would get an exclusive membership NFT that would give them access to perks, like gated content, exclusive to that specific Creator.
+
+The creator should be able to distribute his drips however he wants it. This system is a great way to reward individuals contributing and working for the content creator, so for example, a video editor could receive an allocation of 20% of every donation.&#x20;
+
+{% hint style="info" %}
+If a Creator wants to receive indirect funding via the Drips Network mechanism, they will have to drip at least 5% of their donations to cobogo.eth as well.&#x20;
+{% endhint %}
+
+### **Drips quickly explained**
 
 cobogo found that the Drips system is a great fit for our vision of community building and alternative ways of funding Creators. Here is how it is described in their docs:
 
