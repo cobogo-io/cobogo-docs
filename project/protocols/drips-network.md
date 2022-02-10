@@ -10,7 +10,7 @@ We have envisioned a reward distributing design that leverages Drips Network to 
 
 The indirect funding mechanism is based on Patron that wants to fund Content Creators listed on cobogo and in reward they receive membership NFT that will allow them to get access to perks across the dapp - for example, [Unlock + Mintgate](unlock-protocol-+-mintgate.md) to provide gated content as perks.
 
-The distribution of every donation will be split 95-5 to fit in the same scheme used on the [platform fee](../../token/cbg/platform-fee.md) distribution. For every 100 Dai donated, 95 Dai will be dripped to the top 10 Creators ranked by total amount of CBG staked at the time **and** who are dripping at least 5% of their [direct](drips-network.md#direct-funding-mechanism) Drips to cobogo.eth **** . The remaining 5% held by cobogo will also be distributed: 1.5 Dai will go to the cobogo DAO treasury and 3.5 Dai will go to the CBG (ERC-721) holders (by the amount of CBG staked).
+The distribution of every donation will be split 95-5 to fit in the same scheme used on the [platform fee](../../token/cbg/platform-fee.md) distribution. For every 100 Dai donated, 95 Dai will be dripped to the top 10 most active Creators ranked by participation on bounties/quests, gated content, social token use **and** who are dripping at least 5% of their [direct](drips-network.md#direct-funding-mechanism) Drips to cobogo.eth **** . The remaining 5% held by cobogo will also be distributed: 1.5 Dai will go to the cobogo DAO treasury and 3.5 Dai will go to the CBG (ERC-721) holders (by the amount of CBG staked).
 
 ### Direct funding mechanism
 
