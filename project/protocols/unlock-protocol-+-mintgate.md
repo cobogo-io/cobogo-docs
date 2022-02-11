@@ -20,6 +20,8 @@ This feature will be useful not only for exclusive YouTube videos, but also for 
 
 ### Why is cobogo the best fit for this solution?
 
+![temporary explanation of the proposed mechanism, cobogo's designer will illustrate this in a clean way later.](<../../.gitbook/assets/Quest sytem (13).png>)
+
 cobogo allows YouTubers to mint a staking pool and Social Tokens at the same time they onboard the platform.&#x20;
 
 This means that a myriad of Content Creators and their fans will be using the Unlock + MintGate solution to access exclusive videos and have early access to content. In addition, the Social Tokens minted by cobogo are a perfect key to unlock this content, while CBG is the perfect master key to unlock all content in the cobogo ecosystem.
