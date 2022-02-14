@@ -20,6 +20,7 @@
 ## Investment/Funding
 
 * [Rounds](investment-funding/rounds.md)
+* [Pre-Seed](investment-funding/pre-seed.md)
 * [Support our Project](investment-funding/support-our-project.md)
 
 ## Token
