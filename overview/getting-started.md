@@ -12,7 +12,7 @@ First, you will have to submit your channel for analysis by connecting to your Y
 
 Eventually, we want to support Creators from other platforms, but initially, the wait list will be intended for YouTube Content Creators.
 
-![](<../../.gitbook/assets/2-Submit a channel - 01 (1).png>)
+![](<../.gitbook/assets/2-Submit a channel - 01 (1).png>)
 
 ### Creating a Profile
 
@@ -22,7 +22,7 @@ In addition, you will have to choose a handle for your profile, and the categori
 
 After that, hit 'send to review'. Don't worry, you'll be able to change these options later if you want to.
 
-![](<../../.gitbook/assets/3-Submit a channel - 02 (1).png>)
+![](<../.gitbook/assets/3-Submit a channel - 02 (1).png>)
 
 ### Channel Analysis
 
@@ -30,7 +30,7 @@ Subsequently, your channel will enter a 48-hour period analysis, where the team 
 
 We don't want to be an over-watching corporation that limits content that is not ad-friendly, but some common sense will be needed.&#x20;
 
-![](<../../.gitbook/assets/4-Submit a channel - 03.png>)
+![](<../.gitbook/assets/4-Submit a channel - 03.png>)
 
 After that, you will be notified via the email registered on your YouTube account if your channel was accepted or not (and why not).&#x20;
 

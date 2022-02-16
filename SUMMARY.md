@@ -3,7 +3,7 @@
 ## Overview
 
 * [What is cobogo?](README.md)
-* [Getting Started](overview/getting-started/README.md)
+* [Getting Started](overview/getting-started.md)
   * [Referral Program](overview/getting-started/referral-program.md)
 
 ## Project
