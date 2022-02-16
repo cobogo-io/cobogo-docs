@@ -22,4 +22,4 @@ As an alternative, for those who don't wish to buy CBG on sale and have access t
 
 The buyback will be at double the initial price and will happen once the Private Sale ends.
 
-All of this means that buying the NFC will be beneficial for both cobogo and the holder, either if the holder chooses to buy CBG or sell their NFT.
+All of this means that buying the NFT will be beneficial for both cobogo and the holder, either if the holder chooses to buy CBG or sell their NFT.
