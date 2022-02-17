@@ -12,6 +12,8 @@ Those who own the NFTs will be able to buy CBG tokens at the price of the Seed R
 
 The utility embedded in the NFTs will still be defined.
 
+Read more about it [here](pre-seed.md).
+
 ### Second Round - Seed Round
 
 After that, in the second round, called Seed, the amount of 10,000,000, equivalent to 10% of the total supply, will be offered to a maximum of five external investors, at the price of $0.08.&#x20;
