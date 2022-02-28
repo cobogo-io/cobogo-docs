@@ -5,6 +5,7 @@
 * [What is cobogo?](README.md)
 * [Getting Started](overview/getting-started.md)
   * [Referral Program](overview/getting-started/referral-program.md)
+* [Platfor Preview](overview/platfor-preview.md)
 
 ## Project
 
@@ -15,7 +16,6 @@
   * [Drips Network](project/protocols/drips-network.md)
   * [Unlock Protocol + MintGate](project/protocols/unlock-protocol-+-mintgate.md)
 * [Team](introduction/team.md)
-* [dApp Preview](project/dapp-preview.md)
 * [Code of Conduct](project/code-of-conduct.md)
 
 ## Investment/Funding
