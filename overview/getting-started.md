@@ -24,6 +24,16 @@ After that, hit 'send to review'. Don't worry, you'll be able to change these op
 
 ![](../.gitbook/assets/3.PNG)
 
+### Inviting your friends
+
+After submitting your channel, you can also invite your friends to join the wait list. The more friends complete the onboarding process, more CBG you and them can earn.&#x20;
+
+Read more about the Referral Program here.
+
+If you don't want to invite your friends, click on "next step".
+
+![](<../.gitbook/assets/5 (1).PNG>)
+
 ### Channel Analysis
 
 Subsequently, your channel will enter a 48-hour period analysis, where the team will verify if your channel follows our rules and it doesn't have offensive content.&#x20;

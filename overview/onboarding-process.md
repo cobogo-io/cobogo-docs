@@ -1,4 +1,4 @@
-# Platfor Preview
+# Platform Preview
 
 Here are the mockups of our Platform, which will be launched soon.
 
