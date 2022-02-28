@@ -5,7 +5,7 @@
 * [What is cobogo?](README.md)
 * [Getting Started](overview/getting-started.md)
   * [Referral Program](overview/getting-started/referral-program.md)
-* [Onboarding Process](overview/onboarding-process.md)
+* [Platform Preview](overview/platform-preview.md)
 
 ## Project
 
