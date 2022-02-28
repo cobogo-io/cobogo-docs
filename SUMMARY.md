@@ -5,7 +5,7 @@
 * [What is cobogo?](README.md)
 * [Getting Started](overview/getting-started.md)
   * [Referral Program](overview/getting-started/referral-program.md)
-* [Platfor Preview](overview/platfor-preview.md)
+* [Platfor Preview](project/dapp-preview.md)
 
 ## Project
 
