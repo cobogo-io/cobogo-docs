@@ -4,7 +4,7 @@ description: This is the team that is currently working on the cobogo dApp.
 
 # Team
 
-### Pedro Alves - CEO
+### Pedro Alves (P.) - CEO
 
 Pedro is a multilingual economist, finishing a master's degree related to DeFi. He has been involved with crypto since 2017, and has experience with integrations. He has worked as a blockchain researcher in the Social Tokens field for over a year.
 
