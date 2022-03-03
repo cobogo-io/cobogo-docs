@@ -4,25 +4,25 @@
 
 * [What is cobogo?](README.md)
 * [Getting Started](overview/getting-started.md)
-  * [Referral Program](overview/getting-started/referral-program.md)
-* [Platform Preview](overview/onboarding-process.md)
-
-## Project
-
-* [Introduction](<README (1).md>)
-* [Protocols](project/protocols/README.md)
-  * [Coinvise](project/protocols/coinvise.md)
-  * [Dev Protocol](project/protocols/dev-protocol.md)
-  * [Drips Network](project/protocols/drips-network.md)
-  * [Unlock Protocol + MintGate](project/protocols/unlock-protocol-+-mintgate.md)
-* [Team](introduction/team.md)
-* [Code of Conduct](project/code-of-conduct.md)
+* [Referral Program](overview/referral-program.md)
 
 ## Investment/Funding
 
 * [Pre-Seed](investment-funding/pre-seed.md)
 * [Future Rounds](investment-funding/future-rounds.md)
 * [Support our Project](investment-funding/support-our-project.md)
+
+## Platform
+
+* [Introduction](platform/introduction.md)
+* [Protocols](platform/protocols/README.md)
+  * [Coinvise](platform/protocols/coinvise.md)
+  * [Dev Protocol](platform/protocols/dev-protocol.md)
+  * [Drips Network](platform/protocols/drips-network.md)
+  * [Unlock Protocol + MintGate](platform/protocols/unlock-protocol-+-mintgate.md)
+* [Platform Preview](platform/platform-preview.md)
+* [Team](platform/team.md)
+* [Code of Conduct](platform/code-of-conduct.md)
 
 ## Token
 
