@@ -5,6 +5,7 @@
 * [What is cobogo?](README.md)
 * [Getting Started](overview/getting-started.md)
 * [Referral Program](overview/referral-program.md)
+* [Platform Preview](overview/platform-preview.md)
 
 ## Investment/Funding
 
@@ -20,7 +21,6 @@
   * [Dev Protocol](platform/protocols/dev-protocol.md)
   * [Drips Network](platform/protocols/drips-network.md)
   * [Unlock Protocol + MintGate](platform/protocols/unlock-protocol-+-mintgate.md)
-* [Platform Preview](platform/platform-preview.md)
 * [Team](platform/team.md)
 * [Code of Conduct](platform/code-of-conduct.md)
 
