@@ -18,4 +18,4 @@ Out of the total value locked, which in this example means $2,700, cobogo will c
 
 Regarding the $135 that would go to cobogo, we have defined that 30% ($40.50) of this will go to the cobogo DAO treasury, and 70% ($94.50) to active token holders.
 
-This $94.50 will then be distributed as described in our [Tokenomics](../tokenomics/supply-and-distribution.md).&#x20;
+This $94.50 will then be distributed as described in our [Tokenomics](../tokenomics/supply-and-distribution/).&#x20;
