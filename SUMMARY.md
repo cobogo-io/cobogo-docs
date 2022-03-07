@@ -51,15 +51,17 @@
 
 ## Weekly Updates
 
-* [Week 1 - 12/11/2021](weekly-updates/week-1-12-11-2021.md)
-* [Week 2 - 04/12/2021](weekly-updates/week-2-04-12-2021.md)
-* [Week 3 - 07/01/2022](weekly-updates/week-3-07-01-2022.md)
-* [Week 4 - 20/01/2022](weekly-updates/week-4-20-01-2022.md)
-* [Week 5 - 28/01/2022](weekly-updates/week-5-28-01-2022.md)
-* [Week 6 - 04/02/2022](weekly-updates/week-6-04-02-2022.md)
-* [Week 7 - 11/02/2022](weekly-updates/week-7-11-02-2022.md)
-* [Week 8 - 18/02/2022](weekly-updates/week-8-18-02-2022.md)
-* [Week 9 - 25/02/2022](weekly-updates/week-9-25-02-2022.md)
+* [Weeks 1-10](weekly-updates/weeks-1-10/README.md)
+  * [Week 1 - 12/11/2021](weekly-updates/weeks-1-10/week-1-12-11-2021.md)
+  * [Week 2 - 04/12/2021](weekly-updates/weeks-1-10/week-2-04-12-2021.md)
+  * [Week 3 - 07/01/2022](weekly-updates/weeks-1-10/week-3-07-01-2022.md)
+  * [Week 4 - 20/01/2022](weekly-updates/weeks-1-10/week-4-20-01-2022.md)
+  * [Week 5 - 28/01/2022](weekly-updates/weeks-1-10/week-5-28-01-2022.md)
+  * [Week 6 - 04/02/2022](weekly-updates/weeks-1-10/week-6-04-02-2022.md)
+  * [Week 7 - 11/02/2022](weekly-updates/weeks-1-10/week-7-11-02-2022.md)
+  * [Week 8 - 18/02/2022](weekly-updates/weeks-1-10/week-8-18-02-2022.md)
+  * [Week 9 - 25/02/2022](weekly-updates/weeks-1-10/week-9-25-02-2022.md)
+  * [Week 10 - 04/03/2022](weekly-updates/weeks-1-10/week-10-04-03-2022.md)
 
 ## Connect
 
