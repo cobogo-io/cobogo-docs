@@ -32,7 +32,7 @@
   * [Social Tokens in our Treasury](token/cbg/social-tokens-in-our-treasury.md)
 * [Tokenomics](token/tokenomics.md)
   * [Supply and Distribution](token/tokenomics/supply-and-distribution/README.md)
-    * [Token Emission and APY](token/tokenomics/supply-and-distribution/token-emission-and-apy.md)
+    * [Token Emission](token/tokenomics/supply-and-distribution/token-emission.md)
   * [Bounties](token/tokenomics/bounties.md)
   * [Liquidity Mining](token/tokenomics/liquidity-mining.md)
   * [DAO Treasury](token/tokenomics/dao-treasury.md)

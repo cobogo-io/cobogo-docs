@@ -14,7 +14,7 @@ The distribution of every donation will be split 95-5 to fit in the same scheme 
 
 ### Direct funding mechanism
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (5).png>)
 
 The direct funding mechanism should be really similar to the [indirect one](drips-network.md#indirect-funding-mechanism), but, instead of donating to cobogo, each patron could donate to his favorite Content Creator directly through their pages on cobogo and in return they would get an exclusive membership NFT that would give them access to perks, like gated content, exclusive to that specific Creator.
 

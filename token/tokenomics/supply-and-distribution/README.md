@@ -33,7 +33,7 @@ We'll explain now what each term is about. Check the Table of Contents for quick
 
 The circulating supply will start at zero, and progressively increase as the vesting period ends for each specific investor, as discriminated in the next sessions.  All the token allocations will enter the market asynchronously over 48 months, and some of them will be locked in for a year before doing so.
 
-The maximum total supply will start at 100,000,000 CBG, and it can slowly increase every year as described in [this section](token-emission-and-apy.md).
+The maximum total supply will start at 100,000,000 CBG, and it can slowly increase every year as described in [this section](token-emission.md).
 
 ![](<../../../.gitbook/assets/supply (1).PNG>)
 
