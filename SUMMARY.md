@@ -36,6 +36,7 @@
   * [Bounties](token/tokenomics/bounties.md)
   * [Liquidity Mining](token/tokenomics/liquidity-mining.md)
   * [DAO Treasury](token/tokenomics/dao-treasury.md)
+  * [Rewards](token/tokenomics/rewards.md)
 
 ## DAO
 
