@@ -21,3 +21,8 @@ Let's say that the Patron stakes the sufficient amount of CBG tokens that the Mo
 ![](../../.gitbook/assets/1.png)
 
 So in this game, both strategies cobogo staking:cobogo staking and Donation:Donation are Nash Equilibria. But, when the Patron deviates his strategy to cobogo staking he has a better payoff, making it the **dominant**, **optimal**, **strategy**.
+
+### 2. Rewards detailed
+
+The rewards are inversely proportional to the staking ratio, that is, the lower the amount of CBG staked in relation to the total CBG circulating supply, the higher the Reward is, and vice-versa.
+
