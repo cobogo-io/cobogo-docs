@@ -16,7 +16,7 @@ Suppose there are 2 players, one is the Creator and the other is the Patron. The
 
 Now consider that a Creator has his project pool on cobogo and only accepts CBG. In this case, the potential Patron who either did not afford to be altruistic or did not get the sufficient satisfaction from being altruistic to justify a donation might get the incentive to fund that project.
 
-Let's say that the Patron stakes the sufficient amount of [DEV](https://www.coingecko.com/en/coins/dev-protocol) tokens that the Monthly Yield equals $100. In this case he gets both the **+$100** from the staking rewards AND the **+$100** from the satisfaction of donating for his favorite project.
+Let's say that the Patron stakes the sufficient amount of CBG tokens that the Monthly Yield equals $100. In this case he gets both the **+$100** from the staking rewards AND the **+$100** from the satisfaction of donating for his favorite project.
 
 ![](../../.gitbook/assets/1.png)
 
