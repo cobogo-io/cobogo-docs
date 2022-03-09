@@ -22,7 +22,7 @@ Let's say that the Patron stakes the sufficient amount of CBG tokens that the Mo
 
 ![](../../.gitbook/assets/1.png)
 
-So in this game, both strategies **cobogo staking:cobogo staking** and **Donation:Donation** are Nash Equilibria. But, when the Patron deviates his strategy to cobogo staking he has a better payoff, making it the **dominant**, **optimal**, **strategy**.
+So in this game, both strategies **cobogo staking:cobogo staking** and **Donation:Donation** are Nash Equilibria. But, when the Patron deviates his strategy to cobogo staking he has a better payoff, making it the **dominant, and** **optimal** **strategy**.
 
 ### 2. Rewards detailed
 

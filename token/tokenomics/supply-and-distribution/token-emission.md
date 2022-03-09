@@ -8,7 +8,7 @@ The token emission formula is straightforward, the current Total Supply ![](<../
 
 ![](<../../../.gitbook/assets/image (3).png>)
 
-The Reward (further explained [here](../rewards.md)) is inversely proportional to the staking ratio, that is, the lower the amount of CBG staked in relation to the total CBG circulating supply, the higher the Reward is, and vice-versa.
+The Reward (further explained here) is inversely proportional to the staking ratio, that is, the lower the amount of CBG staked in relation to the total CBG circulating supply, the higher the Reward is, and vice-versa.
 
 ![Staking ratio compared to the supply growth from March 2022 to February 2026](<../../../.gitbook/assets/WhatsApp Image 2022-03-07 at 19.20.27.jpeg>)
 
