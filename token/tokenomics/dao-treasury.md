@@ -1,6 +1,6 @@
 # DAO Treasury
 
-20% of the [supply](supply-and-distribution/) of the CBG token will be held by the DAO Treasury. At time zero, this means that it will hold 10,000,000 CBG. This treasury will keep expanding, as long as new Content Creators onboard the platform.&#x20;
+20% of the [supply](supply-and-distribution.md) of the CBG token will be held by the DAO Treasury. At time zero, this means that it will hold 10,000,000 CBG. This treasury will keep expanding, as long as new Content Creators onboard the platform.&#x20;
 
 5% of the Social Tokens minted when Creators onboard cobogo will go to the DAO Treasury. Also, 30% of the fees collected by the dApp will be destined to the Treasury.
 

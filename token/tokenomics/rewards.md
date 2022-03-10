@@ -1,6 +1,6 @@
 # Rewards
 
-As described on the [Token Emission](supply-and-distribution/token-emission.md) Section, the Rewards are the incentives cobogo has designed for Patrons to fund their favorite Creators while also being rewarded for it. It is a win-win mechanism for both Patrons and Creators.&#x20;
+As described on the [Token Emission](token-emission.md) Section, the Rewards are the incentives cobogo has designed for Patrons to fund their favorite Creators while also being rewarded for it. It is a win-win mechanism for both Patrons and Creators.&#x20;
 
 ### 1. Game Theory
 
