@@ -30,3 +30,22 @@ In our split funding mechanism both Patrons and Creators get a yield that come f
 
 The rewards are inversely proportional to the staking ratio, that is, the lower the amount of CBG staked in relation to the total CBG circulating supply, the higher the Reward is, and vice-versa.
 
+To create incentives for Patrons to fund their favorite creators
+
+We'll leverage DeFi mechanisms to fund them. At first the main source of Rewards are going to come from token emission.
+
+In our model, staking ratio ( amount of tokens staked / Circulating Supply ) is inversely proportional to the Rewards. At lower tail, the APY could be explosive, so instead of tending to infinite, we designed it to have a cap at 10%. This way, at the lower tail, it tends to 10% and upper tail it tends to 0%, that's what we call the emission band.
+
+The staking ratio should be forever moving and so will the emission rate - inside the bands.
+
+```
+                       R_t = S_t - S_t-1  (1)
+                       R_t = 1.1 S_t * (1-\sigma CBG Staked / Circ. S_t)^[(10-\sigma CBG Staked / Circ. S_t*8)/3]  (2)
+```
+
+By minimally increasing the total supply, and distributing it to stakers, we are able to create a significant APY to reward first-movers. Our goal is to use this mechanism to attract as many Creators as possible, create network effects, implement easy to offer perks and services to collect fees (Content Market).
+
+As the number of active creators grow, valuable Perks are implemented, we expect that the emission apy coming from emissions will continue to go down and the apy coming from fees will continue to go up.
+
+We also expect the platform to be viewed as less risky, and the Perks so valuable that individuals are willing to stake instead of donating just to be able to access those Perks, interact with the Creator .
+
