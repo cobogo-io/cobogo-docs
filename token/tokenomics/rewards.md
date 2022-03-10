@@ -26,5 +26,7 @@ So in this game, both strategies **cobogo staking:cobogo staking** and **Donatio
 
 ### 2. Rewards detailed
 
+In our split funding mechanism both Patrons and Creators get a yield that come from token emission, the treasury and platform fees.
+
 The rewards are inversely proportional to the staking ratio, that is, the lower the amount of CBG staked in relation to the total CBG circulating supply, the higher the Reward is, and vice-versa.
 
