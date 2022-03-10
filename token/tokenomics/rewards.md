@@ -24,7 +24,7 @@ Let's say that the Patron stakes the sufficient amount of CBG tokens that the Mo
 
 So in this game, both strategies **cobogo staking:cobogo staking** and **Donation:Donation** are Nash Equilibria. But, when the Patron deviates his strategy to cobogo staking he has a better payoff, making it the **dominant, and** **optimal** **strategy**.
 
-### 2. Detailing the Rewards
+### 2. Detailing the Rewards (still editing... 03/10/22)
 
 In our split funding mechanism both Patrons and Creators get a yield that come from the token emission, the treasury and platform fees.
 
