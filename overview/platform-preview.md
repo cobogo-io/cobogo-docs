@@ -1,26 +1,9 @@
 # Platform Preview
 
-Here are the mockups of our Platform, which will be launched soon.
+Here are the mockups of our Platform, which will be launched soon, including the Initial Page and the Profile Page.
 
-![](<../.gitbook/assets/0-Submit a channel - 00.png>) ![](<../.gitbook/assets/1-Submit a channel - 01.png>)
+![](../.gitbook/assets/Channels.png) ![](<../.gitbook/assets/Profile v2.png>)
 
-![](<../.gitbook/assets/2-Submit a channel - 02 (1).png>) ![](<../.gitbook/assets/3-Submit a channel - 02-2.png>)
+Here are the additional and loading pages.
 
-![](<../.gitbook/assets/4-Submit a channel - 03 (1).png>) ![](<../.gitbook/assets/5-Submit a channel - 03-2 (1).png>)
-
-![](<../.gitbook/assets/6-Submit a channel - 03-3 (1).png>) ![](<../.gitbook/assets/7-Submit a channel - 03 - Waitlist (1).png>)
-
-![](<../.gitbook/assets/8-Submit a channel - 04.png>) ![](<../.gitbook/assets/9-Submit a channel - 04-2.png>)
-
-![](<../.gitbook/assets/10-Submit a channel - 05 (1).png>) ![](<../.gitbook/assets/11-Submit a channel - 06.png>)
-
-![](<../.gitbook/assets/12-Submit a channel - 06-2.png>) ![](<../.gitbook/assets/13-Submit a channel - 07.png>)
-
-![](<../.gitbook/assets/14-Submit a channel - 07-2.png>) ![](<../.gitbook/assets/15-Submit a channel - 07-3.png>)
-
-After going through the onboarding process, the Creator will have created their token and pool, and their fans will be able to stake for them.
-
-![](<../.gitbook/assets/16-Submit a channel - 08.png>)
-
-
-
+![](<../.gitbook/assets/1-Profile v2 - Stake - 01 (1).png>) ![](<../.gitbook/assets/2-Profile v2 - Stake - 02 (1).png>) ![](<../.gitbook/assets/3-Profile v2 - Stake - 03.png>) ![](<../.gitbook/assets/4-Profile v2 - Stake - 04 (1).png>) ![](<../.gitbook/assets/5-Profile v2 - Stake - 05 (1).png>) ![](<../.gitbook/assets/6-Profile v2 - Stake - 06.png>) ![](<../.gitbook/assets/7-Profile - Edit modal.png>) ![](<../.gitbook/assets/7-Profile v2 - Stake - 07 (1).png>) ![](<../.gitbook/assets/Profile - Edit modal.png>)
