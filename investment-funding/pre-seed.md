@@ -12,7 +12,7 @@ In an initiative to bring a safety net to the people willing to invest on the fu
 
 In addition to the yet to be defined NFT utility, after the Seed Round is over, the NFT holders will be able to buy CBG tokens at the price of the Seed Round, which will only be available for a small number of investors.
 
-This means that anyone who owns the cobogo NFT will be given the opportunity to buy CBG at the price of $0.08.&#x20;
+This means that anyone who owns the cobogo NFT will be given the opportunity to buy CBG at the price of $0.10.
 
 It is worth noting that at the end of the Fourth Round, the CBG token will be offered to the public for $0.60.
 
