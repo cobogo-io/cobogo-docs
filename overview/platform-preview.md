@@ -2,7 +2,9 @@
 
 Here are the mockups of our Platform, which will be launched soon, including the Initial Page and the Profile Page.
 
-![](../.gitbook/assets/Channels.png) ![](<../.gitbook/assets/Profile v2.png>)
+![](<../.gitbook/assets/Channels (1).png>)
+
+![](<../.gitbook/assets/Profile v2 (2).png>)
 
 Here are the additional and loading pages.
 
