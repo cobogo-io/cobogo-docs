@@ -12,10 +12,9 @@ With Coinvise, Creators and Communities can mint social tokens, airdrops them,  
 
 We have envisioned a Quest system that will be the center of the dapp, with all other funding mechanisms and integrations revolving around it. We see it not only as a way to increase the demand for social tokens but will also to collect fees and make our tokenomics sustainable.
 
-As it is really important for our goals, we are still deliberating on the best way to create an architecture for quests in a way to create a unique market for contents. Here is how we have designed it so far:\
+As it is really important for our goals, we are still deliberating on the best way to create an architecture for quests in a way to create a unique market for contents. Here is how we have designed it so far:
 
-
-![cobogo's Quest System](<../../.gitbook/assets/Quest sytem (2) (1).png>)
+![](../../.gitbook/assets/content-market.png)
 
 **The goal of cobogo's Quest System is to create a market that will match Content Creators with Individuals, Communities and Companies that want to promote themselves.**
 
