@@ -65,6 +65,8 @@
   * [Week 8 - 18/02/2022](weekly-updates/weeks-1-10/week-8-18-02-2022.md)
   * [Week 9 - 25/02/2022](weekly-updates/weeks-1-10/week-9-25-02-2022.md)
   * [Week 10 - 04/03/2022](weekly-updates/weeks-1-10/week-10-04-03-2022.md)
+* [Weeks 11-20](weekly-updates/weeks-11-20/README.md)
+  * [Week 11 & 12 - 25/03/2022](weekly-updates/weeks-11-20/week-11-and-12-25-03-2022.md)
 
 ## Connect
 
