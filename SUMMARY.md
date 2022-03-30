@@ -74,5 +74,5 @@
 * [Github](https://github.com/cobogo-social)
 * [Telegram](https://t.me/cobogosocial)
 * [Twitter](https://twitter.com/cobogosocial)
-* [Discord](https://discord.gg/p3xScxHz)
+* [Discord](https://discord.cobogo.social)
 * [Medium](https://medium.com/@cobogosocial)
