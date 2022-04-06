@@ -38,6 +38,7 @@
   * [Liquidity Mining](token/tokenomics/liquidity-mining.md)
   * [DAO Treasury](token/tokenomics/dao-treasury.md)
   * [Rewards](token/tokenomics/rewards.md)
+  * [Content Market](token/tokenomics/content-market.md)
 
 ## DAO
 
