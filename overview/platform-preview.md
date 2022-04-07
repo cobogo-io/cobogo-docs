@@ -8,8 +8,8 @@ Here are the mockups of our Platform, which will be launched soon, including the
 
 Here are the additional and loading pages.
 
-![](<../.gitbook/assets/1-Profile v2 - Stake - 01.png>) ![](<../.gitbook/assets/2-Profile v2 - Stake - 02 (1).png>)
+![](<../.gitbook/assets/2-Profile v2 - Stake - 02 (2).png>) ![](<../.gitbook/assets/1-Profile v2 - Stake - 01 (1).png>)
 
-![](<../.gitbook/assets/3-Profile v2 - Stake - 03 (2).png>) ![](<../.gitbook/assets/5-Profile v2 - Stake - 05.png>)
+![](<../.gitbook/assets/5-Profile v2 - Stake - 05 (2).png>) ![](<../.gitbook/assets/3-Profile v2 - Stake - 03 (3).png>)
 
-![](<../.gitbook/assets/Profile - Edit modal (2).png>)
+![](<../.gitbook/assets/Profile - Edit modal (1).png>) ![](<../.gitbook/assets/6-Profile v2 - Stake - 07 (1).png>)
