@@ -30,7 +30,7 @@ In our split funding mechanism both Patrons and Creators get a yield that come f
 
 The reward emission is inversely proportional to the staking ratio, that is, the lower the amount of CBG staked in relation to the total CBG circulating supply, the higher the Reward is, and vice-versa. This way, we are creating incentives for first-mover Patrons to fund their favorite creators and be rewarded for it.
 
-In our model, staking ratio ( amount of tokens staked / Circulating Supply ) is inversely proportional to the Rewards. If set free, just taking in consideration these two variables, at lower tail, the APY could be explosive. So, instead of tending to infinite, we designed it to have a cap at 10%. This way, at the lower tail, it tends to 10% and upper tail it tends to 0%, that's what we call the emission band. The staking ratio changes over time so does emission rate - inside the bands.
+In our model, staking ratio ( amount of tokens staked / Circulating Supply ) is inversely proportional to the Rewards. If set free, just taking in consideration these two variables, at lower tail, the APY could be explosive. So, instead of tending to infinite, we designed it to have a cap at 10%. This way, at the staking ratios, it tends to 10% and at high staking ratios it tends to 0%, that's what we call the emission band. The staking ratio changes over time so does emission rate - inside the bands.
 
 Here is our model:
 
