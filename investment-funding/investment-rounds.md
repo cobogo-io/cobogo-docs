@@ -1,6 +1,6 @@
-# Future Rounds
+# Investment Rounds
 
-There will be a total of four investment rounds for cobogo. The Seed round, the Private Sales and the Public Sales. After the first round (Pre-Seed), different amounts of CBG tokens will be sold in each round, at different prices.
+There will be a total of three investment rounds for cobogo. The Seed round, the Private Sales and the Public Sales. In this section, we will describe the amount of CBG tokens will be sold in each round, and describe our plans.
 
 ### Early Community NFT
 
