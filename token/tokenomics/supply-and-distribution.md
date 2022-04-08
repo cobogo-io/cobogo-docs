@@ -77,7 +77,7 @@ The funds raised will be used for the development of cobogo as well, including h
 
 The amount of 16,000,000 CBG tokens will be destined for public sales, which means that anyone in the community will be able to buy CBG tokens in a decentralized exchange or any other platform available.&#x20;
 
-This is scheduled to happen in January 2023, and the token will be at a price of $0.60. At this point in time, there will be 36,000,000 CBG tokens circulating. We expect to start a marketing campaign announcing the start of CBG sale in October 2022.
+This is scheduled to happen in February 2023. At this point in time, there will be 36,000,000 CBG tokens circulating. We expect to start a marketing campaign announcing the start of CBG sale in October 2022.
 
 #### Liquidity Mining (12%)
 
