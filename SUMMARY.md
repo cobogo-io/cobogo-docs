@@ -51,7 +51,6 @@
 ## Guides
 
 * [Blockchain Basics](the-basics/blockchain-basics.md)
-* [Using Arbitrum](guides/using-arbitrum.md)
 
 ## Weekly Updates
 

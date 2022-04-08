@@ -22,8 +22,6 @@ Here's a guide on [how to buy DEV tokens](https://docs.devprotocol.xyz/en/stakes
 
 #### Arbitrum
 
-If you're new to using Arbitrum, we recommend reading our [guide](../guides/using-arbitrum.md#1.-what-is-arbitrum) first.&#x20;
-
 [-> Our pool on Arbitrum](https://stakes.social/0xfb049b86Da8D2F4e335eF2281537f5dddbE77393).
 
 #### Polygon
