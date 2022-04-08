@@ -11,7 +11,7 @@
 ## Investment/Funding
 
 * [Community NFT](investment-funding/community-nft.md)
-* [Future Rounds](investment-funding/future-rounds.md)
+* [Investment Rounds](investment-funding/investment-rounds.md)
 * [Support our Project](investment-funding/support-our-project.md)
 
 ## Platform
