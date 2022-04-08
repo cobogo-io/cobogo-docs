@@ -57,13 +57,13 @@ It is worth noting that there will be an internal policy to determine whether a 
 
 ### Seed (10%)
 
-A total of 10%, which is equivalent to 10,000,000 CBG tokens will be destined to the first round of investments. This sale will be used to raise funds for the development of cobogo, and it is scheduled to start in January 2022 and end in March, 2022.&#x20;
+A total of 10%, which is equivalent to 10,000,000 CBG tokens will be destined to the first round of investments. This sale will be used to raise funds for the development of cobogo, and it is scheduled to start in April 2022 .&#x20;
 
-The CBG token will cost investors $0.10, so we expect to raise $1,000,000 for cobogo, which also means that this will be the best buying opportunity for CBG. The tokens acquired will not be locked, but will be distributed along 12 months.
+This will be the best opportunity for investors. The tokens acquired will not be locked, but will be distributed along 12 months.
 
 ### Private Sale (10%)
 
-Another 10,000,000 CBG tokens will be sold to investors starting in March, 2022 and ending in June, 2022, at a cost of $0.30. This time, there will also be no locked period, but the tokens will be distributed along 36 months.
+Another 10,000,000 CBG tokens will be sold to investors starting in July, 2022. This time, there will also be no locked period, but the tokens will be distributed along 36 months.
 
 The funds raised will be used for the development of cobogo as well, including hiring more people for the team and marketing.
 
