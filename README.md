@@ -1,6 +1,6 @@
 # What is cobogo?
 
-cobogo is an aggregator of protocols that has the goal of funding Content Creators sustainably through their own community. It is a dApp that leverages Web 3.0 to monetize Creators while maximizing their growth and community building abilities.
+cobogo is a protocol that has the goal of funding Content Creators sustainably through their own communities. It is a dApp that leverages Web 3.0 to monetize Creators while maximizing their growth and community building abilities. We will leverage this to bring as many creators as possible to our platform and transform it into the first Content Creator DAO.
 
 It works by allowing Creators to mint their own Social Tokens and Staking Pool, where Patrons can stake on it. After that, both Creators and Patrons get rewards in the form of a yield, in a 50%/50% split.
 
