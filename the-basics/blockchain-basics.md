@@ -111,7 +111,7 @@ Staking using the cobogo means that Patrons are depositing the CBG tokens in a s
 
 A Staking Pool is a [Smart Contract](blockchain-basics.md#6.-what-are-smart-contracts) where stakeholders deposit their tokens in order to generate rewards. They allow people to make passive income with predictable and frequent staking rewards.
 
-Specifically, Staking Poos allow users to combine their resources in order to increase their chances of earning rewards, and for that, the rewards are split among the many participants of the pool. These rewards are typically estimated and expressed in APY (Annual Percentage Yield).
+Specifically, Staking Pools allow users to combine their resources in order to increase their chances of earning rewards, and for that, the rewards are split among the many participants of the pool. These rewards are typically estimated and expressed in APY (Annual Percentage Yield).
 
 In cobogo, Patrons can stake their CBG tokens on a YouTube Creator's pool, and both Patron and Creator get the rewards, in a 50%/50% split.
 
