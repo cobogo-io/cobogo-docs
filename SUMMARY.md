@@ -70,6 +70,10 @@
   * [Week 13 - 01/04/2022](weekly-updates/weeks-11-20/week-13-01-04-2022.md)
   * [Week 14 - 08/04/2022](weekly-updates/weeks-11-20/week-14-08-04-2022.md)
 
+## Branding
+
+* [Assets](branding/assets.md)
+
 ## Connect
 
 * [Website](https://cobogo.social)
@@ -78,3 +82,5 @@
 * [Twitter](https://twitter.com/cobogosocial)
 * [Discord](https://discord.cobogo.social)
 * [Medium](https://medium.com/@cobogosocial)
+
+## Group 1
