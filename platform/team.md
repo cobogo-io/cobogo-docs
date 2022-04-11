@@ -4,11 +4,11 @@ description: This is the team that is currently working on the cobogo dApp.
 
 # Team
 
-### Pedro Alves (P.) - CEO
+### Pedro Alves (P.) - Co-founder
 
 Pedro is a multilingual economist, finishing a master's degree related to DeFi. He has been involved with crypto since 2017, and has experience with integrations. He has worked as a blockchain researcher in the Social Tokens field for over a year.
 
-### Rafael Lima - Product Strategist
+### Rafael Lima - Co-founder
 
 Rafael is a 'hacker of life', yogi, digital entrepreneur, software developer, and investor in the cryptocurrency ecosystem. He has founded tech companies in Brazil in the financial, software, and metaverse fields.
 
@@ -20,9 +20,9 @@ Mikael is an UI/UX designer with skills in front-end and mobile development.
 
 [Linkedin](https://www.linkedin.com/in/mikaelcarrara/)
 
-### Isabela Reis - Communication
+### Isabela Reis - Technical Writer
 
-Isabela is a PhD student in Social Psychology, responsible for creating content, as well as the cobogo’s team relationship with the community.
+Isabela is a PhD student in Social Psychology, responsible for the documentation, creating content, writing Medium articles, as well as the cobogo’s team relationship with the community.
 
 ### Thiago - Developer
 
