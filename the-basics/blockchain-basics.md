@@ -83,8 +83,6 @@ DEXs are [decentralized markets](blockchain-basics.md#3.-what-is-a-decentralized
 
 CEXs are [centralized markets](blockchain-basics.md#4.-what-is-a-centralized-market), and usually are more user-friendly, since it comes with typical account features like recovering lost passwords. Examples of CEXs are Binance and Coinbase.
 
-Currently, you can only buy DEV tokens using decentralized markets. We recommend Uniswap, but make sure you are buying the [correct token](https://etherscan.io/address/0x91F5dC90979b058eBA3be6B7B7e523df7e84e137).
-
 ### 10. What is a Wallet?
 
 A Wallet is a software that holds cryptocurrencies by storing your Private Keys which are used in cooperation with the appropriate Public Keys.
@@ -107,7 +105,7 @@ The services offered in DeFi are typically accessed using [dApps](blockchain-bas
 
 Staking refers to the process of blocking your funds in a secure [Smart Contract](blockchain-basics.md#6.-what-are-smart-contracts) in order to benefit the network, and be rewarded in return. The "rewards" accrued can be thought as the interest that accumulates over time on the blocked funds.&#x20;
 
-Staking using the DEV Tokens means that Patrons are depositing the DEV Tokens in a smart contract of the respective Creator the patron wants to sustainably fund. By doing that both the Patron and the Creator get rewarded with DEV Tokens.
+Staking using the cobogo means that Patrons are depositing the CBG tokens in a smart contract of the respective Creator the patron wants to sustainably fund. By doing that both the Patron and the Creator get rewarded with CBG Tokens.
 
 ### 13. What is a Pool?
 
@@ -115,7 +113,7 @@ A Staking Pool is a [Smart Contract](blockchain-basics.md#6.-what-are-smart-cont
 
 Specifically, Staking Poos allow users to combine their resources in order to increase their chances of earning rewards, and for that, the rewards are split among the many participants of the pool. These rewards are typically estimated and expressed in APY (Annual Percentage Yield).
 
-In Cobogo, Patrons can stake their DEV tokens on a YouTube Creator's pool, and both Patron and Creator get the rewards, in a 49%/51% split.
+In cobogo, Patrons can stake their CBG tokens on a YouTube Creator's pool, and both Patron and Creator get the rewards, in a 50%/50% split.
 
 ### 14. What are NFTs?
 
