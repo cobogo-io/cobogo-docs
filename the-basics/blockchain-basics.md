@@ -129,4 +129,4 @@ This process is usually developed before the token is released and tweaked over 
 
 Layer 2 refers to a secondary framework built on top of the Ethereum blockchain. It is mostly used to solve the transaction speed and scaling difficulties faced by the Ethereum Mainnet.
 
-There are currently multiple Layer 2 solutions. In cobogo, we use Arbitrum, which is built by Offchain Labs, that is lower in cost while still maintaining high security standards and Ethereum compatibility.
+There are currently multiple Layer 2 solutions. In cobogo, we use Polygon, which is lower in cost while still maintaining high security standards and Ethereum compatibility.
