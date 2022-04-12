@@ -20,13 +20,13 @@ This feature will be useful not only for exclusive YouTube videos, but also for 
 
 ### Why is cobogo the best fit for this solution?
 
-cobogo allows YouTubers to mint a staking pool and Social Tokens at the same time they onboard the platform.&#x20;
+cobogo allows YouTubers to deploy a staking pool and Social Tokens at the same time they onboard the platform.&#x20;
 
-This means that a myriad of Content Creators and their fans will be using the Unlock + MintGate solution to access exclusive videos and have early access to content. In addition, the Social Tokens minted by cobogo are a perfect key to unlock this content, while CBG is the perfect master key to unlock all content in the cobogo ecosystem.
+This means that a myriad of Content Creators and their fans will be using the Unlock + MintGate solution to access exclusive videos and have early access to content. In addition, the Social Tokens minted by cobogo are a perfect key to unlock this content, while staked CBG is the perfect master key to unlock all content in the cobogo ecosystem.
 
 ![](../../.gitbook/assets/unlock-protocol.png)
 
-Not only that, but at the time a Patron uses the staking mechanism to fund a Creator, they receive an sToken which is an NFT that proves that they are active Patrons, which can also be used as a membership badge to unlock content.&#x20;
+Not only that, but at the time a Patron uses the staking mechanism to fund a Creator, they receive an CBG(ERC-721) which is an NFT that proves that they are active Patrons, which can also be used as a membership badge to unlock content. That is, **with cobogo fans can unlock gate content with their staking (creator funding) position**.
 
 Moreover, cobogo is an aggregator for funding Creators. This means that projects that can be used in parallel in our platform, like Drips Network, reward community members that donate with a membership NFT, that could also be used as a key to unlock content.&#x20;
 
