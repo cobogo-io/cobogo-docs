@@ -5,8 +5,9 @@
 * [What is cobogo?](README.md)
 * [Getting Started](overview/getting-started.md)
 * [Referral Program](overview/referral-program.md)
-* [Platform Preview](overview/platform-preview.md)
-* [Onboarding Preview](overview/onboarding-preview.md)
+* [Previews](overview/previews/README.md)
+  * [Onboarding Preview](overview/previews/onboarding-preview.md)
+  * [Platform Preview](overview/previews/platform-preview.md)
 
 ## Investment/Funding
 

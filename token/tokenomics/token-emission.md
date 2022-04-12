@@ -4,7 +4,7 @@ cobogo has designed a Token Emission system that will allow Creators to be susta
 
 The token emission will provide the rewards for staking positions. This way, the staking APY will be an incentive for individuals to stake CBG tokens to fund their favorite Creator and be rewarded for it at the same time.
 
-The token emission formula is straightforward, the current Total Supply ![](<../../.gitbook/assets/image (6).png>) is equal to the Total Supply at the previous period of time ![](<../../.gitbook/assets/image (8).png>) plus the current Reward ![](<../../.gitbook/assets/image (4).png>).
+The token emission formula is straightforward, the current Total Supply <img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> is equal to the Total Supply at the previous period of time <img src="../../.gitbook/assets/image (8).png" alt="" data-size="line"> plus the current Reward <img src="../../.gitbook/assets/image (4).png" alt="" data-size="line">.
 
 ![](<../../.gitbook/assets/image (3).png>)
 
@@ -21,6 +21,6 @@ The model for the Rewards caps the rewards at 10% per year, so at each period of
 It is expected that the staking ratio at the beginning stays between 20% to 30% which would be equivalent to approximately a 3.5% to 5.1% supply increase. The more we roll out perks and benefits to stakers (Patrons), we expect the supply growth to be even lower than that.
 
 {% hint style="info" %}
-We have also designed a burning mechanism, in case the platform growth is lower than the total emission rate in a specific time frame (yearly, for example), the total reward emission ![](../../.gitbook/assets/image.png) could be burned by the treasury.
+We have also designed a burning mechanism, in case the platform growth is lower than the total emission rate in a specific time frame (yearly, for example), the total reward emission <img src="../../.gitbook/assets/image.png" alt="" data-size="line"> could be burned by the treasury.
 {% endhint %}
 
