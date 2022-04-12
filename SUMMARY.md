@@ -17,6 +17,8 @@
 ## Platform
 
 * [Introduction](platform/introduction.md)
+* [Funding Mechanism](platform/funding-mechanism.md)
+* [NFT as Proof of Active Patronage](platform/nft-as-proof-of-active-patronage.md)
 * [Protocols](platform/protocols/README.md)
   * [Coinvise](platform/protocols/coinvise.md)
   * [Dev Protocol](platform/protocols/dev-protocol.md)
