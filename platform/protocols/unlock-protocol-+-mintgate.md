@@ -26,7 +26,7 @@ This means that a myriad of Content Creators and their fans will be using the Un
 
 ![](../../.gitbook/assets/unlock-protocol.png)
 
-Not only that, but at the time a Patron uses the staking mechanism to fund a Creator, they receive an CBG(ERC-721) which is an NFT that proves that they are active Patrons, which can also be used as a membership badge to unlock content. That is, **with cobogo fans can unlock gate content with their staking (creator funding) position**.
+Not only that, but at the time a Patron uses the staking mechanism to fund a Creator, they receive an CBG(ERC-721) which is an NFT that proves that they are active Patrons, which can also be used as a membership badge to unlock content. That is, **with cobogo fans can unlock gated content with their staking (creator funding) position**.
 
 Moreover, cobogo is an aggregator for funding Creators. This means that projects that can be used in parallel in our platform, like Drips Network, reward community members that donate with a membership NFT, that could also be used as a key to unlock content.&#x20;
 
