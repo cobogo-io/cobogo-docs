@@ -1,6 +1,6 @@
 # Social Tokens in our Treasury
 
-cobogo captures value from all the Content Creators onboarded into its system by using Dev Protocol's Social Token minting mechanism.\
+cobogo captures value from all the Content Creators onboarded into its system by minting their Social Tokens.\
 \
 Every Content Creator that onboards cobogo gets 10 Million Social Tokens minted at the time the Khaos Oracle authenticates the project's ownership and a staking pool is deployed. 5% (500.000) of each of these tokens go to cobogo's treasury.
 
