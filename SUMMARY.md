@@ -2,46 +2,46 @@
 
 ## Overview
 
-* [What is cobogo?](README.md)
-* [Getting Started](overview/getting-started.md)
-* [Referral Program](overview/referral-program.md)
-* [Previews](overview/previews/README.md)
-  * [Onboarding Preview](overview/previews/onboarding-preview.md)
-  * [Platform Preview](overview/previews/platform-preview.md)
+* [Introduction](README.md)
+* [What is cobogo?](<README (1).md>)
+* [How it works?](overview/how-it-works/README.md)
+  * [Funding Mechanism](overview/how-it-works/funding-mechanism.md)
+  * [NFT as Proof of Active Patronage](overview/how-it-works/nft-as-proof-of-active-patronage.md)
+* [Platform Preview](overview/platform-preview/README.md)
+  * [Onboarding](overview/platform-preview/onboarding.md)
+  * [Main dAPP](overview/platform-preview/main-dapp.md)
+* [Planned Features](overview/planned-features/README.md)
+  * [Gated Content](overview/planned-features/gated-content.md)
+  * [Direct Donation](overview/planned-features/direct-donation.md)
+  * [Manage Social Tokens](overview/planned-features/manage-social-tokens.md)
+* [Team](overview/team.md)
+
+## Youtubers
+
+* [Getting Started](youtubers/getting-started.md)
+* [Referral Program](youtubers/referral-program.md)
 
 ## Investment/Funding
 
 * [Community NFT](investment-funding/community-nft.md)
 * [Investment Rounds](investment-funding/investment-rounds.md)
-* [Support our Project](investment-funding/support-our-project.md)
+* [Support our Project](investment-funding/support-our-project/README.md)
+  * [Dev Protocol](investment-funding/support-our-project/dev-protocol.md)
 
-## Platform
+## Tokenomics
 
-* [Introduction](platform/introduction.md)
-* [Funding Mechanism](platform/funding-mechanism.md)
-* [NFT as Proof of Active Patronage](platform/nft-as-proof-of-active-patronage.md)
-* [Protocols](platform/protocols/README.md)
-  * [Coinvise](platform/protocols/coinvise.md)
-  * [Dev Protocol](platform/protocols/dev-protocol.md)
-  * [Drips Network](platform/protocols/drips-network.md)
-  * [Unlock Protocol + MintGate](platform/protocols/unlock-protocol-+-mintgate.md)
-* [Team](platform/team.md)
-* [Code of Conduct](platform/code-of-conduct.md)
-
-## Token
-
-* [CBG](token/cbg/README.md)
-  * [Governance](token/cbg/governance.md)
-  * [Platform Fee](token/cbg/platform-fee.md)
-  * [Social Tokens in our Treasury](token/cbg/social-tokens-in-our-treasury.md)
-* [Tokenomics](token/tokenomics.md)
-  * [Supply and Distribution](token/tokenomics/supply-and-distribution.md)
-  * [Token Emission](token/tokenomics/token-emission.md)
-  * [Bounties](token/tokenomics/bounties.md)
-  * [Liquidity Mining](token/tokenomics/liquidity-mining.md)
-  * [DAO Treasury](token/tokenomics/dao-treasury.md)
-  * [Rewards](token/tokenomics/rewards.md)
-  * [Content Market](token/tokenomics/content-market.md)
+* [CBG Token](tokenomics/cbg-token.md)
+* [Token Utility](tokenomics/token-utility/README.md)
+  * [Governance](tokenomics/token-utility/governance.md)
+  * [Platform Fee](tokenomics/token-utility/platform-fee.md)
+  * [Content Creator ETF](tokenomics/token-utility/content-creator-etf.md)
+* [Supply and Distribution](tokenomics/supply-and-distribution.md)
+* [Token Emission](tokenomics/token-emission.md)
+* [Bounties](tokenomics/bounties.md)
+* [Liquidity Mining](tokenomics/liquidity-mining.md)
+* [DAO Treasury](tokenomics/dao-treasury.md)
+* [Rewards](tokenomics/rewards.md)
+* [Content Market](tokenomics/content-market.md)
 
 ## DAO
 
@@ -72,18 +72,22 @@
   * [Week 11 & 12 - 25/03/2022](weekly-updates/weeks-11-20/week-11-and-12-25-03-2022.md)
   * [Week 13 - 01/04/2022](weekly-updates/weeks-11-20/week-13-01-04-2022.md)
   * [Week 14 - 08/04/2022](weekly-updates/weeks-11-20/week-14-08-04-2022.md)
+  * [Week 15 - 15/04/2022](weekly-updates/weeks-11-20/week-15-15-04-2022.md)
 
 ## Branding
 
+* [Logo Concept](branding/logo-concept.md)
 * [Assets](branding/assets.md)
+
+## Legal
+
+* [Code of Conduct](legal/code-of-conduct.md)
 
 ## Connect
 
 * [Website](https://cobogo.social)
-* [Github](https://github.com/cobogo-social)
 * [Telegram](https://t.me/cobogosocial)
-* [Twitter](https://twitter.com/cobogosocial)
 * [Discord](https://discord.cobogo.social)
+* [Twitter](https://twitter.com/cobogosocial)
 * [Medium](https://medium.com/@cobogosocial)
-
-## Group 1
+* [Github](https://github.com/cobogo-social)

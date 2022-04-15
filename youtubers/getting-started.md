@@ -1,10 +1,16 @@
 # Getting Started
 
-To start using cobogo as a Creator, you will have to go through the following onboarding process:
+### To join our waitlist, visit [https://app.cobogo.social](https://app.cobogo.social)
 
 {% hint style="info" %}
 Initially, our onboarding process will be destined for Content Creators wanting to join our **wait list**. These will be the first to have their tokens and pool minted once the platform is up and running.
 {% endhint %}
+
+{% hint style="warning" %}
+You can earn CBG when joining the waitlist. Read more about the [referral program](referral-program.md).
+{% endhint %}
+
+To start using cobogo as a Creator, you will have to go through the following onboarding process:
 
 ### Submitting a Channel
 

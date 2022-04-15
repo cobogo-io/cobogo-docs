@@ -1,14 +1,22 @@
-# What is cobogo?
+# Introduction
 
-cobogo is a protocol that has the goal of funding Content Creators sustainably through their own communities. It is a dApp that leverages Web 3.0 to monetize Creators while maximizing their growth and community building abilities. We will leverage this to bring as many creators as possible to our platform and transform it into the first Content Creator DAO.
+Welcome to cobogo. In this page we briefly explain the problem that motivated the creation of this project, and in this documentation we will go through how we solve it.
 
-It works by allowing Creators to mint their own Social Tokens and Staking Pool, where Patrons can stake on it. After that, both Creators and Patrons get rewards in the form of a yield, in a 50%/50% split.
+If you want to skip ahead, you can go directly to these useful links:
 
-All Creators have to do after minting their pool is let their community know about this opportunity, and how it is a win-win situation. They can also offer Perks to those staking from them, which can vary from receiving the Creator’s Social Tokens, getting access to a private discord, private content and even being able to vote for the next videos' type of content. The possibilities are endless.
+* [Funding (Monetization) Mechanism](overview/how-it-works/funding-mechanism.md)
+* [Tokenomics](tokenomics/supply-and-distribution.md)
+* [How to submit your channel?](youtubers/getting-started.md)
+* [How to refer friends and get CBG tokens?](youtubers/referral-program.md)
+* [cobogo DAO](dao/introduction.md)
 
-We intend to keep growing, introducing more monetization methods and finding new ways to give rewards and benefits for Creators and Patrons.&#x20;
+## The Creator Economy
 
-If you have any proposals, please contact us at our e-mail (hi@cobogo.social) or at our [Telegram](https://t.me/cobogosocial) group.
+We know how difficult it is for Creators of all kinds to make a living out of their creations. Although Web 2.0 has allowed an easily accessible monetization for the masses, some people still struggle with this combination of "decentralized delivery and centralized control".&#x20;
+
+With Web 3.0, Creators can take their work to a next level, truly owning it. The integration with cryptoeconomy grants them the possibility of building an economy around their projects and community, maximizing their value.
+
+In the particular case we are addressing with cobogo, Content Creators can finally have the freedom to produce any content they want, without having to rely on a centralized control institution watching over them, only in their own community.
 
 
 

@@ -1,6 +1,10 @@
-# Onboarding Preview
+# Onboarding
 
-Here are the mockups of the onboarding process, which will be opened soon.
+{% hint style="info" %}
+If you are a YouTuber and wish to join our wait list, go to [https://app.cobogo.social](https://app.cobogo.social)
+{% endhint %}
+
+Here are the mockups of the onboarding process, which will be live soon. You can join our wait list now, if you're a YouTube Content Creator. If you're unsure about how to submit your channel, go to our [guide](../../youtubers/getting-started.md).
 
 ![](<../../.gitbook/assets/0-Submit a channel - 00.png>) ![](<../../.gitbook/assets/1-Submit a channel - 01.png>)
 

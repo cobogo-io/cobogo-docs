@@ -16,6 +16,6 @@
 
 ![](../.gitbook/assets/icon.png)
 
-### Medium Icon
+### Medium Banner
 
 ![](../.gitbook/assets/medium.png)

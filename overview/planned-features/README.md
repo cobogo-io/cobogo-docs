@@ -1,8 +1,8 @@
 ---
-description: Protocols used in cobogo
+description: We plan to integrate with several different protocols
 ---
 
-# Protocols
+# Planned Features
 
 cobogo aims to be interconnected with the chains of value of DeFi and Creator Economy DAOs. This way, our goal is to integrate cobogo with a myriad of different protocols that are helping to build the Decentralized Creator Economy.&#x20;
 

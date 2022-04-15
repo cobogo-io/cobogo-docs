@@ -2,7 +2,9 @@
 description: CBG is the official token of cobogo
 ---
 
-# CBG
+# CBG Token
+
+**Name:** CBG Token
 
 **Ticker:** CBG
 
