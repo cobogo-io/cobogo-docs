@@ -1,4 +1,8 @@
-# Platform Preview
+# Main dAPP
+
+{% hint style="info" %}
+You can also see a preview of our dapp by going to our [Prototype page](https://linky.design/prototype-cobogo). It is easier to see the pages' flow there and click on some buttons.
+{% endhint %}
 
 Here are the mockups of our Platform, which will be launched soon, including the Initial Page and the Profile Page.
 
