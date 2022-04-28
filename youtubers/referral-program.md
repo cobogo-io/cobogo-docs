@@ -1,6 +1,6 @@
 # Referral Program
 
-As described in [this](../tokenomics/bounties.md) page, we will have a Referral Program called "Bounties".&#x20;
+As described in [this](../tokenomics/bounties.md) page, we have a Referral Program called "Bounties".&#x20;
 
 On the first phase of the program, which will start in March, 2022, the Creators entering the [wait list](getting-started.md) will be able to invite their friends to join the platform on step 4 of the onboarding process.
 
