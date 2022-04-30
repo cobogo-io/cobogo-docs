@@ -74,6 +74,7 @@
   * [Week 14 - 08/04/2022](weekly-updates/weeks-11-20/week-14-08-04-2022.md)
   * [Week 15 - 15/04/2022](weekly-updates/weeks-11-20/week-15-15-04-2022.md)
   * [Week 16 - 22/04/2022](weekly-updates/weeks-11-20/week-16-22-04-2022.md)
+  * [Week 17 - 29/04/2022](weekly-updates/weeks-11-20/week-17-29-04-2022.md)
 
 ## Branding
 
