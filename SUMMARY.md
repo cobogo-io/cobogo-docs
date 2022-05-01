@@ -1,8 +1,9 @@
 # Table of contents
 
+* [👋 Welcome to cobogo](README.md)
+
 ## Overview
 
-* [Introduction](README.md)
 * [What is cobogo?](<README (1).md>)
 * [How it works?](overview/how-it-works/README.md)
   * [Funding Mechanism](overview/how-it-works/funding-mechanism.md)

@@ -1,6 +1,6 @@
-# Introduction
+# 👋 Welcome to cobogo
 
-Welcome to cobogo. In this page we briefly explain the problem that motivated the creation of this project, and in this documentation we will go through how we solve it.
+In this page we briefly explain the problem that motivated the creation of this project, and in this documentation we will go through how we solve it.
 
 If you want to skip ahead, you can go directly to these useful links:
 
@@ -20,5 +20,12 @@ In the particular case we are addressing with cobogo, Content Creators can final
 
 
 
+## Medium Articles
 
+We constantly post new articles on Medium with the goal of educating people about the benefits of Web3, and how cobogo fits in the Creator Economy, especially for those not that familiar with Blockchain. Here's a quick access to them:
 
+* [cobogo: the Content Creator DAO](https://medium.com/@cobogosocial/cobogo-the-content-creator-dao-ca9fbde0782)
+* [Empower your community through Social Tokens](https://medium.com/@cobogosocial/empower-your-community-through-social-tokens-504484800836)
+* [How to use Blockchain to support your favorite Content Creators](https://medium.com/@cobogosocial/how-to-use-blockchain-to-support-your-favorite-content-creators-9ae2b04a0c38)
+* [What is Staking?](https://medium.com/@cobogosocial/what-is-staking-286ded74e582)
+* [Why is the number of likes on Social Media a metric of the past?](https://medium.com/@cobogosocial/why-is-the-number-of-likes-on-social-media-a-metric-of-the-past-ea1a2190a216)
