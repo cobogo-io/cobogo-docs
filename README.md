@@ -18,6 +18,8 @@ With Web 3.0, Creators can take their work to a next level, truly owning it. The
 
 In the particular case we are addressing with cobogo, Content Creators can finally have the freedom to produce any content they want, without having to rely on a centralized control institution watching over them, only in their own community.
 
+#### _**In sum, our mission is to help Content Creators gain more power over their business, using Web3 to achieve that.**_&#x20;
+
 
 
 ## Medium Articles
@@ -29,3 +31,6 @@ We constantly post new articles on Medium with the goal of educating people abou
 * [How to use Blockchain to support your favorite Content Creators](https://medium.com/@cobogosocial/how-to-use-blockchain-to-support-your-favorite-content-creators-9ae2b04a0c38)
 * [What is Staking?](https://medium.com/@cobogosocial/what-is-staking-286ded74e582)
 * [Why is the number of likes on Social Media a metric of the past?](https://medium.com/@cobogosocial/why-is-the-number-of-likes-on-social-media-a-metric-of-the-past-ea1a2190a216)
+* [Communities Strike Back: A Time for Content Creators' DAOs](https://medium.com/@cobogosocial/communities-strike-back-a-time-for-content-creators-daos-590a036e0497)
+* [NFTs by and for Content Creators: the power lies in the communities. ](https://medium.com/@cobogosocial/nfts-by-and-for-content-creators-73839ab0b7cf)
+
