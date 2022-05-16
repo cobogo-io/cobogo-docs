@@ -1,5 +1,7 @@
 # 👋 Welcome to cobogo
 
+> **cobogo's mission is to help Content Creators regain **_**more power**_** over their business, using Web3 to achieve that.**&#x20;
+
 In this page we briefly explain the problem that motivated the creation of this project, and in this documentation we will go through how we solve it.
 
 If you want to skip ahead, you can go directly to these useful links:
@@ -17,8 +19,6 @@ We know how difficult it is for Creators of all kinds to make a living out of th
 With Web 3.0, Creators can take their work to a next level, truly owning it. The integration with cryptoeconomy grants them the possibility of building an economy around their projects and community, maximizing their value.
 
 In the particular case we are addressing with cobogo, Content Creators can finally have the freedom to produce any content they want, without having to rely on a centralized control institution watching over them, only in their own community.
-
-#### _**In sum, our mission is to help Content Creators gain more power over their business, using Web3 to achieve that.**_&#x20;
 
 
 
