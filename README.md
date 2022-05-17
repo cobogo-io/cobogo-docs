@@ -1,6 +1,6 @@
 # 👋 Welcome to cobogo
 
-> **cobogo's mission is to help Content Creators regain **_**more power**_** over their business, using Web3 to achieve that.**&#x20;
+> **cobogo's mission is to give Content Creators the power over their own monetization and their communities, using Web3 to achieve that.**&#x20;
 
 In this page we briefly explain the problem that motivated the creation of this project, and in this documentation we will go through how we solve it.
 
