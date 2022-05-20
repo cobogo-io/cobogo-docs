@@ -1,6 +1,6 @@
 # Support our Project
 
-You can sustainably fund our project development and growth using Dev Protocol's staking mechanism and their dapp [stakes.social](https://stakes.social), where both you and Cobogo get rewards.
+You can sustainably fund our project development and growth using Dev Protocol's staking mechanism and their dapp [stakes.social](https://stakes.social/), where both you and Cobogo get rewards.
 
 ### Dev Protocol
 

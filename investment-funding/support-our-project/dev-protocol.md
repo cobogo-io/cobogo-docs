@@ -4,7 +4,7 @@
 
 [Dev Protocol](https://docs.devprotocol.xyz/en/introduction/) is a Japanese project that allows Creators to monetize their work in a sustainable way.&#x20;
 
-They do this currently in their [stakes.social](https://stakes.social) dApp, where Open Source Software (OSS) Creators can apply their projects through the onboarding process, get their project authenticated, have their Social Tokens minted, and finally have their Staking Pool deployed, where Patrons can stake DEV Tokens on, similarly to Cobogo.
+They do this currently in their [stakes.social](https://stakes.social/) dApp, where Open Source Software (OSS) Creators can apply their projects through the onboarding process, get their project authenticated, have their Social Tokens minted, and finally have their Staking Pool deployed, where Patrons can stake DEV Tokens on, similarly to Cobogo.
 
 With Dev Protocol many more markets can arise, empowering communities and capturing the value of the Creator Economy.
 

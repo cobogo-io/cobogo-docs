@@ -12,7 +12,7 @@ Pedro is a multilingual economist, finishing a master's degree related to DeFi. 
 
 Rafael is a 'hacker of life', yogi, digital entrepreneur, software developer, and investor in the cryptocurrency ecosystem. He has founded tech companies in Brazil in the financial, software, and metaverse fields.
 
-[Website](https://rafael.adm.br)
+[Website](https://rafael.adm.br/)
 
 ### Mikael Carrara - Designer
 

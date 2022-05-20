@@ -79,6 +79,7 @@
   * [Week 17 - 29/04/2022](weekly-updates/weeks-11-20/week-17-29-04-2022.md)
   * [Week 18 - 06/05/2022](weekly-updates/weeks-11-20/week-18-06-05-2022.md)
   * [Week 19 - 13/05/2022](weekly-updates/weeks-11-20/week-19-13-05-2022.md)
+  * [Week 20 - 20/05/2022](weekly-updates/weeks-11-20/week-20-20-05-2022.md)
 
 ## Branding
 

@@ -1,10 +1,10 @@
-# Unlock Protocol + MintGate
+# Gated Content
 
 cobogo designed a way to implement the Unlock Protocol + MintGate solution into our ecosystem to offer Patrons, users, and CBG holders the best benefits on Gated Content that web3 has to offer.&#x20;
 
 ### How does it work?
 
-Because Unlock’s locks use the ERC-721 standard (NFT), a lock created through Unlock can be integrated with other tools that build utility for NFTs as well. This includes [Mintgate](https://www.mintgate.app), which gives the ability to gate any link. So, when a lock is created on Unlock, it can also be used to gate links through MintGate.
+Because Unlock’s locks use the ERC-721 standard (NFT), a lock created through Unlock can be integrated with other tools that build utility for NFTs as well. This includes [Mintgate](https://www.mintgate.app/), which gives the ability to gate any link. So, when a lock is created on Unlock, it can also be used to gate links through MintGate.
 
 This way, a Creator can set up a lock to private videos that only Patrons, Social Token holders and CBG holders with a minimum amount of tokens will be able to unlock and watch.
 
