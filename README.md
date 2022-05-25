@@ -33,4 +33,6 @@ We constantly post new articles on Medium with the goal of educating people abou
 * [Why is the number of likes on Social Media a metric of the past?](https://medium.com/@cobogosocial/why-is-the-number-of-likes-on-social-media-a-metric-of-the-past-ea1a2190a216)
 * [Communities Strike Back: A Time for Content Creators' DAOs](https://medium.com/@cobogosocial/communities-strike-back-a-time-for-content-creators-daos-590a036e0497)
 * [NFTs by and for Content Creators: the power lies in the communities. ](https://medium.com/@cobogosocial/nfts-by-and-for-content-creators-73839ab0b7cf)
+* [a16z's vision for the future of Web3: cobogo](https://medium.com/@cobogosocial/a16zs-vision-for-the-future-of-web3-cobogo-e15dad2dea9d)
+* [What is a Media Kit and Why You Should Have One (No Matter What)](https://medium.com/@cobogosocial/what-is-a-media-kit-and-why-you-should-have-one-no-matter-what-bf57f33d482c)
 
