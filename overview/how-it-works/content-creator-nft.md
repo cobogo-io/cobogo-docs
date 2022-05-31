@@ -6,6 +6,6 @@ Every Creator that finishes the onboarding process will be whitelisted and will 
 
 Most importantly, the NFT will be the first Content Creator authenticated proxy, which means that **everyone that mints this NFT is necessarily a Content Creator.**&#x20;
 
-We have envisioned this as a way for projects or brands that want to get the word around their projects to use it as a marketing mechanism, to for example airdrop tokens to Content Creators. This Creators, which are natural community builders and influencers, will then be able to use these tokens or try out the product. This is great for creating buzz, and Creators will benefit the most from it.&#x20;
+We have envisioned this as a way for projects or brands that want to get the word around their projects to use it as a marketing mechanism, to for example airdrop tokens to Content Creators. These Creators, which are natural community builders and influencers, will then be able to use these tokens or try out the product. This is great for creating buzz, and Creators will benefit the most from it.&#x20;
 
 For that, the Content Creator NFT will be a valuable asset that will only get more valuable over time, as more Creators join the platform, making them part of a select and powerful community.
