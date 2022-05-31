@@ -1,6 +1,6 @@
 # Content Creator NFT
 
-Just as Fans will [receive an NFT](nft-as-proof-of-active-patronage.md) that proves they own a staking position in a Creator's pool, that will allow them to access some perks, Creator will also get an NFT that proves they are Content Creators.&#x20;
+Just as Fans will [receive an NFT](nft-as-proof-of-active-patronage.md) that proves they own a staking position in a Creator's pool, that will allow them to access some perks, Creators will also get an NFT that proves they are Content Creators.&#x20;
 
 Every Creator that finishes the onboarding process will be whitelisted and will be able to mint a Content Creator NFT. This NFT, besides being a beautiful artwork, will grant its holders many perks, such as getting access to exclusive servers in our Discord.&#x20;
 
