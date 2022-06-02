@@ -40,6 +40,7 @@
 * [Supply and Distribution](tokenomics/supply-and-distribution.md)
 * [Token Emission](tokenomics/token-emission.md)
 * [Bounties](tokenomics/bounties.md)
+* [cobogo Expanse](tokenomics/cobogo-expanse.md)
 * [Liquidity Mining](tokenomics/liquidity-mining.md)
 * [DAO Treasury](tokenomics/dao-treasury.md)
 * [Rewards](tokenomics/rewards.md)
