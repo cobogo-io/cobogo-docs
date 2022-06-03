@@ -83,6 +83,7 @@
   * [Week 20 - 20/05/2022](weekly-updates/weeks-11-20/week-20-20-05-2022.md)
 * [Weeks 21-30](weekly-updates/weeks-21-30/README.md)
   * [Week 21 - 27/05/2022](weekly-updates/weeks-21-30/week-21-27-05-2022.md)
+  * [Week 22 - 03/06/2022](weekly-updates/weeks-21-30/week-22-03-06-2022.md)
 
 ## Branding
 
