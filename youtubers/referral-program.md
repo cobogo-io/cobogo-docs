@@ -4,9 +4,13 @@ As described in [this](../tokenomics/bounties.md) page, we have a Referral Progr
 
 On the first phase of the program, the Creators entering the whitelist will be able to invite their friends to join the platform on step 4 of the onboarding process.
 
-All they will have to do is copy their unique referral link and share to as many people as they can, telling their friends to enter the wait list, and preferably join our [Discord](https://discord.gg/p3xScxHz).&#x20;
+All they will have to do is copy their referral link and share to as many people as they can, telling their friends to enter the whitelist, and preferably join our Discord.&#x20;
 
-![](../.gitbook/assets/5.PNG)
+![](<../.gitbook/assets/6-Whitelist - 04 - Desktop.png>)
+
+If you click on "view referral link", this page below will appear, with your unique referral link. All you have to do is share it with your YouTuber friends.
+
+![](<../.gitbook/assets/12-Whitelist - Referral dashboard.png>)
 
 If the referred friend actually submits their channel to enter the whitelist (see the [Getting Started](getting-started.md)), using the Creator's unique link, he will get 100 CBG as a reward, and the Creator who referred him will get 50 CBG as commission.
 
