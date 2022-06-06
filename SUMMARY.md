@@ -22,6 +22,16 @@
 
 * [Getting Started](youtubers/getting-started.md)
 * [Referral Program](youtubers/referral-program.md)
+* [Making a Video](youtubers/making-a-video.md)
+
+## Fans
+
+* [Referral Program](fans/referral-program.md)
+
+## Growth Strategies
+
+* [cobogo Expanse](growth-strategies/cobogo-expanse.md)
+* [Bounties](growth-strategies/bounties.md)
 
 ## Investment/Funding
 
@@ -39,8 +49,6 @@
   * [Content Creator ETF](tokenomics/token-utility/content-creator-etf.md)
 * [Supply and Distribution](tokenomics/supply-and-distribution.md)
 * [Token Emission](tokenomics/token-emission.md)
-* [Bounties](tokenomics/bounties.md)
-* [cobogo Expanse](tokenomics/cobogo-expanse.md)
 * [Liquidity Mining](tokenomics/liquidity-mining.md)
 * [DAO Treasury](tokenomics/dao-treasury.md)
 * [Rewards](tokenomics/rewards.md)

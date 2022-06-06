@@ -14,7 +14,7 @@ To start using cobogo as a Creator, you will have to go through the following on
 
 ### Submitting a Channel
 
-First, you will have to click on "join now" on the main page. Then, you'll have to submit your channel for analysis by connecting to your YouTube account. Your credentials and passwords will not be stored for future network authentications.
+First, you will have to click on "_join now_" on the main page. Then, you'll have to submit your channel by connecting to your YouTube account. Your credentials and passwords will not be stored for future network authentications.
 
 Eventually, we want to support Creators from other platforms, but initially, the whitelist will be intended for YouTube Content Creators.
 
@@ -28,7 +28,7 @@ After that, you will have to create your profile. In this profile, you will writ
 
 In addition, you will have to choose a handle for your profile, and the categories your channel is inserted in, so that your profile is more easily found when fans are looking for a channel to support.
 
-After that, hit 'send to review'. Don't worry, you'll be able to change these options later if you want to.
+After that, hit '_send to review_'. Don't worry, you'll be able to change these options later if you want to.
 
 ![](<../.gitbook/assets/4-Whitelist - 02 - Desktop.png>)
 
@@ -40,13 +40,15 @@ Now you'll have to connect to your MetaMask Wallet. Click on the button to authe
 
 ### Inviting your friends
 
-You have now guaranteed your 100 CBG tokens and your exclusive Content Creator NFT!
+You have now guaranteed your **100 CBG tokens** and your **exclusive** **Content Creator NFT**!
 
 There's a few more tasks you can do in order to earn more, and each of them are described in the list.
 
-We give special attention to Referral Program part, where you can earn 50 more CBG for each YouTuber that joins the whitelist using your referral link. The more friends complete the onboarding process, more CBG you and them can earn!
+We give special attention to Referral Program part, where you can earn **50 more CBG for each YouTuber** that joins the whitelist using your referral link. The more friends complete the onboarding process, more CBG you and them can earn!
 
 You can learn more about the Referral Program [here](referral-program.md).&#x20;
+
+You can also earn **1,000 CBG tokens** by recording and posting a video talking about cobogo, to see more details, click [here](making-a-video.md).
 
 If you don't want to earn more CBG, you can click "skip".
 
@@ -54,7 +56,7 @@ If you don't want to earn more CBG, you can click "skip".
 
 ### Success!
 
-After whitelisting your channel, you can also join our Telegram made especially for Content Creators.
+After whitelisting your channel, you can also join our Telegram group made especially for Content Creators.
 
 ![](<../.gitbook/assets/9-Whitelist - 05 - Desktop.png>)
 
