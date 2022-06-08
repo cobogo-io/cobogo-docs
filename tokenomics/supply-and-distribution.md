@@ -57,13 +57,13 @@ It is worth noting that there will be an internal policy to determine whether a 
 
 ### Seed (10%)
 
-A total of 10%, which is equivalent to 10,000,000 CBG tokens will be destined to the first round of investments. This sale will be used to raise funds for the development of cobogo, and it is scheduled to start in April 2022 .&#x20;
+A total of 10%, which is equivalent to 10,000,000 CBG tokens will be destined to the first round of investments. This sale will be used to raise funds for the development of cobogo.&#x20;
 
 This will be the best opportunity for investors. The tokens acquired will not be locked, but will be distributed along 12 months.
 
 ### Private Sale (10%)
 
-Another 10,000,000 CBG tokens will be sold to investors starting in July, 2022. This time, there will also be no locked period, but the tokens will be distributed along 36 months.
+Another 10,000,000 CBG tokens will be sold to investors. This time, there will also be no locked period, but the tokens will be distributed along 36 months.
 
 The funds raised will be used for the development of cobogo as well, including hiring more people for the team and marketing.
 
@@ -77,7 +77,7 @@ The funds raised will be used for the development of cobogo as well, including h
 
 The amount of 16,000,000 CBG tokens will be destined for public sales, which means that anyone in the community will be able to buy CBG tokens in a decentralized exchange or any other platform available.&#x20;
 
-This is scheduled to happen in February 2023. At this point in time, there will be 36,000,000 CBG tokens circulating. We expect to start a marketing campaign announcing the start of CBG sale in October 2022.
+At this point in time, there will be 36,000,000 CBG tokens circulating, and we expect to start a marketing campaign announcing the start of CBG sale.
 
 #### Liquidity Mining (12%)
 
@@ -87,11 +87,11 @@ This is scheduled to happen in February 2023. At this point in time, there will 
 
 The amount of 8,000,000 CBG tokens will be directed towards bounties, which refer to the rewards YouTuber Creators who invite other Creators can earn.&#x20;
 
-This distribution will happen over 3 phases. In the first one, which will happen in March 2022, 2.5% tokens, equivalent to 2,500,000 CBG will be assigned. In this first phase, each invited Creator will get 200 CBG, while the one who referred to cobogo will get 100 CBG.&#x20;
+This distribution will happen over 3 phases. In the first one, 2.5% tokens, equivalent to 2,500,000 CBG will be assigned. In this first phase, each invited Creator will get 200 CBG, while the one who referred to cobogo will get 100 CBG.&#x20;
 
-Followed by phase 2, in June 2022, 1.5% (1,500,000 CBGs) will be distributed, except that this time, the invited Creator will get 100 CBG and the one who referred, 50 CBG.&#x20;
+Followed by phase 2, 1.5% (1,500,000 CBGs) will be distributed, except that this time, the invited Creator will get 100 CBG and the one who referred, 50 CBG.&#x20;
 
-In phase 3, happening in September 2022, 1.0% (1,000,000 CBG) of CBG tokens will be assigned, being 50 for the invited Creator and 20 for the Creator who invited them. All of the tokens will be locked for a year.
+In phase 3, 1.0% (1,000,000 CBG) of CBG tokens will be assigned, being 50 for the invited Creator and 20 for the Creator who invited them. All of the tokens will be locked for a year.
 
 In addition, 3% of CBG, equivalent to 3,000,000 CBG, will be destined to Quests, and will be distributed among those community members who complete them. More details about these Quests will be defined in the future.
 
