@@ -4,13 +4,13 @@ The Cobogo Token (CBG) is an utility token that exists so Patrons can stake on t
 
 The Cobogo Token will be used for staking, capturing fees and for governance, which will allow holders to vote for upgrades. The token will be allocated in rounds into public and private sales, founders, seed, treasury, strategic YouTubers, airdrops and bounties, as follows:
 
-![](../../.gitbook/assets/Supply.png)
+![](../.gitbook/assets/Supply.png)
 
-The term "Community" refers to all of the CBG tokens that will be open for community members to aquire. Here's how this 40% (40,000,000 CBGs) will be distributed among bounties, airdrops, liquidity mining, liquidity, as well as the public sale.&#x20;
+The term "Community" refers to all of the CBG tokens that will be open for community members to acquire. Here's how this 40% (40,000,000 CBG) will be distributed among bounties, airdrops, liquidity mining, liquidity, as well as the public sale.&#x20;
 
 The tokens will also be used as a mechanism to increase the APY in case the staking ratio is too high. It can also be burned in case the staking ratio is too low for a prolonged period of time.
 
-![](<../../.gitbook/assets/Community Supply.png>)
+![](<../.gitbook/assets/Community Supply.png>)
 
 We'll explain now what each term is about. Check the Table of Contents for quick access.
 
@@ -35,7 +35,7 @@ The circulating supply will start at zero, and progressively increase as the ves
 
 The maximum total supply will start at 100,000,000 CBG, and it can slowly increase every year as described in [this section](token-emission.md).
 
-![](<../../.gitbook/assets/supply (1).PNG>)
+![](<../.gitbook/assets/supply (1).PNG>)
 
 ### Treasury (20%)
 
@@ -51,7 +51,7 @@ This amount will remain locked for the first 12 months.
 
 The Cobogo team and founders will receive a total of 18,000,000 CBG tokens. However, this amount will be locked for the first 12 months, and will be distributed in its entirety along the next 36 months, following this graph:
 
-![](../../.gitbook/assets/founders.PNG)
+![](../.gitbook/assets/founders.PNG)
 
 It is worth noting that there will be an internal policy to determine whether a team member should get an amount of CBG, that will specially consider the time working in the team.
 
