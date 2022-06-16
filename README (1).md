@@ -1,6 +1,6 @@
 # What is cobogo?
 
-cobogo is a platform made especially for **Content Creators**, that has the goal of giving them **power** their own monetization and their communities, using Web3 to achieve that.
+cobogo is a platform made especially for **Content Creators**, that has the goal of giving them **power** over their own monetization and their communities, using Web3 to achieve that.
 
 In the cobogo platform, Creators can:
 
