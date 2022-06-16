@@ -4,8 +4,8 @@ cobogo is a platform made especially for **Content Creators**, that has the goal
 
 In the cobogo platform, Creators can:
 
-1. advertise their **Media Kit**, showing their work, metrics, options for collaboration, and any other information they want **high-quality clients** to see; and&#x20;
-2. be **sustainably funded** through their own communities by using our unique **Staking Mechanism**.
+1. advertise their [**Media Kit**](overview/how-it-works/creator-profiles.md), showing their work, metrics, options for collaboration, and any other information they want **high-quality clients** to see; and&#x20;
+2. be **sustainably funded** through their own communities by using our unique [**Staking Mechanism**](overview/how-it-works/funding-mechanism.md).
 
 We want Content Creators to be able to **easily and quickly** showcase what they do to potential clients, and **match them** with this clients in what we call the **Media Market**. This way, we want to help Creators sell their services and at the same time, we want to help clients find the Creators in our platform that **best fit** their needs.&#x20;
 
