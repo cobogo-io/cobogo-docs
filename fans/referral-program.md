@@ -4,11 +4,15 @@
 If you're a **YouTuber**, go to [this](../youtubers/referral-program.md) tutorial.
 {% endhint %}
 
-{% hint style="info" %}
 **If you know YouTubers** and want to invite them to join cobogo, you can do so by clicking directly on this link: [https://app.cobogo.social/referral-dashboard](https://app.cobogo.social/referral-dashboard)
-{% endhint %}
 
-If you are a Fan you came across this page below from a YouTuber's link, you can connect your MetaMask Wallet to get your own referral link to earn 50 CBG tokens for every YouTuber that joins.
+This link will open up the "referral dashboard", and all you will have to do is connect to your MetaMask wallet so the platform can generate **your unique referral link**.
+
+Share this link with YouTubers, and for each one that joins our platform, **you get 50 CBG**, and they get 100!
+
+![](<../.gitbook/assets/referral dashboard.PNG>)
+
+If you are a Fan you came across this page below from a YouTuber's link, you can also connect your MetaMask Wallet to get your own referral link, and earn 50 CBG tokens for every YouTuber that joins.
 
 ![](<../.gitbook/assets/10-Whitelist - Blankslate - 01.png>)
 
