@@ -16,17 +16,17 @@ Read more about it [here](community-nft.md).
 
 In our Seed Round, we will offer 10% of the total supply (non-dillutable), equivalent to 10,000,000 CBG tokens at the initial supply,  our goal here is to close this round with  five external investors or less.
 
-This will happen in April, 2022, and at this point, Content Creators will start onboarding the platform. These tokens will not be locked, but they will have a vesting period of 12 months, which means that by the end of the Seed round, the cobogo token will have a circulation supply of 10,000,000.
+At the time this round starts, Content Creators will start onboarding the platform. These tokens will not be locked, but they will have a vesting period of 12 months, which means that by the end of the Seed round, the cobogo token will have a circulation supply of 10,000,000.
 
 ### Private Sale
 
-On the Private Sale, another 10,000,000 CBG tokens will be sold.  it is Scheduled to happen in July, 2022, the token will be sold at 3x the Seed Price, elevating the circulation supply to 20,000,000 at the end of the vesting period.&#x20;
+On the Private Sale, another 10,000,000 CBG tokens will be sold. The token will be sold at 3x the Seed Price, elevating the circulation supply to 20,000,000 at the end of the vesting period.&#x20;
 
 At this juncture, we expect about 60,000 Content Creators in cobogo and to be actively asking their communities to stake for them.
 
 ### Public Sale
 
-The last investment round will happen in February, 2023, and it is when 16,000,000 CBG tokens will be open to be acquired and traded by the general public.&#x20;
+The last investment round is scheduled to happen in 2023, and it is when 16,000,000 CBG tokens will be open to be acquired and traded by the general public.&#x20;
 
 By then, there will be 36,000,000 circulating CBG. If the expected growth continues, there will be 180,000 Content Creators using the platform by the time the third investment round starts.
 
