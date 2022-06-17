@@ -41,6 +41,7 @@
 * [Investment Rounds](investment-funding/investment-rounds.md)
 * [Support our Project](investment-funding/support-our-project/README.md)
   * [Dev Protocol](investment-funding/support-our-project/dev-protocol.md)
+  * [Gitcoin](investment-funding/support-our-project/gitcoin.md)
 
 ## Tokenomics
 

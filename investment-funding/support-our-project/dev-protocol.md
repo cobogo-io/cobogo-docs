@@ -1,16 +1,25 @@
 # Dev Protocol
 
-### What it is?
+> "Dev Protocol is on-chain middleware created for a whole new ecosystem designed for Open Source Software (OSS). With Dev Protocol, anyone can start to monetize their creations without changing licenses, codes, and support."
 
-[Dev Protocol](https://docs.devprotocol.xyz/en/introduction/) is a Japanese project that allows Creators to monetize their work in a sustainable way.&#x20;
+When you buy DEV tokens, you can choose a project to stake on and receive a yield in the form of inflationary rewards, using the dApp [stakes.social](https://stakes.social).&#x20;
 
-They do this currently in their [stakes.social](https://stakes.social/) dApp, where Open Source Software (OSS) Creators can apply their projects through the onboarding process, get their project authenticated, have their Social Tokens minted, and finally have their Staking Pool deployed, where Patrons can stake DEV Tokens on, similarly to Cobogo.
+This means that every year, 3.15% new DEVs are minted and allocated to Creators and Stakers, in a 51:49 split.
 
-With Dev Protocol many more markets can arise, empowering communities and capturing the value of the Creator Economy.
+In other words, both you and cobogo get interest, allowing you to sustainably fund us.
 
-### How does it work?
+### Stake on us
 
-This is all possible due to the token being inflationary, which means that every year 3.15% new DEV tokens are minted and allocated to Creators and Stakers, in a 51:49 split.
+Here's a guide on [how to buy DEV](https://docs.devprotocol.xyz/stakes-social/how-to-b) tokens and [how to stake](https://docs.devprotocol.xyz/stakes-social/how-to-stake) on a project.&#x20;
 
-By staking, both Creators and Patrons receive a yield in the form of inflationary rewards. Stakers can also hold governance rights over Dev Protocol, and for that, can have a voice in deciding tokenomics or proposing new ideas.&#x20;
+#### Ethereum
 
+[-> Our Pool on Ethereum Mainnet](https://stakes.social/0x2De96256231e5540A5A292Fb0EBF65651Eff0dAf)
+
+#### Arbitrum
+
+[-> Our pool on Arbitrum](https://stakes.social/0xfb049b86Da8D2F4e335eF2281537f5dddbE77393).
+
+#### Polygon
+
+[-> Our pool on Polygon](https://stakes.social/polygon/0x3fcC82C13054EDdb02aF75e3882A9b58130A1a30)
