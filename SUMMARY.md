@@ -96,6 +96,7 @@
   * [Week 21 - 27/05/2022](weekly-updates/weeks-21-30/week-21-27-05-2022.md)
   * [Week 22 - 03/06/2022](weekly-updates/weeks-21-30/week-22-03-06-2022.md)
   * [Week 23 - 10/06/2022](weekly-updates/weeks-21-30/week-23-10-06-2022.md)
+  * [Week 24 - 17/06/2022](weekly-updates/weeks-21-30/week-24-17-06-2022.md)
 
 ## Branding
 
