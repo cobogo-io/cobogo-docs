@@ -36,4 +36,5 @@ We constantly post new articles on Medium with the goal of educating people abou
 * [a16z's vision for the future of Web3: cobogo](https://medium.com/@cobogosocial/a16zs-vision-for-the-future-of-web3-cobogo-e15dad2dea9d)
 * [What is a Media Kit and Why You Should Have One (No Matter What)](https://medium.com/@cobogosocial/what-is-a-media-kit-and-why-you-should-have-one-no-matter-what-bf57f33d482c)
 * [Discover cobogo: Web3 Creator Monetization](https://medium.com/@cobogosocial/discover-cobogo-web3-creator-monetization-965ff70732b8)
+* [How being verified on-chain and off-chain can maximize your profit as a Content Creator](https://medium.com/@cobogosocial/how-being-verified-on-chain-and-off-chain-can-maximize-your-profit-as-a-content-creator-7bc350af2c1)
 
