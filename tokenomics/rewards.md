@@ -1,6 +1,6 @@
 # Rewards
 
-As described on the [Token Emission](token-emission.md) Section, the Rewards are the incentives cobogo has designed for Patrons to fund their favorite Creators while also being rewarded for it. It is a win-win mechanism for both Patrons and Creators.&#x20;
+As described on the [Token Emission](token-emission.md) Section, the Rewards are the incentives cobogo has designed for Fans to fund their favorite Creators while also being rewarded for it. It is a win-win mechanism for both Patrons and Creators.&#x20;
 
 ### 1. Game Theory
 
@@ -12,21 +12,21 @@ Just to be clear, in real life, when you join cobogo, you're not required to giv
 
 #### 1.1. The Game
 
-Suppose there are 2 players, one is the Creator and the other is the Patron. The latter dedicates $100 of his monthly income to donate to his favorite Open Source Software Creator. Financially the amount he donates gives him a **-** **$100** payoff, but, let's say that the satisfaction of donating to his favorite project is equivalent to him to a **+$100** payoff. The net payoff for him would be **$0**.
+Suppose there are 2 players, one is the Creator and the other is the Fan. The latter dedicates $100 of his monthly income to donate to his favorite Open Source Software Creator. Financially the amount he donates gives him a **-** **$100** payoff, but, let's say that the satisfaction of donating to his favorite project is equivalent to him to a **+$100** payoff. The net payoff for him would be **$0**.
 
-![](../../.gitbook/assets/2.png)
+![](../.gitbook/assets/2.png)
 
 Now consider that a Creator has his project pool on cobogo and only accepts CBG. In this case, the potential Patron who either did not afford to be altruistic or did not get the sufficient satisfaction from being altruistic to justify a donation might get the incentive to fund that project.
 
 Let's say that the Patron stakes the sufficient amount of CBG tokens that the Monthly Yield equals $100. In this case he gets both the **+$100** from the staking rewards AND the equivalent of **+$100** from the satisfaction of donating for his favorite project.
 
-![](../../.gitbook/assets/1.png)
+![](../.gitbook/assets/1.png)
 
-So in this game, both strategies **cobogo staking:cobogo staking** and **Donation:Donation** are Nash Equilibria. But, when the Patron deviates his strategy to cobogo staking he has a better payoff, making it the **dominant, and** **optimal** **strategy**.
+So in this game, both strategies **cobogo staking:cobogo staking** and **Donation:Donation** are Nash Equilibria. But, when the Fan deviates his strategy to cobogo staking he has a better payoff, making it the **dominant, and** **optimal** **strategy**.
 
 ### 2. Detailing the Rewards
 
-In our split funding mechanism both Patrons and Creators get a yield that come from the token emission, the treasury and platform fees.
+In our split funding mechanism both Fans and Creators get a yield that come from the token emission, the treasury and platform fees.
 
 The reward emission is inversely proportional to the staking ratio, that is, the lower the amount of CBG staked in relation to the total CBG circulating supply, the higher the Reward is, and vice-versa. This way, we are creating incentives for first-mover Patrons to fund their favorite creators and be rewarded for it.
 
