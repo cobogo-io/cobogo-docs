@@ -10,5 +10,5 @@ These tokens **will not be locked** for any period of time, which means the fan 
 
 This way, **Content Creators can monetize their work without having to rely on a single point of failure**, and Fans can support Creators while still keeping their principal, and earning interest on top of it.
 
-![](../../.gitbook/assets/technical-viewpoint-new.png)
+![](../../.gitbook/assets/Ilustracao-Cobogo\_1.jpg)
 
