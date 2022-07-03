@@ -6,4 +6,4 @@ Here are the mockups for the [Creator Profile](../how-it-works/creator-profiles.
 
 ![](<../../.gitbook/assets/3-Profile v3 - Modal - Media Kit - Analytics.png>) ![](<../../.gitbook/assets/2-Profile v3 - Modal - Media Kit - Social.png>)
 
-![](<../../.gitbook/assets/5-Profile v3 - Modal - Basic Infos.png>) ![](<../../.gitbook/assets/4-Profile v3 - Modal - Services Offered - List.png>)
+![](<../../.gitbook/assets/5-Profile v3 - Modal - Basic Infos.png>) ![](<../../.gitbook/assets/4-Profile v3 - Modal - Services Offered - List (2).png>)

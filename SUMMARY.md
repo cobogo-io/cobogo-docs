@@ -8,7 +8,7 @@
 * [How it works?](overview/how-it-works/README.md)
   * [Creator Profiles](overview/how-it-works/creator-profiles.md)
   * [Funding Mechanism](overview/how-it-works/funding-mechanism.md)
-  * [NFT as Proof of Active Patronage](overview/how-it-works/nft-as-proof-of-active-patronage.md)
+  * [CFT- NFT as Proof of Active Patronage](overview/how-it-works/nft-as-proof-of-active-patronage.md)
   * [Content Creator NFT](overview/how-it-works/content-creator-nft.md)
 * [Platform Preview](overview/platform-preview/README.md)
   * [Onboarding](overview/platform-preview/onboarding.md)
