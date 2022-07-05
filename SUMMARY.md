@@ -15,6 +15,7 @@
   * [Main dAPP](overview/platform-preview/main-dapp.md)
   * [Creator Profiles](overview/platform-preview/creator-profiles.md)
 * [Planned Features](overview/planned-features/README.md)
+  * [Cobogo Vaults](overview/planned-features/cobogo-vaults.md)
   * [Gated Content](overview/planned-features/gated-content.md)
   * [Direct Donation](overview/planned-features/direct-donation.md)
   * [Manage Social Tokens](overview/planned-features/manage-social-tokens.md)
