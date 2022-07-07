@@ -1,6 +1,6 @@
 # Bounties
 
-As a way to distribute CBG tokens to the community, cobogo will have a type of Referral Program, in the form of bounties. These bounties will happen in three phases, and in each, different amounts of CBGs will be up for grabs. In total, 8,000,000 CBGs will be handed out, as a way to encourage the community’s growth.
+As a way to distribute CBG tokens to the community, cobogo will have Referral Programs, in the form of bounties. These bounties will happen in three phases, and in each, different amounts of CBGs will be up for grabs. In total, 8,000,000 CBGs will be handed out, as a way to encourage the community’s growth.
 
 ### Phase 1
 
