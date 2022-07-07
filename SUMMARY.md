@@ -51,11 +51,13 @@
   * [Split Yield Monetization](tokenomics/token-utility/split-yield-monetization.md)
   * [Governance](tokenomics/token-utility/governance.md)
   * [Platform Fee](tokenomics/token-utility/platform-fee.md)
-* [Supply and Distribution](tokenomics/supply-and-distribution.md)
+* [Supply and Distribution](tokenomics/supply-and-distribution/README.md)
+  * [Circulating Supply](tokenomics/supply-and-distribution/circulating-supply.md)
 * [Token Emission](tokenomics/token-emission.md)
 * [Liquidity Mining](tokenomics/liquidity-mining.md)
 * [DAO Treasury](tokenomics/dao-treasury.md)
-* [Rewards](tokenomics/rewards.md)
+* [Rewards](tokenomics/rewards/README.md)
+  * [Game Theory](tokenomics/rewards/game-theory.md)
 * [Content Market](tokenomics/content-market.md)
 
 ## DAO
