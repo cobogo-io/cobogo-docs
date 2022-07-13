@@ -47,6 +47,7 @@
 ## Tokenomics
 
 * [CBG Token](tokenomics/cbg-token.md)
+* [CFT Token](tokenomics/cft-token.md)
 * [Token Utility](tokenomics/token-utility/README.md)
   * [Split Yield Monetization](tokenomics/token-utility/split-yield-monetization.md)
   * [Governance](tokenomics/token-utility/governance.md)
