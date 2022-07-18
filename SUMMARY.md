@@ -104,6 +104,7 @@
   * [Week 25 - 24/06/2022](weekly-updates/weeks-21-30/week-25-24-06-2022.md)
   * [Week 26 - 01/07/2022](weekly-updates/weeks-21-30/week-26-01-07-2022.md)
   * [Week 27 - 08/07/2022](weekly-updates/weeks-21-30/week-27-08-07-2022.md)
+  * [Week 28 - 15/07/2022](weekly-updates/weeks-21-30/week-28-15-07-2022.md)
 
 ## Branding
 

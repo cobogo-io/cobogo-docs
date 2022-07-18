@@ -12,6 +12,10 @@ If you want to skip ahead, you can go directly to these useful links:
 * [How to refer friends and get CBG tokens?](youtubers/referral-program.md)
 * [cobogo DAO](dao/introduction.md)
 
+{% hint style="info" %}
+Or you can go to our Tokenomics Document on Google Drive, by clicking [here](https://drive.google.com/file/d/1ZU0nbnju3p-UilOdVNTFE1LOA60hl0Tn/view?usp=drivesdk).
+{% endhint %}
+
 ## The Creator Economy
 
 We know how difficult it is for Creators of all kinds to make a living out of their creations. Although Web 2.0 has allowed an easily accessible monetization for the masses, some people still struggle with this combination of "decentralized delivery and centralized control".
@@ -35,3 +39,4 @@ We constantly post new articles on Medium with the goal of educating people abou
 * [What is a Media Kit and Why You Should Have One (No Matter What)](https://medium.com/@cobogosocial/what-is-a-media-kit-and-why-you-should-have-one-no-matter-what-bf57f33d482c)
 * [Discover cobogo: Web3 Creator Monetization](https://medium.com/@cobogosocial/discover-cobogo-web3-creator-monetization-965ff70732b8)
 * [How being verified on-chain and off-chain can maximize your profit as a Content Creator](https://medium.com/@cobogosocial/how-being-verified-on-chain-and-off-chain-can-maximize-your-profit-as-a-content-creator-7bc350af2c1)
+* [How to make money on the internet as an artist](https://medium.com/@cobogosocial/how-to-make-money-on-the-internet-as-an-artist-ca851167c5fa)
