@@ -1,22 +1,28 @@
+---
+description: In this page you can learn how to onboard cobogo as a Content Creator.
+---
+
 # Getting Started
 
-### To join our waitlist, visit [https://app.cobogo.social](https://app.cobogo.social)
-
 {% hint style="info" %}
-Initially, our onboarding process will be destined for Content Creators wanting to get **whitelisted**. These will be the first to have their tokens and pool minted once the platform is up and running.
+#### To have your own Creator Profile, go to [https://app.cobogo.social](https://app.cobogo.social)
 {% endhint %}
 
-{% hint style="warning" %}
-You can earn CBG when joining the whitelist. Read more about the [referral program](referral-program.md).
+{% hint style="success" %}
+You can earn CBG when making your Profile and referring friends. Read more about the [referral program](referral-program.md).
 {% endhint %}
 
-To start using cobogo as a Creator, you will have to go through the following onboarding process:
+With cobogo, you can have your own personalized Creator Profile that shows all the relevant information about you and your services. Read more about the Creator Profiles [here](../overview/how-it-works/creator-profiles.md).
+
+To make your Profile, you will have to go through this following process:
 
 ### Submitting a Channel
 
-First, you will have to click on "_join now_" on the main page. Then, you'll have to submit your channel by connecting to your YouTube account. Your credentials and passwords will not be stored for future network authentications.
+First, you will have to click on "_join now_" on the main page.&#x20;
 
-Eventually, we want to support Creators from other platforms, but initially, the whitelist will be intended for YouTube Content Creators.
+Then, you'll have to submit your channel by connecting to your YouTube account. Your credentials and passwords will not be stored for future network authentications.
+
+You can join cobogo even if you're not a YouTube Content Creator, you just need to have a YouTube account.
 
 ![](<../.gitbook/assets/1-Whitelist - 00 - Desktop (1).png>)
 
@@ -28,13 +34,15 @@ After that, you will have to create your profile. In this profile, you will writ
 
 In addition, you will have to choose a handle for your profile, and the categories your channel is inserted in, so that your profile is more easily found when fans are looking for a channel to support.
 
-After that, hit '_send to review_'. Don't worry, you'll be able to change these options later if you want to.
+After that, hit 'next step'. Don't worry, you'll be able to change these options later if you want to.
 
 ![](<../.gitbook/assets/4-Whitelist - 02 - Desktop.png>)
 
 ### Connecting your wallet
 
-Now you'll have to connect to your MetaMask Wallet. Click on the button to authenticate it.
+Next, you can connect to your MetaMask Wallet. Click on the button to authenticate it.
+
+You can skip this part if you want to.
 
 ![](<../.gitbook/assets/5-Whitelist - 03 - Desktop.png>)
 
@@ -46,7 +54,7 @@ There's a few more tasks you can do in order to earn more, and each of them are 
 
 We give special attention to Referral Program part, where you can earn **50 more CBG for each YouTuber** that joins the whitelist using your referral link. The more friends complete the onboarding process, more CBG you and them can earn!
 
-You can learn more about the Referral Program [here](referral-program.md).&#x20;
+You can learn more about the Referral Program [here](referral-program.md).
 
 You can also earn **1,000 CBG tokens** by recording and posting a video talking about cobogo, to see more details, click [here](making-a-video.md).
 
@@ -59,6 +67,3 @@ If you don't want to earn more CBG, you can click "skip".
 After whitelisting your channel, you can also join our Telegram group made especially for Content Creators.
 
 ![](<../.gitbook/assets/9-Whitelist - 05 - Desktop.png>)
-
-
-
