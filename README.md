@@ -13,7 +13,7 @@ If you want to skip ahead, you can go directly to these useful links:
 * [cobogo DAO](dao/introduction.md)
 
 {% hint style="info" %}
-Or you can go to our Tokenomics Document on Google Drive, by clicking [here](https://drive.google.com/file/d/1ZU0nbnju3p-UilOdVNTFE1LOA60hl0Tn/view?usp=drivesdk).
+If you prefer, you can go to our Tokenomics Document on Google Drive, by clicking [here](https://drive.google.com/file/d/1ZU0nbnju3p-UilOdVNTFE1LOA60hl0Tn/view?usp=drivesdk).
 {% endhint %}
 
 ## The Creator Economy
