@@ -26,6 +26,7 @@
 * [Getting Started](youtubers/getting-started.md)
 * [Referral Program](youtubers/referral-program.md)
 * [Making a Video](youtubers/making-a-video.md)
+* [Making your Profile](youtubers/making-your-profile.md)
 
 ## Fans
 

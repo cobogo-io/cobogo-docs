@@ -14,7 +14,7 @@ You can earn CBG when making your Profile and referring friends. Read more about
 
 With cobogo, you can have your own personalized Creator Profile that shows all the relevant information about you and your services. Read more about the Creator Profiles [here](../overview/how-it-works/creator-profiles.md).
 
-To make your Profile, you will have to go through this following process:
+To make your Profile, you will have to go through this following onboarding process:
 
 ### Submitting a Channel
 
@@ -34,7 +34,7 @@ After that, you will have to create your profile. In this profile, you will writ
 
 In addition, you will have to choose a handle for your profile, and the categories your channel is inserted in, so that your profile is more easily found when fans are looking for a channel to support.
 
-After that, hit 'next step'. Don't worry, you'll be able to change these options later if you want to.
+After that, hit 'next step'. Don't worry, you'll be able to change these options later, and add more information regarding your services and metrics.
 
 ![](<../.gitbook/assets/4-Whitelist - 02 - Desktop.png>)
 
@@ -58,9 +58,11 @@ You can learn more about the Referral Program [here](referral-program.md).
 
 You can also earn **1,000 CBG tokens** by recording and posting a video talking about cobogo, to see more details, click [here](making-a-video.md).
 
+In addition, Creators can now have their own [Creator Profile](../overview/how-it-works/creator-profiles.md), that works like a Media Kit, and 50 earn by doing that!
+
 If you don't want to earn more CBG, you can click "skip".
 
-![](<../.gitbook/assets/6-Whitelist - 04 - Desktop.png>)
+![](../.gitbook/assets/dashboard.PNG)
 
 ### Success!
 
