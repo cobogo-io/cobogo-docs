@@ -14,7 +14,36 @@ After **connecting your channel** and onboarding cobogo, you can update the Basi
 4. Choose the **general category** of your channel or the content you produce.
 5. Then, you can expand on some **other categories** that fit you, with up to 5 tags.
 6. In "website url" you can link your **preferred website** (LinkedIn, YouTube, GitHub, it's up to you!)
-7. In avatar, you can choose your **Profile Picture.**
-8. For the profile's banner, **1280x308** is the ideal size.
+7. For **languages**, you can set up one or more languages your speak, or produce content in.
+8. In avatar, you can choose your **Profile Picture.**
+9. For the profile's banner, **1280x308** is the ideal size.
 
 ![](<../.gitbook/assets/Profile v3 - Modal - Basic Infos (1).png>)
+
+### Social Media
+
+After editing your basic information, you can add your social media numbers.&#x20;
+
+At first, you'll have to add the number of followers, subscribers, average views, etc, manually, but we are working on having that updated automatically once you connect it to the social media.
+
+You can do that to YouTube, Instagram, Twitch, TikTok, Discord, Telegram, and Twitter.
+
+![](<../.gitbook/assets/Profile v3 - Modal - Media Kit - Social (1).png>)
+
+### Analytics
+
+You can also edit the analytics in your profile. This section allows brands to get a **quick overview** of your audience, to see if you match what they are looking for.
+
+All you have to do is click and scroll in the **gender distribution**, **age distribution**, and **top countries** sections.
+
+![](<../.gitbook/assets/Profile v3 - Modal - Media Kit - Analytics - 01.png>)
+
+### Services
+
+In this section, you can add the **services you can offer** to brands, just like you would in a **Media Kit**.&#x20;
+
+We recommend using a title that **draws people's attention**, and an easily comprehensible description of what you do in that specific service.&#x20;
+
+There's also an option to add a cover to that service, which can help making your Profile look more like you. **Be creative**!
+
+![](<../.gitbook/assets/Profile v3 - Modal - New Service (1).png>)
