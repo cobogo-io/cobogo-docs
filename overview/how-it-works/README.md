@@ -17,6 +17,6 @@ In addition, cobogo makes it possible for small and niche Creators to **monetize
 Cobogo is building an ecosystem for Creators of all kinds. Everything will be possible through the cobogo DAO, and the following features:
 
 * [Creator Profiles](creator-profiles.md)
-* [Funding Mechanism](funding-mechanism.md)
+* [Split Yield Mechanism](funding-mechanism.md)
 * [Cobogo Fan Token](nft-as-proof-of-active-patronage.md)
 * [Content Creator NFT](content-creator-nft.md)

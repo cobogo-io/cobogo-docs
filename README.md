@@ -8,8 +8,8 @@ If you want to skip ahead, you can go directly to these useful links:
 
 * [Funding (Monetization) Mechanism](overview/how-it-works/funding-mechanism.md)
 * [Tokenomics](tokenomics/supply-and-distribution/)
-* [How to submit your channel?](youtubers/getting-started.md)
-* [How to refer friends and get CBG tokens?](youtubers/referral-program.md)
+* [How to submit your channel?](creators/getting-started.md)
+* [How to refer friends and get CBG tokens?](creators/referral-program.md)
 * [cobogo DAO](dao/introduction.md)
 
 {% hint style="info" %}
@@ -40,3 +40,4 @@ We constantly post new articles on Medium with the goal of educating people abou
 * [Discover cobogo: Web3 Creator Monetization](https://medium.com/@cobogosocial/discover-cobogo-web3-creator-monetization-965ff70732b8)
 * [How being verified on-chain and off-chain can maximize your profit as a Content Creator](https://medium.com/@cobogosocial/how-being-verified-on-chain-and-off-chain-can-maximize-your-profit-as-a-content-creator-7bc350af2c1)
 * [How to make money on the internet as an artist](https://medium.com/@cobogosocial/how-to-make-money-on-the-internet-as-an-artist-ca851167c5fa)
+* [Yield-bearing NFTs for Creators' continuous monetization](https://medium.com/@cobogosocial/yield-bearing-nfts-for-creators-continuous-monetization-94dcd65d8801)

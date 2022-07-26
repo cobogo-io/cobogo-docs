@@ -11,9 +11,9 @@
   * [Cobogo Fan Token](overview/how-it-works/nft-as-proof-of-active-patronage.md)
   * [Content Creator NFT](overview/how-it-works/content-creator-nft.md)
 * [Platform Preview](overview/platform-preview/README.md)
+  * [Creator Profiles](overview/platform-preview/creator-profiles.md)
   * [Onboarding](overview/platform-preview/onboarding.md)
   * [Main dAPP](overview/platform-preview/main-dapp.md)
-  * [Creator Profiles](overview/platform-preview/creator-profiles.md)
 * [Planned Features](overview/planned-features/README.md)
   * [Cobogo Vaults](overview/planned-features/cobogo-vaults.md)
   * [Gated Content](overview/planned-features/gated-content.md)
@@ -21,12 +21,12 @@
   * [Manage Social Tokens](overview/planned-features/manage-social-tokens.md)
 * [Team](overview/team.md)
 
-## Youtubers
+## Creators
 
-* [Getting Started](youtubers/getting-started.md)
-* [Referral Program](youtubers/referral-program.md)
-* [Making a Video](youtubers/making-a-video.md)
-* [Making your Profile](youtubers/making-your-profile.md)
+* [Getting Started](creators/getting-started.md)
+* [Referral Program](creators/referral-program.md)
+* [Making a Video](creators/making-a-video.md)
+* [Making your Profile](creators/making-your-profile.md)
 
 ## Fans
 
