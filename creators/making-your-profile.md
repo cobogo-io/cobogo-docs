@@ -47,3 +47,11 @@ We recommend using a title that **draws people's attention**, and an easily comp
 There's also an option to add a cover to that service, which can help making your Profile look more like you. **Be creative**!
 
 ![](<../.gitbook/assets/Profile v3 - Modal - New Service (1).png>)
+
+### Publish it
+
+Your profile will be ready to be published! Click on "publish profile" and use it as your Media Kit!
+
+In the future, Fans will able to stake for you in this same profile page!
+
+![](../.gitbook/assets/10.PNG)
