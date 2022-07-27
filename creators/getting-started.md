@@ -58,7 +58,7 @@ You can learn more about the Referral Program [here](referral-program.md).
 
 You can also earn **1,000 CBG tokens** by recording and posting a video talking about cobogo, to see more details, click [here](making-a-video.md).
 
-In addition, Creators can now have their own [Creator Profile](../overview/how-it-works/creator-profiles.md), that works like a Media Kit, and 50 earn by doing that!
+In addition, Creators can now have their own [Creator Profile](../overview/how-it-works/creator-profiles.md), that works like a Media Kit, and 50 earn by doing that! To know how to do it, click here.
 
 If you don't want to earn more CBG, you can click "skip".
 
