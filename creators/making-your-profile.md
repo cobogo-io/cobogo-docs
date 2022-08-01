@@ -52,6 +52,6 @@ There's also an option to add a cover to that service, which can help making you
 
 Your profile will be ready to be published! Click on "publish profile" and use it as your Media Kit!
 
-In the future, Fans will able to stake for you in this same profile page!
+In the future, Fans will be able to stake for you in this same profile page!
 
 ![](../.gitbook/assets/10.PNG)
