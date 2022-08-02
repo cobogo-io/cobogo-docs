@@ -107,6 +107,7 @@
   * [Week 27 - 08/07/2022](weekly-updates/weeks-21-30/week-27-08-07-2022.md)
   * [Week 28 - 15/07/2022](weekly-updates/weeks-21-30/week-28-15-07-2022.md)
   * [Week 29 - 22/07/2022](weekly-updates/weeks-21-30/week-29-22-07-2022.md)
+  * [Week 30 - 02/08/2022](weekly-updates/weeks-21-30/week-30-02-08-2022.md)
 
 ## Branding
 
