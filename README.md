@@ -41,3 +41,4 @@ We constantly post new articles on Medium with the goal of educating people abou
 * [How being verified on-chain and off-chain can maximize your profit as a Content Creator](https://medium.com/@cobogosocial/how-being-verified-on-chain-and-off-chain-can-maximize-your-profit-as-a-content-creator-7bc350af2c1)
 * [How to make money on the internet as an artist](https://medium.com/@cobogosocial/how-to-make-money-on-the-internet-as-an-artist-ca851167c5fa)
 * [Yield-bearing NFTs for Creators' continuous monetization](https://medium.com/@cobogosocial/yield-bearing-nfts-for-creators-continuous-monetization-94dcd65d8801)
+* [How to choose Creators for your campaign](https://medium.com/@cobogosocial/how-to-choose-creators-for-your-campaign-50da65a1dfeb)
