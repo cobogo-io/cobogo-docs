@@ -1,7 +1,7 @@
 # Blockchain Basics
 
 {% hint style="info" %}
-If you're new to Blockchain, this is a great place to start. In this section, we'll walk you through the most general concepts regarding Blockchain technology. If you wish to know more about cobogo's use for both Patrons and Creators, please go to the linked sections.
+If you're new to Blockchain, this is a great place to start. In this section, we'll walk you through the most general concepts regarding Blockchain technology. If you wish to know more about cobogo's use for both Fans and Creators, please go to the linked sections.
 {% endhint %}
 
 #### Table of Contents
@@ -25,7 +25,7 @@ If you're new to Blockchain, this is a great place to start. In this section, we
 
 ### 1. What is Blockchain?
 
-Blockchain is a technology that features a continuous list of blocks of information on a live network of computers. Each block contains a number of transactions that when filled, are closed and linked to the previously filled block, with other computers checking them using special algorithms.&#x20;
+Blockchain is a technology that features a continuous list of blocks of information on a live network of computers. Each block contains a number of transactions that when filled, are closed and linked to the previously filled block, with other computers checking them using special algorithms.
 
 The most important aspect about Blockchain is that they are decentralized, which means that no computer or agent can modify the log of events stored in the chain. That is, it doesn't rely on a single authority, but on a diverse group of smaller players.
 
@@ -33,7 +33,7 @@ All of that ensures Blockchain's security and makes it the most suitable technol
 
 ### 2. What are cryptocurrencies?
 
-Cryptocurrencies are digital assets that operate on decentralized blockchain networks. Like other currencies, they can be used as means to buy services and goods on the internet, but with the advantage of security, privacy, speed and low cost.&#x20;
+Cryptocurrencies are digital assets that operate on decentralized blockchain networks. Like other currencies, they can be used as means to buy services and goods on the internet, but with the advantage of security, privacy, speed and low cost.
 
 There are thousands of different cryptocurrencies on the market, and people can invest on them as any other asset. However, doing that can be risky, so it is recommended to do some fair amount of research to fully understand how each system works.
 
@@ -61,25 +61,25 @@ Smart Contracts are basically self-executable programs that run once predetermin
 
 For that, they are not directly controlled by a user and are published to run independently of the network and those who program it, making them more reliable. They are also open to scrutiny by anyone who wants to access the public network, which aligns with the transparent nature of Blockchain.
 
-In addition, individuals can interact with the smart contract by submitting transactions that will trigger some events in the contract.&#x20;
+In addition, individuals can interact with the smart contract by submitting transactions that will trigger some events in the contract.
 
 ### 7. What is Gas?
 
-Gas is the fee required to do the amount of computational work to validate a transaction in the network. This work is done by the nodes that dedicate their computational power to maintain the network, and in return, are paid a feed for all transactions.&#x20;
+Gas is the fee required to do the amount of computational work to validate a transaction in the network. This work is done by the nodes that dedicate their computational power to maintain the network, and in return, are paid a feed for all transactions.
 
-This fee is calculated in terms of ETH.&#x20;
+This fee is calculated in terms of ETH.
 
 ### 8. What is a dApp?
 
-Dapps are short for Decentralized Applications and it refers to software applications built from Smart Contracts on decentralized networks such as Ethereum, but with an interface that allows users to interact with it.&#x20;
+Dapps are short for Decentralized Applications and it refers to software applications built from Smart Contracts on decentralized networks such as Ethereum, but with an interface that allows users to interact with it.
 
 They are different from regular apps because they don't have a private connection to centralized servers, which offers more transparency over how its backend works.
 
 ### 9. How can I buy and sell Crypto?
 
-You can buy and sell crypto in two ways: using Decentralized Exchanges (DEXs) or using Centralized Exchanges (CEXs).&#x20;
+You can buy and sell crypto in two ways: using Decentralized Exchanges (DEXs) or using Centralized Exchanges (CEXs).
 
-DEXs are [decentralized markets](blockchain-basics.md#3.-what-is-a-decentralized-market), and for that, they are not under the control of any company. However, they are more difficult to use because they require users to know how to safely store and protect their digital assets. Examples of DEXs are KLAYSwap, Uniswap, PancakeSwap and Sushiswap.
+DEXs are [decentralized markets](blockchain-basics.md#3.-what-is-a-decentralized-market), and for that, they are not under the control of any company. However, they are more difficult to use because they require users to know how to safely store and protect their digital assets. Examples of DEXs are Uniswap, PancakeSwap and Sushiswap.
 
 CEXs are [centralized markets](blockchain-basics.md#4.-what-is-a-centralized-market), and usually are more user-friendly, since it comes with typical account features like recovering lost passwords. Examples of CEXs are Binance and Coinbase.
 
@@ -87,7 +87,7 @@ CEXs are [centralized markets](blockchain-basics.md#4.-what-is-a-centralized-mar
 
 A Wallet is a software that holds cryptocurrencies by storing your Private Keys which are used in cooperation with the appropriate Public Keys.
 
-Private Keys are a large number, randomly-generated number with hundreds of digits, and although anyone can deposit crypto into an address, they can only be withdrawn from that address with the corresponding keys.
+Private Keys are a large, randomly-generated number with hundreds of digits, and although anyone can deposit crypto into an address, they can only be withdrawn from that address with the corresponding keys.
 
 Wallets allows us to access our cryptocurrencies with passwords or Key Phrases, without having to memorize the Private Keys. However, it is safer to have the Private Keys written down in a secure location, just in case.
 
@@ -103,7 +103,7 @@ The services offered in DeFi are typically accessed using [dApps](blockchain-bas
 
 ### 12. What is Staking?
 
-Staking refers to the process of blocking your funds in a secure [Smart Contract](blockchain-basics.md#6.-what-are-smart-contracts) in order to benefit the network, and be rewarded in return. The "rewards" accrued can be thought as the interest that accumulates over time on the blocked funds.&#x20;
+Staking refers to the process of blocking your funds in a secure [Smart Contract](blockchain-basics.md#6.-what-are-smart-contracts) in order to benefit the network, and be rewarded in return. The "rewards" accrued can be thought as the interest that accumulates over time on the blocked funds.
 
 Staking using the cobogo means that Patrons are depositing the CBG tokens in a smart contract of the respective Creator the patron wants to sustainably fund. By doing that both the Patron and the Creator get rewarded with CBG Tokens.
 
@@ -123,7 +123,7 @@ A NFT, or Non-Fungible Token, is a type of token that can't be divided into smal
 
 Tokenomics concerns the monetary policy that a project has to create for its currency, and that includes the distribution and issuance of a token, how these will affect the price of the token in the future, how changes to the model can be enacted at a later date, and more
 
-This process is usually developed before the token is released and tweaked over time.&#x20;
+This process is usually developed before the token is released and tweaked over time.
 
 ### 16. What is Layer 2 (L2)?
 
