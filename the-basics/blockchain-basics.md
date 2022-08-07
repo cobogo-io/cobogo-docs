@@ -105,7 +105,7 @@ The services offered in DeFi are typically accessed using [dApps](blockchain-bas
 
 Staking refers to the process of blocking your funds in a secure [Smart Contract](blockchain-basics.md#6.-what-are-smart-contracts) in order to benefit the network, and be rewarded in return. The "rewards" accrued can be thought as the interest that accumulates over time on the blocked funds.
 
-Staking using the cobogo means that Patrons are depositing the CBG tokens in a smart contract of the respective Creator the patron wants to sustainably fund. By doing that both the Patron and the Creator get rewarded with CBG Tokens.
+Staking using the cobogo means that Fans are depositing the CBG tokens in a smart contract of the respective Creator the Fan wants to sustainably fund. By doing that both the Fan and the Creator get rewarded with CBG Tokens.
 
 ### 13. What is a Pool?
 
