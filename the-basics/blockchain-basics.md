@@ -89,7 +89,7 @@ A Wallet is a software that holds cryptocurrencies by storing your Private Keys 
 
 Private Keys are a large, randomly-generated number with hundreds of digits, and although anyone can deposit crypto into an address, they can only be withdrawn from that address with the corresponding keys.
 
-Wallets allows us to access our cryptocurrencies with passwords or Key Phrases, without having to memorize the Private Keys. However, it is safer to have the Private Keys written down in a secure location, just in case.
+Wallets allow us to access our cryptocurrencies with passwords or Key Phrases, without having to memorize the Private Keys. However, it is safer to have the Private Keys written down in a secure location, just in case.
 
 You can use a Cold Wallet, that is, a Wallet that is not connected to the internet, or Hot Wallet, which is connected. Wallets can also be divided into desktop, hardware, web and paper wallets.
 
