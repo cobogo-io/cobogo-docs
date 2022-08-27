@@ -5,20 +5,13 @@
 ## Overview
 
 * [What is cobogo?](<README (1).md>)
-* [How it works?](overview/how-it-works/README.md)
-  * [Creator Profiles](overview/how-it-works/creator-profiles.md)
-  * [Split Yield Mechanism](overview/how-it-works/funding-mechanism.md)
-  * [Cobogo Fan Token](overview/how-it-works/nft-as-proof-of-active-patronage.md)
-  * [Content Creator NFT](overview/how-it-works/content-creator-nft.md)
-* [Platform Preview](overview/platform-preview/README.md)
-  * [Creator Profiles](overview/platform-preview/creator-profiles.md)
-  * [Onboarding](overview/platform-preview/onboarding.md)
-  * [Main dAPP](overview/platform-preview/main-dapp.md)
-* [Planned Features](overview/planned-features/README.md)
-  * [Cobogo Vaults](overview/planned-features/cobogo-vaults.md)
-  * [Gated Content](overview/planned-features/gated-content.md)
-  * [Direct Donation](overview/planned-features/direct-donation.md)
-  * [Manage Social Tokens](overview/planned-features/manage-social-tokens.md)
+* [Products](overview/how-it-works/README.md)
+  * [Cobogo Social](overview/how-it-works/creator-profiles/README.md)
+    * [Preview](overview/how-it-works/creator-profiles/preview.md)
+  * [Cobogo Start](overview/how-it-works/cobogo-start.md)
+  * [Cobogo Fundraise](overview/how-it-works/cobogo-fundraise.md)
+  * [Cobogo Ventures](overview/how-it-works/cobogo-ventures.md)
+  * [Cobogo Pioneer Fund](overview/how-it-works/cobogo-pioneer-fund.md)
 * [Team](overview/team.md)
 
 ## Creators
@@ -47,6 +40,7 @@
 
 ## Tokenomics
 
+* [CGBS Token](tokenomics/cgbs-token.md)
 * [CBG Token](tokenomics/cbg-token.md)
 * [CFT Token](tokenomics/cft-token.md)
 * [Token Utility](tokenomics/token-utility/README.md)

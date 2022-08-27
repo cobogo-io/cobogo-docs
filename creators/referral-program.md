@@ -4,17 +4,17 @@
 If you're a **Fan**, go to [this](../fans/referral-program.md) tutorial.
 {% endhint %}
 
-As described in [this](../growth-strategies/bounties.md) page, we have a Referral Program called "Bounties".&#x20;
+As described in [this](../growth-strategies/bounties.md) page, we have a Referral Program called "Bounties".
 
 On the first phase of the program, the Creators entering the whitelist will be able to invite their friends to join the platform on step 4 of the onboarding process.
 
 The more friends complete the onboarding process, more CBG you and them can earn!
 
-All you will have to do is copy your referral link and share to as many people as you can, telling your friends to enter the whitelist, and preferably join our Discord.&#x20;
+All you will have to do is copy your referral link and share to as many people as you can, telling your friends to enter the whitelist, and preferably join our Discord.
 
-![](<../.gitbook/assets/6-Whitelist - 04 - Desktop.png>)
+![](../.gitbook/assets/Earn\_CBG\_-\_Record\_a\_video.png)
 
-If you click on "view referral link", this page below will appear, with your unique referral link. All you have to do is share it with your YouTuber friends.&#x20;
+If you click on "view referral link", this page below will appear, with your unique referral link. All you have to do is share it with your YouTuber friends.
 
 In this page you're also able to see how many YouTubers have joined using your referral link, and how many CBG you have accrued so far.
 
@@ -29,4 +29,3 @@ If the referred friend actually submits their channel to enter the whitelist (se
 2,500,000 CBG will be destined for these rewards, so this first phase of bounties will go as long as there are CBG tokens left.
 
 These bounties will work as way to encourage the cobogo community's growth and distribute CBG tokens to those who help do it, so come and be part of our story!
-

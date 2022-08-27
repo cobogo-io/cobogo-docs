@@ -12,7 +12,7 @@ description: In this page you can learn how to onboard cobogo as a Content Creat
 You can earn CBG when making your Profile and referring friends. Read more about the [referral program](referral-program.md).
 {% endhint %}
 
-With cobogo, you can have your own personalized Creator Profile that shows all the relevant information about you and your services. Read more about the Creator Profiles [here](../overview/how-it-works/creator-profiles.md).
+With cobogo, you can have your own personalized Creator Profile that shows all the relevant information about you and your services. Read more about the Creator Profiles [here](../overview/how-it-works/creator-profiles/).
 
 To make your Profile, you will have to go through this following onboarding process:
 
@@ -58,7 +58,7 @@ You can learn more about the Referral Program [here](referral-program.md).
 
 You can also earn **1,000 CBG tokens** by recording and posting a video talking about cobogo, to see more details, click [here](making-a-video.md).
 
-In addition, Creators can now have their own [Creator Profile](../overview/how-it-works/creator-profiles.md), that works like a Media Kit, and 50 earn by doing that! To know how to do it, click here.
+In addition, Creators can now have their own [Creator Profile](../overview/how-it-works/creator-profiles/), that works like a Media Kit, and 50 earn by doing that! To know how to do it, click here.
 
 If you don't want to earn more CBG, you can click "skip".
 

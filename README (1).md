@@ -1,27 +1,30 @@
+---
+description: Creator Economy Ownership. Business Infrastructure for Creators
+---
+
 # What is cobogo?
 
-cobogo is a platform made especially for **Content Creators**, that has the goal of giving them **power** over their own monetization and their communities, using Web3 to achieve that.
+## Creator Economy Ownership
 
-In the cobogo platform, Creators can:
+We are a platform made especially for **Content Creators**, and we have the goal of making Creators their own businesses.
 
-1. advertise their [**Media Kit**](overview/how-it-works/creator-profiles.md), showing their work, metrics, options for collaboration, and any other information they want **high-quality clients** to see; and&#x20;
-2. be **sustainably funded** through their own communities by using our unique [**Staking Mechanism**](overview/how-it-works/funding-mechanism.md).
+We are building a Business Infrastructure for Creators, which is a set of products that help Creators in their journey from starting a business to becoming successful
 
-We want Content Creators to be able to **easily and quickly** showcase what they do to potential clients, and **match them** with this clients in what we call the **Media Market**. This way, we want to help Creators sell their services and at the same time, we want to help clients find the Creators in our platform that **best fit** their needs.&#x20;
+We do that by offering Creators Web3's latest cutting edge technology tools to raise funds through their own audience and monetize their creations or whatever else they want. It works as follows:
 
-Not only that, but we believe in the power people can have when they **come together**, and for that, we want Creators to explore the **full potential** their community can have.&#x20;
+1. Cobogo Start helps Creators launch and run a US business (from anywhere in the world);
+2. Cobogo Fundraise transforms the Creator's business into a Continuous Organization, that allows them tokenize equity of their company;
+3. With Cobogo Social, Creators can present their business to investors, brands, and their own audience;
+4. Using Rolling SAFE, investors can receive an equity security that represents a right to future equity in the Creator's company
+5. Creators get access to Continuous Fundraising
 
-This is possible due to our **Staking Mechanism**, that works by allowing Creators to mint their own Social Token and Staking Pool, where their fans can stake on it. After that, both Creators and Fans **get rewards** in the form of a yield, in a 50%/50% split.
+{% hint style="info" %}
+Investors receive an equity security that represents a right to future equity in the Creator's company.
+{% endhint %}
 
-All Creators have to do after minting their pool is let their community know about this opportunity, and how it is a **win-win situation**. They can also offer Perks to those staking from them, which can vary from receiving the Creator’s Social Tokens, getting access to a private discord, private content and even being able to vote for the next videos' type of content. The possibilities are endless.
+This all means that Cobogo allows Creators to become a business, raise capital for it, and allocate equity to those who invested in them, letting key stakeholders participate in their company's success.&#x20;
 
-After that, we will transform cobogo into the first **Content Creator DAO**, where everything will be automated, and both Fans and Creators will **jointly decide** on what steps to take, through a governance vote.
-
-We intend to **keep growing**, introducing more monetization methods and finding new ways to give rewards and benefits for Creators and Patrons.&#x20;
-
-If you have any proposals, please contact us at our e-mail (hi@cobogo.social) or at our [Telegram](https://t.me/cobogosocial) group.
-
-
+Anyone from VCs to Creators' own audience can fund them at any time, with no need for pitches or tiresome negotiations.
 
 
 

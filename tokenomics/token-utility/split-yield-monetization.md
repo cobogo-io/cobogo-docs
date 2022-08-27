@@ -1,6 +1,6 @@
 # Split Yield Monetization
 
-As described in the "[How it works](../../overview/how-it-works/funding-mechanism.md)?" section, Cobogo has designed a win-win monetization mechanism that allows fans to support Creators sustainably.
+As described in the "[How it works](broken-reference)?" section, Cobogo has designed a win-win monetization mechanism that allows fans to support Creators sustainably.
 
 The staking mechanism generates a positive feedback loop environment, where both Creators and Fans get rewarded and can interact. It works as follows:&#x20;
 

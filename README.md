@@ -1,28 +1,28 @@
 # 👋 Welcome to cobogo
 
-> **cobogo's mission is to give Content Creators the power over their own monetization and their communities, using Web3 to achieve that.**
+{% hint style="info" %}
+cobogo's mission is to give Creators **ownership**, allowing them to grant **equity** to their audience in exchange for investment in their personal business.
+{% endhint %}
 
 In this page we briefly explain the problem that motivated the creation of this project, and in this documentation we will go through how we solve it.
 
 If you want to skip ahead, you can go directly to these useful links:
 
-* [Funding (Monetization) Mechanism](overview/how-it-works/funding-mechanism.md)
-* [Tokenomics](tokenomics/supply-and-distribution/)
-* [How to submit your channel?](creators/getting-started.md)
-* [How to refer friends and get CBG tokens?](creators/referral-program.md)
-* [cobogo DAO](dao/introduction.md)
+*
 
-{% hint style="info" %}
-If you prefer, you can go to our Tokenomics Document on Google Drive, by clicking [here](https://drive.google.com/file/d/1ZU0nbnju3p-UilOdVNTFE1LOA60hl0Tn/view?usp=drivesdk).
+{% hint style="success" %}
+You can also go straight to our Litepaper on Google Docs, by clicking [here](https://docs.google.com/document/d/1Zr0-iMf-Q1X0K8PCOTQfiS3m5xUoeKljJkTm93U4eWg/edit?usp=sharing).
 {% endhint %}
 
 ## The Creator Economy
 
 We know how difficult it is for Creators of all kinds to make a living out of their creations. Although Web 2.0 has allowed an easily accessible monetization for the masses, some people still struggle with this combination of "decentralized delivery and centralized control".
 
-With Web 3.0, Creators can take their work to a next level, truly owning it. The integration with cryptoeconomy grants them the possibility of building an economy around their projects and community, maximizing their value.
+With Web 3.0, Creators can take their work to a next level, truly owning it. The integration with cryptoeconomy grants them the possibility of building an economy around them, maximizing their value.
 
-In the particular case we are addressing with cobogo, Content Creators can finally have the freedom to produce any content they want, without having to rely on a centralized control institution watching over them, only in their own community.
+In the particular case we are addressing with cobogo, Creators can finally become **founders of their own businesses**, assembling tools to help them raise funds and to do what they love.
+
+
 
 ## Medium Articles
 

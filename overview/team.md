@@ -6,7 +6,7 @@ description: This is the team that is currently working on the cobogo dApp.
 
 ### Pedro Alves (P.) - Co-founder
 
-Pedro is a multilingual economist, finishing a master's degree related to DeFi. He has been involved with crypto since 2017, and has experience with integrations. He has worked as a blockchain researcher in the Social Tokens field for over a year.
+Pedro is a multilingual economist, with a master's degree in Economics (DeFi). He has been involved with crypto since 2016, and has experience with integrations. He has been working as a blockchain researcher and now as  CEO in the Creator Economy for 2 years.
 
 ### Rafael Lima - Co-founder
 
