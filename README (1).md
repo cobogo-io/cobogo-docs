@@ -1,5 +1,5 @@
 ---
-description: Creator Economy Ownership. Business Infrastructure for Creators
+description: Business Infrastructure for Creators
 ---
 
 # What is cobogo?

@@ -1,6 +1,6 @@
 # Making your Profile
 
-As stated in [this](../overview/how-it-works/creator-profiles/) page, Cobogo will facilitate the work of Creators by having **all the needed information for a Media Kit in just one place**, where they can **showcase their services to high-quality clients**, in standardized **Creator Profiles**.
+As stated in [this](../overview/how-it-works/creator-profiles.md) page, Cobogo will facilitate the work of Creators by having **all the needed information for a Media Kit in just one place**, where they can **showcase their services to high-quality clients**, in standardized **Creator Profiles**.
 
 In this section, we will go through how to make your Profile look more **like you**, so you can attract more **potential clients**.
 

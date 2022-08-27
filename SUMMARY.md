@@ -6,7 +6,7 @@
 
 * [What is cobogo?](<README (1).md>)
 * [Products](overview/how-it-works/README.md)
-  * [Cobogo Social](overview/how-it-works/creator-profiles/README.md)
+  * [Cobogo Social](overview/how-it-works/creator-profiles.md)
     * [Preview](overview/how-it-works/creator-profiles/preview.md)
   * [Cobogo Start](overview/how-it-works/cobogo-start.md)
   * [Cobogo Fundraise](overview/how-it-works/cobogo-fundraise.md)
