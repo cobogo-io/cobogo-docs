@@ -4,7 +4,7 @@ description: Business Infrastructure for Creators
 
 # What is cobogo?
 
-## Creator Economy Ownership
+## Business Infrastructure for Creators
 
 We are a platform made especially for **Content Creators**, and we have the goal of making Creators their own businesses.
 
