@@ -27,13 +27,14 @@
 
 ## Investment/Funding
 
+* [Continuous Security Offering](investment-funding/continuous-security-offering.md)
 * [Support our Project](investment-funding/support-our-project/README.md)
   * [Dev Protocol](investment-funding/support-our-project/dev-protocol.md)
   * [Gitcoin](investment-funding/support-our-project/gitcoin.md)
 
 ## Tokenomics
 
-* [CGBE Token](tokenomics/cgbe-token.md)
+* [CGBE Token](tokenomics/cgbs-token.md)
 
 ## Guides
 
