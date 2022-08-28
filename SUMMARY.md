@@ -33,7 +33,7 @@
 
 ## Tokenomics
 
-* [CGBS Token](tokenomics/cgbs-token.md)
+* [CGBE Token](tokenomics/cgbe-token.md)
 
 ## Guides
 
