@@ -27,7 +27,7 @@
 
 ## Investment/Funding
 
-* [Continuous Security Offering](investment-funding/continuous-security-offering.md)
+* [Rolling SAFE](investment-funding/rolling-safe.md)
 * [Support our Project](investment-funding/support-our-project/README.md)
   * [Dev Protocol](investment-funding/support-our-project/dev-protocol.md)
   * [Gitcoin](investment-funding/support-our-project/gitcoin.md)
