@@ -25,15 +25,8 @@
 
 * [Referral Program](fans/referral-program.md)
 
-## Growth Strategies
-
-* [cobogo Expanse](growth-strategies/cobogo-expanse.md)
-* [Bounties](growth-strategies/bounties.md)
-
 ## Investment/Funding
 
-* [Community NFT](investment-funding/community-nft.md)
-* [Investment Rounds](investment-funding/investment-rounds.md)
 * [Support our Project](investment-funding/support-our-project/README.md)
   * [Dev Protocol](investment-funding/support-our-project/dev-protocol.md)
   * [Gitcoin](investment-funding/support-our-project/gitcoin.md)
@@ -41,28 +34,6 @@
 ## Tokenomics
 
 * [CGBS Token](tokenomics/cgbs-token.md)
-* [CBG Token](tokenomics/cbg-token.md)
-* [CFT Token](tokenomics/cft-token.md)
-* [Token Utility](tokenomics/token-utility/README.md)
-  * [Split Yield Monetization](tokenomics/token-utility/split-yield-monetization.md)
-  * [Governance](tokenomics/token-utility/governance.md)
-  * [Platform Fee](tokenomics/token-utility/platform-fee.md)
-* [Supply and Distribution](tokenomics/supply-and-distribution/README.md)
-  * [Circulating Supply](tokenomics/supply-and-distribution/circulating-supply.md)
-* [Token Emission](tokenomics/token-emission.md)
-* [Liquidity Mining](tokenomics/liquidity-mining.md)
-* [DAO Treasury](tokenomics/dao-treasury.md)
-* [Rewards](tokenomics/rewards/README.md)
-  * [Game Theory](tokenomics/rewards/game-theory.md)
-* [Content Market](tokenomics/content-market.md)
-
-## DAO
-
-* [Introduction](dao/introduction.md)
-* [Governance](dao/governance.md)
-* [Constitution](dao/constitution.md)
-* [The Foundation](dao/the-foundation.md)
-* [Service Provider](dao/service-provider.md)
 
 ## Guides
 

@@ -4,7 +4,7 @@
 If you're a **Fan**, go to [this](../fans/referral-program.md) tutorial.
 {% endhint %}
 
-As described in [this](../growth-strategies/bounties.md) page, we have a Referral Program called "Bounties".
+As described in [this](broken-reference) page, we have a Referral Program called "Bounties".
 
 On the first phase of the program, the Creators entering the whitelist will be able to invite their friends to join the platform on step 4 of the onboarding process.
 
