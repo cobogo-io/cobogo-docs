@@ -18,12 +18,9 @@ The platform provides all legal documentation to be used with investors and gove
 
 The Cobogo Social's profile is enriched with a widget that allows anyone to invest in the company anytime. This is the benefit of the Continuous Security Offering.
 
-Cobogo Labs captures value from all successful creators using Cobogo Fundraise, by capturing 1% of creator businesses equity. The $CBGE (Cobogo Labs equity token) can be seen as a Creator Economy ETF.
+Cobogo Labs captures value from all successful creators using Cobogo Fundraise, by capturing 1% of creator businesses' equity. The $CBGE (Cobogo Labs equity token) can be seen as a Creator Economy ETF.
 
 ### Value Proposition
 
 Creators as businesses can access Continuous Fundraising with their own community. Any fan from your audience can invest in your business for equity any time, from the launch to the IPO.
 
-### Revenue Stream
-
-SaaS Subscription form $980/year + 1% Equity

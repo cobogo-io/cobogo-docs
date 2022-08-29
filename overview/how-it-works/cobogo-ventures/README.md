@@ -16,8 +16,3 @@ For creators: easy access to capital at an early stage.&#x20;
 
 For investors: safe exposure to the creator economy.
 
-### Revenue Stream
-
-Administration fee: 2.5%&#x20;
-
-Success fee: 20%

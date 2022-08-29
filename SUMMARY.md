@@ -10,8 +10,8 @@
     * [Preview](overview/how-it-works/creator-profiles/preview.md)
   * [Cobogo Start](overview/how-it-works/cobogo-start.md)
   * [Cobogo Fundraise](overview/how-it-works/cobogo-fundraise.md)
-  * [Cobogo Ventures](overview/how-it-works/cobogo-ventures.md)
-  * [Cobogo Pioneer Fund](overview/how-it-works/cobogo-pioneer-fund.md)
+  * [Cobogo Ventures](overview/how-it-works/cobogo-ventures/README.md)
+    * [Cobogo Pioneer Fund](overview/how-it-works/cobogo-ventures/cobogo-pioneer-fund.md)
 * [Team](overview/team.md)
 
 ## Creators

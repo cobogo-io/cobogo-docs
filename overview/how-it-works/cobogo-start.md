@@ -6,7 +6,7 @@ description: Incorporate a US business company in jut a few clicks
 
 ### **Summary**
 
-Cobogo Start is creating a whole new sector of the economy that is expected to grow much larger in the coming years. This is the first-step to transform Creators into a real business. We provide the easiest way to incorporate Creators as a US business in Delaware. Submit a short application with your future business details.
+Cobogo Start is creating a whole new sector of the economy that is expected to grow much larger in the coming years. This is the first step to transforming Creators into a real business. We provide the easiest way to incorporate Creators as a US business in Delaware. Submit a short application with your future business details.
 
 ### Value Proposition
 
@@ -18,8 +18,6 @@ Through Cobogo Start dashboard any Creator from anywhere in the world can manage
 
 Cobogo will partner with [FirstBase](https://www.firstbase.io/), a leading platform for company incorporation. FirstBase provides APIs, so Cobogo can develop the user interface and a good user experience to onboard creators. Creators will also have access to over $200,000 in partner rewards provided by FirstBase.
 
-### Revenue Stream
 
-It costs $800 to form each company.
 
 \

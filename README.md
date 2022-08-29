@@ -6,19 +6,17 @@ cobogo's mission is to give Creators **ownership**, allowing them to grant **equ
 
 In this page we briefly explain the problem that motivated the creation of this project, and in this documentation we will go through how we solve it.
 
-If you want to skip ahead, you can go directly to these useful links:
-
-*
-
 {% hint style="success" %}
 You can also go straight to our Litepaper on Google Docs, by clicking [here](https://docs.google.com/document/d/1Zr0-iMf-Q1X0K8PCOTQfiS3m5xUoeKljJkTm93U4eWg/edit?usp=sharing).
 {% endhint %}
 
 ## The Creator Economy
 
-We know how difficult it is for Creators of all kinds to make a living out of their creations. Although Web 2.0 has allowed an easily accessible monetization for the masses, some people still struggle with this combination of "decentralized delivery and centralized control".
+We know how difficult it is for Creators of all kinds to make a living out of their creations. Although Web 2.0 has allowed an easily accessible monetization for the masses, some people still struggle.&#x20;
 
-With Web 3.0, Creators can take their work to a next level, truly owning it. The integration with cryptoeconomy grants them the possibility of building an economy around them, maximizing their value.
+On the other side, startups are able to raise millions of dollars in a few weeks while Creators often struggle for years to make ends meet. The Startup ecosystem has evolved in terms of financing models, but Creators' ecosystem hasn't developed the same way.
+
+Until now, Creators were treated as mere freelancers, but some of them are disrupting the entire media world by transforming their audience into a scalable buyer empire. Most of them still don't have the tools to catch up with this market opportunity.
 
 In the particular case we are addressing with cobogo, Creators can finally become **founders of their own businesses**, assembling tools to help them raise funds and to do what they love.
 
