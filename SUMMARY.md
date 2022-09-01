@@ -94,4 +94,4 @@
 * [Telegram](https://l.cobogo.io/telegram)
 * [Twitter](https://l.cobogo.io/twitter)
 * [Medium](https://l.cobogo.io/medium)
-* [Github](https://github.com/cobogo-social)
+* [Github](https://l.cobogo.io/github)
