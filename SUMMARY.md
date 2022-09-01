@@ -90,9 +90,8 @@
 
 ## Connect
 
-* [Website](https://cobogo.social)
-* [Telegram](https://t.me/cobogosocial)
-* [Discord](https://discord.cobogo.social/)
-* [Twitter](https://twitter.com/cobogosocial)
-* [Medium](https://medium.com/@cobogosocial)
+* [Website](https://l.cobogo.io/website)
+* [Telegram](https://l.cobogo.io/telegram)
+* [Twitter](https://l.cobogo.io/twitter)
+* [Medium](https://l.cobogo.io/medium)
 * [Github](https://github.com/cobogo-social)
