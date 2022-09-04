@@ -6,6 +6,8 @@ description: Business Infrastructure for Creators
 
 ## Business Infrastructure for Creators
 
+<figure><img src=".gitbook/assets/Slice 1.png" alt=""><figcaption><p>Cobogo's ecoystem was divided into four products described in this flywheel.</p></figcaption></figure>
+
 We are a platform made especially for **Content Creators**, with the goal of making Creators their own businesses.
 
 We are building a Business Infrastructure for Creators, which is a set of products that help Creators in their journey from starting a business to becoming successful
