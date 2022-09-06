@@ -37,9 +37,10 @@
 
 * [CGBE Token](tokenomics/cgbs-token.md)
 
-## Guides
+## Resources
 
-* [Blockchain Basics](the-basics/blockchain-basics.md)
+* [Blockchain Basics](resources/blockchain-basics.md)
+* [Reports](resources/reports.md)
 
 ## Weekly Updates
 
