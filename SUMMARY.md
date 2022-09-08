@@ -79,6 +79,7 @@
 * [Weeks 31-40](weekly-updates/weeks-31-40/README.md)
   * [Week 31 - 09/08/2022](weekly-updates/weeks-31-40/week-31-09-08-2022.md)
   * [Week 32 - 16/08/2022](weekly-updates/weeks-31-40/week-32-16-08-2022.md)
+  * [Week 33+34 - 26/08/2022](weekly-updates/weeks-31-40/week-33+34-26-08-2022.md)
 
 ## Branding
 
