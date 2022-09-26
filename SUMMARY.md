@@ -14,12 +14,12 @@
     * [Cobogo Pioneer Fund](overview/how-it-works/cobogo-ventures/cobogo-pioneer-fund.md)
 * [Team](overview/team.md)
 
-## Creators
+## Cobogo Social
 
-* [Getting Started](creators/getting-started.md)
-* [Referral Program](creators/referral-program.md)
-* [Making a Video](creators/making-a-video.md)
-* [Making your Profile](creators/making-your-profile.md)
+* [Getting Started](cobogo-social/getting-started.md)
+* [Referral Program](cobogo-social/referral-program.md)
+* [Making a Video](cobogo-social/making-a-video.md)
+* [Making your Profile](cobogo-social/making-your-profile.md)
 
 ## Fans
 

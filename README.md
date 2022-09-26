@@ -1,7 +1,9 @@
 # 👋 Welcome to cobogo
 
+
+
 {% hint style="info" %}
-cobogo's mission is to give Creators **ownership**, allowing them to grant **equity** to their audience in exchange for investment in their personal business.
+Cobogo's mission is to enable Creators to **access capital like startups do today**, allowing them to easily become a business, issue and sell their equity so they can finance and maximize their growth.
 {% endhint %}
 
 In this page we briefly explain the problem that motivated the creation of this project, and in this documentation we will go through how we solve it.
