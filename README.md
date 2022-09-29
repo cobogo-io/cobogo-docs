@@ -1,9 +1,7 @@
 # 👋 Welcome to cobogo
 
-
-
 {% hint style="info" %}
-Cobogo's mission is to enable Creators to **access capital like startups do today**, allowing them to easily become a business, issue and sell their equity so they can finance and maximize their growth.
+cobogo's mission is to give Creators **ownership**, allowing them to grant **equity** to their audience in exchange for investment in their personal business.
 {% endhint %}
 
 In this page we briefly explain the problem that motivated the creation of this project, and in this documentation we will go through how we solve it.
@@ -14,7 +12,7 @@ You can also go straight to our Litepaper on Google Docs, by clicking [here](htt
 
 ## The Creator Economy
 
-We know how difficult it is for Creators of all kinds to make a living out of their creations. Although Web 2.0 has allowed an easily accessible monetization for the masses, some people still struggle.  Growing off cash flows is inefficient, especially in an extremely fast-paced market that Creators and Influencers&#x20;
+We know how difficult it is for Creators of all kinds to make a living out of their creations. Although Web 2.0 has allowed an easily accessible monetization for the masses, some people still struggle.&#x20;
 
 On the other side, startups are able to raise millions of dollars in a few weeks while Creators often struggle for years to make ends meet. The Startup ecosystem has evolved in terms of financing models, but Creators' ecosystem hasn't developed the same way.
 

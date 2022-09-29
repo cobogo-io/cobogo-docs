@@ -14,6 +14,14 @@ Rafael is a 'hacker of life', yogi, digital entrepreneur, software developer, an
 
 [Website](https://rafael.adm.br/)
 
+### Giovana Simão - Co-founder
+
+Giovana a Creator, and a reference in the crypto market in Brazil. She was elected by Forbes as one of the top 5 most influential woman in the crypto market in Brazil.
+
+### André Pannos - Co-founder
+
+André is a producer, with 10 years of experience working with marketing for startups, where technology is an instrument for freedom.
+
 ### Mikael Carrara - Designer
 
 Mikael is an UI/UX designer with skills in front-end and mobile development.
