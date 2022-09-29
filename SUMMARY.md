@@ -16,8 +16,8 @@
 
 ## Cobogo Social
 
-* [Getting Started](creators/getting-started.md)
-* [Making your Profile](creators/making-your-profile.md)
+* [Getting Started](cobogo-social/getting-started.md)
+* [Making your Profile](cobogo-social/making-your-profile.md)
 
 ## Fans
 
