@@ -4,6 +4,10 @@ description: Pioneer Early Stage Venture Investors for Creators
 
 # Cobogo Ventures
 
+### Website
+
+[https://cobogo.ventures](https://cobogo.ventures)
+
 ### Summary&#x20;
 
 Cobogo Ventures is a seed/early-stage investor for prominent creators as business worldwide. We focus on fast growing creators from the Cobogo Social.&#x20;
