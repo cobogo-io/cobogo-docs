@@ -16,10 +16,8 @@
 
 ## Cobogo Social
 
-* [Getting Started](cobogo-social/getting-started.md)
-* [Referral Program](cobogo-social/referral-program.md)
-* [Making a Video](cobogo-social/making-a-video.md)
-* [Making your Profile](cobogo-social/making-your-profile.md)
+* [Getting Started](creators/getting-started.md)
+* [Making your Profile](creators/making-your-profile.md)
 
 ## Fans
 

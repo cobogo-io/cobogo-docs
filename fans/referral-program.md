@@ -1,7 +1,7 @@
 # Referral Program
 
 {% hint style="info" %}
-If you're a **YouTuber**, go to [this](../cobogo-social/referral-program.md) tutorial.
+If you're a **YouTuber**, go to [this](broken-reference) tutorial.
 {% endhint %}
 
 **If you know YouTubers** and want to invite them to join cobogo, you can do so by clicking directly on this link: [https://app.cobogo.social/referral-dashboard](https://app.cobogo.social/referral-dashboard)
