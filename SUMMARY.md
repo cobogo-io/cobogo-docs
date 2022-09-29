@@ -8,7 +8,7 @@
 * [Products](overview/how-it-works/README.md)
   * [Cobogo Social](overview/how-it-works/creator-profiles.md)
     * [Preview](overview/how-it-works/creator-profiles/preview.md)
-  * [Cobogo Start](overview/how-it-works/cobogo-start/README.md)
+  * [Cobogo Start](overview/how-it-works/cobogo-start.md)
     * [Preview](overview/how-it-works/cobogo-start/preview.md)
   * [Cobogo Fundraise](overview/how-it-works/cobogo-fundraise.md)
   * [Cobogo Ventures](overview/how-it-works/cobogo-ventures/README.md)

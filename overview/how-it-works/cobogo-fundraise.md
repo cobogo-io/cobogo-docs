@@ -6,7 +6,7 @@ description: Fundraise
 
 ### Summary
 
-Cobogo Fundraise transforms the creator's business (see [Cobogo Start](cobogo-start/)) into a Continuous Organization - which “aligns stakeholders’ interests in their financial success”. Creators can tokenize equity as a SEC-compliant security and apply Rolling SAFE for Continuous Securities Offering with which they can raise funds, and share their success with their own audience.
+Cobogo Fundraise transforms the creator's business (see [Cobogo Start](cobogo-start.md)) into a Continuous Organization - which “aligns stakeholders’ interests in their financial success”. Creators can tokenize equity as a SEC-compliant security and apply Rolling SAFE for Continuous Securities Offering with which they can raise funds, and share their success with their own audience.
 
 More info [here](https://github.com/C-ORG/whitepape) and [here](https://github.com/C-ORG/whitepape).
 
