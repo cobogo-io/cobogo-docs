@@ -19,10 +19,6 @@
 * [Getting Started](cobogo-social/getting-started.md)
 * [Making your Profile](cobogo-social/making-your-profile.md)
 
-## Fans
-
-* [Referral Program](fans/referral-program.md)
-
 ## Investment/Funding
 
 * [Continuous Security Offering](investment-funding/continuous-security-offering/README.md)
