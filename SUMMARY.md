@@ -8,11 +8,11 @@
 * [Products](overview/how-it-works/README.md)
   * [Cobogo Social](overview/how-it-works/creator-profiles.md)
     * [Preview](overview/how-it-works/creator-profiles/preview.md)
-  * [Cobogo Start](overview/how-it-works/cobogo-start.md)
-    * [Preview](overview/how-it-works/cobogo-start/preview.md)
-  * [Cobogo Fundraise](overview/how-it-works/cobogo-fundraise.md)
-  * [Cobogo DAO](overview/how-it-works/cobogo-dao/README.md)
-    * [Cobogo Pioneer Fund](overview/how-it-works/cobogo-dao/cobogo-pioneer-fund.md)
+  * [Cobogo Growth](overview/how-it-works/cobogo-growth.md)
+  * [Cobogo Fundraising Tools](overview/how-it-works/cobogo-fundraising-tools/README.md)
+    * [Preview](overview/how-it-works/cobogo-fundraising-tools/preview.md)
+  * [Cobogo DAO](overview/how-it-works/cobogo-ventures/README.md)
+    * [Cobogo Pioneer Fund](overview/how-it-works/cobogo-ventures/cobogo-pioneer-fund.md)
 * [Team](overview/team.md)
 
 ## Cobogo Social

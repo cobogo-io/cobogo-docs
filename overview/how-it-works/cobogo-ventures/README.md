@@ -2,7 +2,7 @@
 description: Pioneer Early Stage Venture Investors for Creators
 ---
 
-# Cobogo Ventures
+# Cobogo DAO
 
 ### Website
 
