@@ -1,5 +1,5 @@
 ---
-description: Incorporate a US business company in jut a few clicks
+description: Membership for Creators to access exclusive educational communities
 ---
 
 # Cobogo Growth
