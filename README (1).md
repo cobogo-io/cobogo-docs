@@ -1,22 +1,22 @@
 ---
-description: Business Infrastructure for Creators
+description: Creator Investment Ecosystem
 ---
 
 # What is cobogo?
 
-## Business Infrastructure for Creators
+## Creator Investment Ecosystem
 
 <figure><img src=".gitbook/assets/Slice 1.png" alt=""><figcaption><p>Cobogo's ecoystem was divided into four products described in this flywheel.</p></figcaption></figure>
 
-We are a platform made especially for **Content Creators**, with the goal of making Creators their own businesses.
+We are a platform made especially for **Content Creators**, with the goal of introducing scalable equity financing for Creators with their own businesses, kickstarting a new era for the Creator Economy.
 
-We are building a Business Infrastructure for Creators, which is a set of products that help Creators in their journey from starting a business to becoming successful
+We are building a Creator Investment Ecosystem, which is a set of products that help Creators in their journey from starting a business to becoming successful
 
 We do that by offering Creators Web3's latest cutting-edge technology tools to raise funds through their own audience and monetize their creations or whatever else they want. It works as follows:
 
-1. **Cobogo Start** helps Creators launch and run a US business (from anywhere in the world);
-2. **Cobogo Fundraise** transforms the Creator's business into a Continuous Organization, that allows them to tokenize equity of their company;
-3. With **Cobogo Social**, Creators can present their business to investors, brands, and their own audience;
+1. **Cobogo Social** is an evolution of a media kit, intelligent and automated with all the Creators' social media. Its objective is to aggregate all their data and relevant indicators and make it transparent and verifiable;
+2. **Cobogo Growth** is a membership for Creators to access exclusive communities focused on educating Creators on how to incorporate and run a business, raising capital, and everything they need to become a real business;
+3. **Cobogo Tools** transforms the Creator's business into a Continuous Organization, that allows them to tokenize equity of their company;
 4. Using **Rolling SAFE**, investors can receive equity security that represents a right to future equity in the Creator's company
 5. Creators get access to **Continuous Fundraising.**
 
