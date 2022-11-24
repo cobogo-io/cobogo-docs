@@ -11,8 +11,8 @@
   * [Cobogo Start](overview/how-it-works/cobogo-start.md)
     * [Preview](overview/how-it-works/cobogo-start/preview.md)
   * [Cobogo Fundraise](overview/how-it-works/cobogo-fundraise.md)
-  * [Cobogo Ventures](overview/how-it-works/cobogo-ventures/README.md)
-    * [Cobogo Pioneer Fund](overview/how-it-works/cobogo-ventures/cobogo-pioneer-fund.md)
+  * [Cobogo DAO](overview/how-it-works/cobogo-dao/README.md)
+    * [Cobogo Pioneer Fund](overview/how-it-works/cobogo-dao/cobogo-pioneer-fund.md)
 * [Team](overview/team.md)
 
 ## Cobogo Social
