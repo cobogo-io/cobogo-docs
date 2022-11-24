@@ -16,19 +16,18 @@ We do that by offering Creators Web3's latest cutting-edge technology tools to r
 
 1. **Cobogo Social** is an evolution of a media kit, intelligent and automated with all the Creators' social media. Its objective is to aggregate all their data and relevant indicators and make it transparent and verifiable;
 2. **Cobogo Growth** is a membership for Creators to access exclusive communities focused on educating Creators on how to incorporate and run a business, raising capital, and everything they need to become a real business;
-3. **Cobogo Tools** transforms the Creator's business into a Continuous Organization, that allows them to tokenize equity of their company;
-4. Using **Rolling SAFE**, investors can receive equity security that represents a right to future equity in the Creator's company
-5. Creators get access to **Continuous Fundraising.**
+3. **Cobogo Fundraising Tools** is an ecosystem of tools that allows Creators to incorporate their companies and launch their security offering, leveraging scalable equity financing solutions to execute their ideas and projects;
+4. **Cobogo DAO** is an investment DAo built together with OrigamiDAO, using the Origami Framework. Focused in investing in early/seed stage Creators from all over the world, with the biggest growth potential.
 
-In addition, **Cobogo Ventures** is a seed/early-stage that will fund prominent Creator based on a proprietary algorithm that estimates Creators' valuation.
+
 
 {% hint style="info" %}
-Investors receive equity security representing a right to future equity in the Creator's company.
+Investors receive equity representing a right to future equity in the Creator's company.
 {% endhint %}
 
 This all means that Cobogo allows Creators to become a business, raise capital for it, and allocate equity to those who invested in them, letting key stakeholders participate in their company's success.&#x20;
 
-Anyone from VCs to Creators' own audiences can fund them at any time, with no need for pitches or tiresome negotiations.
+Anyone, from VCs to Creators' own audiences can fund them at any time, with no need for pitches or tiresome negotiations.
 
 
 
