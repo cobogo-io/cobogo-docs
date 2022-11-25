@@ -2,7 +2,7 @@
 
 ### Summary
 
-Cobogo Pioneer Fund is the first Cobogo fund to invest in the first batch of 20 Creators that have a good potential from Cobogo Social listing.
+Cobogo Pioneer Fund is the first Cobogo fund to invest in the first batch of 20 Creators that have a good potential from Cobogo Social listing. This is a traditional fund, but we follow the Origami Framework, and we have decided to allocate 100% of the carry to the Cobogo DAO token holders.
 
 ### Technical Information
 
@@ -22,5 +22,10 @@ Administration Fee: 2.5% per year&#x20;
 
 Performance Fee: 20%&#x20;
 
-Manager: Cobogo Labs LLC
+Manager: Cobogo Labs LLC\
+
+
+Research, decision, due dilligence: DAO members
+
+Carry : 100% to DAO members
 
