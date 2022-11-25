@@ -6,13 +6,13 @@ description: Creator Investment Ecosystem
 
 ## Creator Investment Ecosystem
 
-<figure><img src=".gitbook/assets/Slice 1.png" alt=""><figcaption><p>Cobogo's ecoystem was divided into four products described in this flywheel.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Group 1000003433 (2).png" alt=""><figcaption><p>Flywheel representing the Cobogo Ecosystem</p></figcaption></figure>
 
-We are a platform made especially for **Content Creators**, with the goal of introducing scalable equity financing for Creators with their own businesses, kickstarting a new era for the Creator Economy.
+We are an ecosystem made especially for **Creators**, with the goal of introducing scalable equity financing for Creators with their own businesses, kickstarting a new era for the Creator Economy.
 
-We are building a Creator Investment Ecosystem, which is a set of products that help Creators in their journey from starting a business to becoming successful
+We are building a Creator Investment Ecosystem, which is a set of products that help Creators in their journey from starting a business to becoming successful.
 
-We do that by offering Creators Web3's latest cutting-edge technology tools to raise funds through their own audience and monetize their creations or whatever else they want. It works as follows:
+We do that by offering Creators the latest cutting-edge technology tools to raise funds through their own audience and monetize their creations or whatever else they want. It works as follows:
 
 1. **Cobogo Social** is an evolution of a media kit, intelligent and automated with all the Creators' social media. Its objective is to aggregate all their data and relevant indicators and make it transparent and verifiable;
 2. **Cobogo Growth** is a membership for Creators to access exclusive communities focused on educating Creators on how to incorporate and run a business, raising capital, and everything they need to become a real business;

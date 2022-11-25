@@ -1,10 +1,18 @@
 ---
-description: This is the team that is currently working on the cobogo dApp.
+description: This is the team that is currently working on Cobogo
 ---
 
 # Team
 
-### Pedro Alves (P.) - Co-founder
+### Giovana Simão - Co-founder & CEO
+
+Giovana a Creator, and a reference in the crypto market in Brazil. She was elected by Forbes as one of the top 5 most influential woman in the crypto market in Brazil.
+
+### André Pannos - Co-founder & COO
+
+André is a producer, with 10 years of experience working with marketing for startups, where technology is an instrument for freedom.
+
+### Pedro Alves (P.) - Co-founder & CFO
 
 Pedro is a multilingual economist, with a master's degree in Economics (DeFi). He has been involved with crypto since 2016, and has experience with integrations. He has been working as a blockchain researcher and now as  CEO in the Creator Economy for 2 years.
 
@@ -13,14 +21,6 @@ Pedro is a multilingual economist, with a master's degree in Economics (DeFi). H
 Rafael is a 'hacker of life', yogi, digital entrepreneur, software developer, and investor in the cryptocurrency ecosystem. He has founded tech companies in Brazil in the financial, software, and metaverse fields.
 
 [Website](https://rafael.adm.br/)
-
-### Giovana Simão - Co-founder
-
-Giovana a Creator, and a reference in the crypto market in Brazil. She was elected by Forbes as one of the top 5 most influential woman in the crypto market in Brazil.
-
-### André Pannos - Co-founder
-
-André is a producer, with 10 years of experience working with marketing for startups, where technology is an instrument for freedom.
 
 ### Mikael Carrara - Designer
 

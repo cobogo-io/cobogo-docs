@@ -14,15 +14,13 @@ To make your Profile, you will have to go through this following onboarding proc
 
 ### Submitting a Channel
 
-First, you will have to click on "_join now_" on the main page.&#x20;
+First, you will have to click on "_Create your profile_" on the main page.&#x20;
 
-Then, you'll have to submit your channel by connecting to your YouTube account. Your credentials and passwords will not be stored for future network authentications.
+Then, you'll have to submit your channel by connecting to your Social Media account. Your **credentials and passwords will not be stored** for future network authentications. Only your **public data** will be shared with Cobogo, this way we can verify your channel and through the Social Media API we will be able to always display your latest numbers on every connection.
 
-You can join cobogo even if you're not a YouTube Content Creator, you just need to have a YouTube account.
+<figure><img src="../.gitbook/assets/Create your profile - Home.png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/1-Whitelist - 00 - Desktop (1).png>)
-
-![](<../.gitbook/assets/2-Whitelist - 01 - Desktop (1).png>)
+<figure><img src="../.gitbook/assets/Create your profile- Connect.png" alt=""><figcaption></figcaption></figure>
 
 ### Creating a Profile
 
