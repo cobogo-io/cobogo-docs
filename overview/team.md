@@ -1,5 +1,5 @@
 ---
-description: This is the team that is currently working on the cobogo dApp.
+description: This is the team that is currently working on Cobogo
 ---
 
 # Team
