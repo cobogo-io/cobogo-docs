@@ -1,13 +1,12 @@
 # Preview
 
-Cobogo Social is already live! You can Create your profile [here](https://app.cobogo.social).
+Cobogo Social is already live! You can Create your profile [here](https://cobogo.social).
 
 Here are the mockups of the Index, which will be launched soon.
 
 ### Creator Search
 
-![](../../../.gitbook/assets/Channels\_v2.png)
+<figure><img src="../../../.gitbook/assets/Creators Index (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Profile
 
-![](../../../.gitbook/assets/Profile\_v3-5\_-\_Blankslate\_-\_Fan.png)
