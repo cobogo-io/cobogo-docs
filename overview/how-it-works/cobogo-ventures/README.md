@@ -1,24 +1,22 @@
 ---
-description: Investment DAO for Creators and the Creator Economy
+description: Pioneer Early Stage Venture Investors for Creators
 ---
 
 # Cobogo DAO
 
-### Discord
+### Website
 
-[https://discord.gg/XgMsS7JW4G](https://discord.gg/XgMsS7JW4G)
+[https://cobogo.ventures](https://cobogo.ventures)
 
 ### Summary&#x20;
 
-Cobogo Ventures DAO is a seed/early-stage investment DAO built together with Origami, with the goal to invest in talented Creators worldwide and the Creator Economy.
+Cobogo Ventures is a seed/early-stage investor for prominent creators as business worldwide. We focus on fast growing creators from the Cobogo Social.&#x20;
 
-With a proprietary algorithm based on social media production, growth and engagement Creators themselves and DAO members can detect the best Creators to invest in. The DAO will have research guilds distributed all over the world. An investment DAO is the best type of organization to&#x20;
+With a proprietary algorithm based on social media production, growth and engagement we can detect the best creators to invest in. We also do fundamentalist analysis of the content, audience and personality of creators.
 
 ### Value Proposition
 
-Transform a DAO of Creators, enthusiasts and individuals relevant to the Creator Economy into the reference of research, publications and investment on Creators and the Creator Economy.
+For creators: easy access to capital at an early stage.&#x20;
 
-For creators: access to capital at an early stage.&#x20;
-
-For investors: exposure to the creator economy.
+For investors: safe exposure to the creator economy.
 
