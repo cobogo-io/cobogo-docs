@@ -77,6 +77,7 @@
   * [Week 33+34 - 26/08/2022](weekly-updates/weeks-31-40/week-33+34-26-08-2022.md)
   * [Week 35+36 - 12/09/2022](weekly-updates/weeks-31-40/week-35+36-12-09-2022.md)
   * [Week 36 - 42 - 04/10/2022](weekly-updates/weeks-31-40/week-36-42-04-10-2022.md)
+  * [Week 43 - 28/11/2022](weekly-updates/weeks-31-40/week-43-28-11-2022.md)
 
 ## Branding
 
