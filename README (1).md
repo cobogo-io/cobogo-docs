@@ -6,7 +6,7 @@ description: Creator Investment Ecosystem
 
 ## Creator Investment Ecosystem
 
-<figure><img src=".gitbook/assets/Group 1000003433 (2).png" alt=""><figcaption><p>Flywheel representing the Cobogo Ecosystem</p></figcaption></figure>
+<figure><img src=".gitbook/assets/fly.png" alt=""><figcaption><p>Flywheel describing our ecosystem.</p></figcaption></figure>
 
 We are an ecosystem made especially for **Creators**, with the goal of introducing scalable equity financing for Creators with their own businesses, kickstarting a new era for the Creator Economy.
 
@@ -15,9 +15,8 @@ We are building a Creator Investment Ecosystem, which is a set of products that 
 We do that by offering Creators the latest cutting-edge technology tools to raise funds through their own audience and monetize their creations or whatever else they want. It works as follows:
 
 1. **Cobogo Social** is an evolution of a media kit, intelligent and automated with all the Creators' social media. Its objective is to aggregate all their data and relevant indicators and make it transparent and verifiable;
-2. **Cobogo Growth** is a membership for Creators to access exclusive communities focused on educating Creators on how to incorporate and run a business, raising capital, and everything they need to become a real business;
-3. **Cobogo Fundraising Tools** is an ecosystem of tools that allows Creators to incorporate their companies and launch their security offering, leveraging scalable equity financing solutions to execute their ideas and projects;
-4. **Cobogo DAO** is an investment DAo built together with OrigamiDAO, using the Origami Framework. Focused in investing in early/seed stage Creators from all over the world, with the biggest growth potential.
+2. **Cobogo Basecamp** is an **** education and acceleration program for Creators who want to become professionals. It's focused on mastering how to incorporate and run a business, raising capital and use cutting edge tools to launch their own public offering. In addition to participating in a community with other Creators who are going through the same process.
+3. **Cobogo DAO** is an investment DAO built together with OrigamiDAO, using the Origami Framework. Focused in investing in early/seed stage Creators from all over the world, with the biggest growth potential.
 
 
 
