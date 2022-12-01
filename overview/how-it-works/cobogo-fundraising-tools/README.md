@@ -1,20 +1,44 @@
 ---
-description: An education and acceleration program for Creators
+description: Fundraise
 ---
 
 # Cobogo Basecamp
 
 ### Summary
 
-Cobogo Basecamp is an **** education and acceleration program for Creators who want to become professionals. It's focused on mastering how to incorporate and run a business, raising capital and use cutting edge tools to launch their own public offering. In addition to participating in a community with other Creators who are going through the same process.  &#x20;
+Cobogo Fundraise transforms the creator's business (see [Cobogo Start](broken-reference)) into a Continuous Organization - which “aligns stakeholders’ interests in their financial success”. Creators can tokenize equity as a SEC-compliant security and apply Rolling SAFE for Continuous Securities Offering with which they can raise funds, and share their success with their own audience.
+
+More info [here](https://github.com/C-ORG/whitepape) and [here](https://github.com/C-ORG/whitepape).
 
 ### How it works
 
-Creators who want to professionalize themselves and become real businesses can find the best environment to do that on Cobogo Basecamp. Our education and acceleration programs will be divided by tiers (to be announced) where Creators will learn how to incorporate and run a business, raise capital and use cutting edge tools to launch their own public offering. They'll have access to other Creators who are going through the same process, sharing tips and encouraging each other.
+Creators create their SEC-compliant security token that represents the equity of their company and define the terms of fundraising like company valuation, allocation, initial price, minimum investment, etc.
 
-The first step to transform Creators into a real business. We provide the easiest way to incorporate businesses in the jurisdictions that our technology partners operate. It's as easy as submitting a short application with future business details and going through the incoporation process online.
+The platform provides all legal documentation to be used with investors and government reviewed by top lawyers.
 
-Creators, with our future technology partners, can launch their own public offerings raising funds continuously and sharing their success with their investors. They can define the terms of fundraising like company valuation, allocation, initial price, minimum investment, etc. The technologies we will provide are already being used by investors and are legally compliant, have been reviewed by top lawyers.
+The Cobogo Social's profile is enriched with a widget that allows anyone to invest in the company anytime. This is the benefit of the Continuous Security Offering.
+
+Cobogo Labs captures value from all successful creators using Cobogo Fundraise, by capturing 1% of creator businesses' equity. The $CBGE (Cobogo Labs equity token) can be seen as a Creator Economy ETF.
+
+### Value Proposition
+
+Creators as businesses can access Continuous Fundraising with their own community. Any fan from your audience can invest in your business for equity any time, from the launch to the IPO.
+
+
+
+### **Summary**
+
+Cobogo Start is creating a whole new sector of the economy that is expected to grow much larger in the coming years. This is the first step to transforming Creators into a real business. We provide the easiest way to incorporate Creators as a US business in Delaware. Submit a short application with your future business details.
+
+### Value Proposition
+
+The simplest way for any Creator to launch and run a US business representing them. Incorporate your company, access one-click growth tools, stay compliant, and manage everything your business needs — all online, from anywhere. Sign some forms and we take care of everything.
+
+### How it works
+
+Through Cobogo Start dashboard any Creator from anywhere in the world can manage the entire company formation process online without any paperwork or legal headaches.
+
+Cobogo will partner with [FirstBase](https://www.firstbase.io/), a leading platform for company incorporation. FirstBase provides APIs, so Cobogo can develop the user interface and a good user experience to onboard creators. Creators will also have access to over $200,000 in partner rewards provided by FirstBase.
 
 
 
