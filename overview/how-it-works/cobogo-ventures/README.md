@@ -10,13 +10,13 @@ description: Investment DAO for Creators and the Creator Economy
 
 ### Summary&#x20;
 
-Cobogo Ventures DAO is a seed/early-stage investment DAO built together with Origami, with the goal to invest in talented Creators worldwide and the Creator Economy.
+Cobogo Ventures DAO is a seed/early-stage investment DAO which treasury will hold 100% of the carry of the funds raised to invest in Creators. It is being built together with [Origami](https://joinorigami.com/), which has helped a selected few super successful DAOs, like Orange DAO, for example, which has raised $80M in funding. The goal of Cobogo DAO is to invest in talented Creators worldwide and find the next big stars.
 
-With a proprietary algorithm based on social media production, growth and engagement Creators themselves and DAO members can detect the best Creators to invest in. The DAO will have research guilds distributed all over the world. An investment DAO is the best type of organization to&#x20;
+Creators and DAO members can detect the best Creators to invest in with a proprietary algorithm based on social media production, growth and engagement. The DAO will have research guilds distributed all over the world, which will also be leveraged to provide services to anyone involved with the Creator Economy.
 
 ### Value Proposition
 
-Transform a DAO of Creators, enthusiasts and individuals relevant to the Creator Economy into the reference of research, publications and investment on Creators and the Creator Economy.
+Transform a DAO of Creators, enthusiasts and relevant individuals into the reference of research, publications and investment on Creators and the Creator Economy. Early stage Creators will be detected, invested and accelerated by the DAO which holds a significant aggregated influence by all of its members.
 
 For creators: access to capital at an early stage.&#x20;
 
