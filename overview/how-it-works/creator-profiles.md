@@ -4,6 +4,10 @@ description: Share the business, the metrics and the services
 
 # Cobogo Social
 
+{% hint style="success" %}
+Cobogo Social is Live! Visit [our website](https://cobogo.social) and create your profile.
+{% endhint %}
+
 ### Summary
 
 Cobogo Social is the place to advertise the Creator's business to investors, brands and their own audience that is willing to support their businesses. See it as the LinkedIn for all Creators.
