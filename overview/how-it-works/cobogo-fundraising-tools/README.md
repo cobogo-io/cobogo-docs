@@ -1,16 +1,16 @@
 ---
-description: Fundraise
+description: An education and acceleration program for Creators
 ---
 
 # Cobogo Basecamp
 
 ### Summary
 
-Cobogo Basecamp **** is an **** education and acceleration program for Creators who want to become professionals. It's focused on mastering how to incorporate and run a business, raising capital and use cutting edge tools to launch their own public offering. In addition to participating in a community with other Creators who are going through the same process.  &#x20;
+Cobogo Basecamp is an **** education and acceleration program for Creators who want to become professionals. It's focused on mastering how to incorporate and run a business, raising capital and use cutting edge tools to launch their own public offering. In addition to participating in a community with other Creators who are going through the same process.  &#x20;
 
 ### How it works
 
-Creators who want to professionalize themselves and become real businesses can find the best environment to do that on Cobogo Basecamp. Our education and acceleration programs will be divided by tiers (to be announced) where Creators will learn how to incorporate and run a business, raise capital and use cutting edge tools to launch their own public offering.
+Creators who want to professionalize themselves and become real businesses can find the best environment to do that on Cobogo Basecamp. Our education and acceleration programs will be divided by tiers (to be announced) where Creators will learn how to incorporate and run a business, raise capital and use cutting edge tools to launch their own public offering. They'll have access to other Creators who are going through the same process, sharing tips and encouraging each other.
 
 The first step to transform Creators into a real business. We provide the easiest way to incorporate businesses in the jurisdictions that our technology partners operate. It's as easy as submitting a short application with future business details and going through the incoporation process online.
 
