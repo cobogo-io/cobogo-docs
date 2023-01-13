@@ -80,6 +80,8 @@
   * [Week 43 - 28/11/2022](weekly-updates/week-41-50/week-43-28-11-2022.md)
   * [Week 44 - 05/12/2022](weekly-updates/week-41-50/week-44-05-12-2022.md)
   * [Week 45 - 12/12/2022](weekly-updates/week-41-50/week-45-12-12-2022.md)
+  * [Week 46 - 19/12/2022](weekly-updates/week-41-50/week-46-19-12-2022.md)
+  * [Week 47 - 26/12/2022](weekly-updates/week-41-50/week-47-26-12-2022.md)
 
 ## Branding
 
