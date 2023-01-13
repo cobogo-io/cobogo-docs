@@ -4,9 +4,9 @@ description: Creator Investment Ecosystem
 
 # What is cobogo?
 
-## Creator Investment Ecosystem
+<figure><img src=".gitbook/assets/Group 1000003452.png" alt=""><figcaption><p>Image Representing the Cobogo Ecosystem</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/fly.png" alt=""><figcaption><p>Flywheel describing our ecosystem.</p></figcaption></figure>
+## Creator Investment Ecosystem
 
 We are an ecosystem made especially for **Creators**, with the goal of introducing scalable equity financing for Creators with their own businesses, kickstarting a new era for the Creator Economy.
 
