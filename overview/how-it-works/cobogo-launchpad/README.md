@@ -2,11 +2,11 @@
 description: An education and acceleration program for Creators
 ---
 
-# Cobogo Basecamp
+# Cobogo Launchpad
 
 ### Summary
 
-Cobogo Basecamp is an **** education and acceleration program for Creators who want to become professionals. It's focused on mastering how to incorporate and run a business, raising capital and use cutting edge tools to launch their own public offering. In addition to participating in a community with other Creators who are going through the same process.  &#x20;
+Cobogo Launchpad is an **** education and acceleration program for Creators who want to become professionals. It's focused on mastering how to incorporate and run a business, raising capital and use cutting edge tools to launch their own public offering. In addition to participating in a community with other Creators who are going through the same process.  &#x20;
 
 ### How it works
 

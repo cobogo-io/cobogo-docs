@@ -15,7 +15,7 @@ We are building a Creator Investment Ecosystem, which is a set of products that 
 We do that by offering Creators the latest cutting-edge technology tools to raise funds through their own audience and monetize their creations or whatever else they want. It works as follows:
 
 1. **Cobogo Social** is an evolution of a media kit, intelligent and automated with all the Creators' social media. Its objective is to aggregate all their data and relevant indicators and make it transparent and verifiable;
-2. **Cobogo Basecamp** is an **** education and acceleration program for Creators who want to become professionals. It's focused on mastering how to incorporate and run a business, raising capital and use cutting edge tools to launch their own public offering. In addition to participating in a community with other Creators who are going through the same process.
+2. **Cobogo Launchpad** is an **** education and acceleration program for Creators who want to become professionals. It's focused on mastering how to incorporate and run a business, raising capital and use cutting edge tools to launch their own public offering. In addition to participating in a community with other Creators who are going through the same process.
 3. **Cobogo DAO** is an investment DAO built together with OrigamiDAO, using the Origami Framework. Focused in investing in early/seed stage Creators from all over the world, with the biggest growth potential.
 
 
